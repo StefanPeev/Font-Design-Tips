@@ -3,7 +3,8 @@
 ##  Table of content
 <details>
   <summary>Click me to open the Table of Content</summary>  
-  
+    
++ <a id=tc_numbers></a>0123456789. Numbers [:arrows_counterclockwise:](#numbers)  
 + <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
 + <a id=tc_dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#dotabove)  
 + <a id=tc_breve></a>ĂĔĞĬŎŬ ăĕğĭŏŭ. Glyphs with breve [:arrows_counterclockwise:](#breve)  
@@ -13,9 +14,14 @@
   
 Latin texts for evaluating typefaces in development.  
   
+## <a id=numbers></a>0123456789. Numbers. Proportional Figures [:arrows_counterclockwise:](#tc_numbers)   
+`Tag: ‘pnum’: ` **0123456789**  
+`Unicode names: ` /zero /one /two /three /four /five /six /seven /eight /nine  
+`Base glyphs: ` 0123456789  
+  
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
 `Composite glyphs: ` **ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ**  
-`Base glyphs: ` AEINOƠUƯYW aeinoơuưyw
+`Base glyphs: ` AEINOƠUƯYW aeinoơuưyw  
     
 <details>
   <summary>Click here for a `Table of Details`</summary>  
