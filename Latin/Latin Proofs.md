@@ -14,15 +14,11 @@
   
 Latin texts for evaluating typefaces in development.  
   
-## <a id=numbers></a>0123456789. Numbers. Proportional Figures [:arrows_counterclockwise:](#tc_numbers)   
-`Tag: ‘pnum’: ` **0123456789**  
-`Unicode names: ` /zero /one /two /three /four /five /six /seven /eight /nine  
-`Base glyphs: ` 0123456789  
-  
-## <a id=numbers></a>0123456789. Numbers. Oldstyle Figures [:arrows_counterclockwise:](#tc_numbers)   
+## <a id=numbers></a>0123456789. Numbers [:arrows_counterclockwise:](#tc_numbers)   
 | OpenType Feature / Tag | Glyphs | Unicode names | Base glyphs |  
 |:---- |:---- |:---- |:---- |  
-| Oldstyle Figures / `‘onum’` | **0123456789** | /zero.oldstyle /one.oldstyle /two.oldstyle /three.oldstyle /four.oldstyle /five.oldstyle /six.oldstyle /seven.oldstyle /eight.oldstyle /nine.oldstyle /zero.osf /one.osf /two.osf /three.osf /four.osf /five.osf /six.osf /seven.osf /eight.osf /nine.osf | 0123456789 /zero /one /two /three /four /five /six /seven /eight /nine |  
+| `Proportional Figures` / `‘pnum’` | **0123456789** | /zero /one /two /three /four /five /six /seven /eight /nine | 0123456789 /zero /one /two /three /four /five /six /seven /eight /nine |  
+| `Oldstyle Figures` / `‘onum’` | **0123456789** | /zero.oldstyle /one.oldstyle /two.oldstyle /three.oldstyle /four.oldstyle /five.oldstyle /six.oldstyle /seven.oldstyle /eight.oldstyle /nine.oldstyle OR /zero.osf /one.osf /two.osf /three.osf /four.osf /five.osf /six.osf /seven.osf /eight.osf /nine.osf | 0123456789 /zero /one /two /three /four /five /six /seven /eight /nine |  
      
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
 `Composite glyphs: ` **ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ**  
