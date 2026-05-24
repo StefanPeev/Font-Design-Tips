@@ -20,9 +20,9 @@ Latin texts for evaluating typefaces in development.
 `Base glyphs: ` 0123456789  
   
 ## <a id=numbers></a>0123456789. Numbers. Oldstyle Figures [:arrows_counterclockwise:](#tc_numbers)   
-| Tag | Glyphs | Unicode names | Base glyphs |  
+| OpenType Feature / Tag | Glyphs | Unicode names | Base glyphs |  
 |:---- |:---- |:---- |:---- |  
-| `‘onum’` | **0123456789** | /zero.oldstyle /one.oldstyle /two.oldstyle /three.oldstyle /four.oldstyle /five.oldstyle /six.oldstyle /seven.oldstyle /eight.oldstyle /nine.oldstyle /zero.osf /one.osf /two.osf /three.osf /four.osf /five.osf /six.osf /seven.osf /eight.osf /nine.osf | 0123456789 |  
+| Oldstyle Figures / `‘onum’` | **0123456789** | /zero.oldstyle /one.oldstyle /two.oldstyle /three.oldstyle /four.oldstyle /five.oldstyle /six.oldstyle /seven.oldstyle /eight.oldstyle /nine.oldstyle /zero.osf /one.osf /two.osf /three.osf /four.osf /five.osf /six.osf /seven.osf /eight.osf /nine.osf | 0123456789 /zero /one /two /three /four /five /six /seven /eight /nine |  
      
 ## <a id=graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#tc_graveabove)   
 `Composite glyphs: ` **ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ**  
