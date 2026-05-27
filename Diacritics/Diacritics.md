@@ -14,8 +14,9 @@ Glyphs for evaluating fonts in development.
 
 <img src="https://github.com/StefanPeev/Font-Design-Tips/blob/main/images/Types_of_Hook_diacritics.svg" />  
   
-||||||
-|--- |--- |--- |--- |--- |
+Letters  
+| Letter | Letter | Letter | [Unicode] name | Hook position |
+|:---- |:---- |:---- |:---- |:---- |
 ||ᶏ||A with retroflex hook|bottom|
 ||ᶐ||Script A or alpha with retroflex hook|bottom|
 |Ɓ|ɓ|𐞅|B with hook|top|
@@ -23,12 +24,12 @@ Glyphs for evaluating fonts in development.
 ||ᶀ||B with palatal hook|bottom|
 |Ƈ|ƈ||C with hook|top|
 |Ꞔ|ꞔ||C with palatal hook|bottom|
-|C̢|𝼝||C with retroflex hook[3]|bottom|
+|C̢|𝼝||C with retroflex hook|bottom|
 ||ɕ|ᶝ|C with curl|bottom|
 ||𝼏||Stretched C with curl|bottom|
-|Ɗ|ɗ|𐞌|D with hook[2]|top|
-|Ɖ|ɖ|𐞋|African D or D with tail[4]|bottom|
-||ᶑ|𐞍|D with hook and tail[2]|top and bottom|
+|Ɗ|ɗ|𐞌|D with hook|top|
+|Ɖ|ɖ|𐞋|African D or D with tail|bottom|
+||ᶑ|𐞍|D with hook and tail|top and bottom|
 ||ᶁ||D with palatal hook|bottom|
 ||𝼥||D with left hook|left|
 ||ȡ||D with curl|bottom|
@@ -44,28 +45,28 @@ Glyphs for evaluating fonts in development.
 ||ᶔ||Reversed open E or epsilon with retroflex hook|bottom|
 |Ƒ|ƒ||F with hook|bottom|
 ||ᶂ||F with palatal hook|bottom|
-|Ɠ|ɠ|𐞓|G with hook[2]|top|
-||ʛ|𐞔|Small capital g with hook[2]|top|
+|Ɠ|ɠ|𐞓|G with hook|top|
+||ʛ|𐞔|Small capital g with hook|top|
 ||ᶃ||G with palatal hook|right|
 ||ꬶ||Script G with crossed-tail|bottom|
 |Ɦ|ɦ|ʱ|H with hook|top|
 ||ꞕ||H with palatal hook|bottom right|
 |Ꜧ|ꜧ|ꭜ|Heng|bottom|
-||ɧ|𐞗|Heng with hook[4]|top|
+||ɧ|𐞗|Heng with hook|top|
 ||ʮ||Turned H with fishhook|top|
 ||ʯ||Turned H with fishhook and tail|top and bottom|
 ||ᶖ||I with retroflex hook|bottom|
 |Ʝ|ʝ|ᶨ|J with crossed-tail|bottom|
-||ʄ|𐞘|Dotless J with stroke and hook[2]|top|
+||ʄ|𐞘|Dotless J with stroke and hook|top|
 |Ƙ|ƙ||K with hook|top|
 ||ᶄ||K with palatal hook|bottom|
 ||ᶅ|ᶅ|L with palatal hook|bottom|
 ||𝼑||L with fishhook[5]|right|
 ||𝼦||L with left hook|left|
 ||ɭ|ᶩ|L with retroflex hook|bottom|
-||ꞎ|𐞝|L with retroflex hook and belt[6][7]|bottom|
+||ꞎ|𐞝|L with retroflex hook and belt|bottom|
 ||ȴ||L with curl|bottom|
-||𝼅|𐞟|Lezh with retroflex hook[7]|bottom|
+||𝼅|𐞟|Lezh with retroflex hook|bottom|
 |Ɱ|ɱ|ᶬ|M with hook|bottom|
 ||ᶆ||M with palatal hook|bottom|
 ||ꬺ||M with crossed-tail|bottom|
@@ -77,8 +78,8 @@ Glyphs for evaluating fonts in development.
 ||ȵ||N with curl|bottom|
 |Ŋ|ŋ|ᵑ|Eng|bottom|
 ||ꬼ||Eng with crossed-tail|bottom|
-||𝼔||Eng with palatal hook[5]|bottom|
-||𝼛||O with retroflex hook[5]|bottom|
+||𝼔||Eng with palatal hook|bottom|
+||𝼛||O with retroflex hook|bottom|
 ||ᶗ||Open O with retroflex hook|bottom|
 |Ƥ|ƥ||P with hook|top|
 ||ᶈ||P with palatal hook|right|
@@ -86,12 +87,12 @@ Glyphs for evaluating fonts in development.
 |Ꝕ|ꝕ||P with squirrel tail|left top|
 ||ʠ||Q with hook|top|
 |Ɋ|ɋ||Small Q with hook tail|bottom|
-|Ɽ|ɽ|𐞨|R with tail[4]|bottom left|
+|Ɽ|ɽ|𐞨|R with tail|bottom left|
 ||ᶉ||R with palatal hook|bottom|
 ||𝼨||R with left hook|left|
 ||ɻ|ʵ|Turned R with hook|bottom|
-||𝼈||Turned R with long leg and retroflex hook[5]|bottom|
-||𝼕||Turned R with palatal hook[5]|bottom|
+||𝼈||Turned R with long leg and retroflex hook|bottom|
+||𝼕||Turned R with palatal hook|bottom|
 ||ⱹ||Turned R with tail|top|
 ||ꭉ||R with crossed-tail|bottom|
 ||ꭊ||Double R with crossed-tail|bottom|
@@ -107,8 +108,8 @@ Glyphs for evaluating fonts in development.
 |Ƭ|ƭ||T with hook|top|
 ||ƫ|ƫ|T with palatal hook|bottom|
 ||𝼪||T with left hook|left|
-|Ʈ|ʈ|𐞯|T with retroflex hook[4]|bottom|
-||𝼉||T with top hook and retroflex hook[5]|top and bottom|
+|Ʈ|ʈ|𐞯|T with retroflex hook|bottom|
+||𝼉||T with top hook and retroflex hook|top and bottom|
 ||ȶ||T with curl|bottom|
 ||𝼍||Turned T with curl|bottom|
 ||ʨ|𐞫|Tc digraph with curl|bottom|
@@ -116,7 +117,7 @@ Glyphs for evaluating fonts in development.
 ||ꭒ|ꭟ|U with left hook|top left|
 ||ᶙ||U with retroflex hook|bottom|
 ||ᶌ||V with palatal hook|bottom|
-||ⱱ|𐞰|V with right hook[8][4]|top right|
+||ⱱ|𐞰|V with right hook|top right|
 |Ʋ|ʋ|ᶹ|Script V or V with hook|top right|
 ||ⱴ||V with curl|top left|
 |Ⱳ|ⱳ||W with hook|top right|
@@ -128,11 +129,11 @@ Glyphs for evaluating fonts in development.
 ||||Z with top hook|top right or top left|
 ||ʑ|ᶽ|Z with curl|bottom|
 |Ɀ|ɀ||Z with swash tail|bottom|
-||𝼘||Ezh with palatal hook[5]|right|
+||𝼘||Ezh with palatal hook|right|
 ||ᶚ||Ezh with retroflex hook|bottom|
 ||ʓ||Ezh with curl|bottom|
 ||ƺ||Ezh with tail|bottom|
-||𝼊|𐞹|Retroflex click with retroflex hook[9][2]|bottom|
+||𝼊|𐞹|Retroflex click with retroflex hook|bottom|
 ||𝼎||Inverted glottal stop with curl|bottom|
 |Ꜭ|ꜭ||Cuatrillo tail|bottom|
 |Ꜯ|ꜯ||Cuatrillo hook|bottom|
