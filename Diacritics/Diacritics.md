@@ -5,6 +5,7 @@
   <summary>Click me to open the Table of Content</summary>  
     
 + <a id=tc_hook></a>Hook (diacritic) [:arrows_counterclockwise:](#hook)  
++ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
 Glyphs for evaluating fonts in development.  
@@ -148,3 +149,11 @@ Glyphs for evaluating fonts in development.
 |Ӊ|ӊ||En with tail|bottom right|
 |Ꚋ|ꚋ||Te with middle hook|right|
 |Ӽ|ӽ||Ha with hook|bottom right|
+  
+  <details>
+### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+    
+<summary>Click me to open the list of Sources</summary>  
+  
++ Wikipedia. [Hook (diacritic)](https://en.wikipedia.org/wiki/Hook_(diacritic))  
+</details>  
