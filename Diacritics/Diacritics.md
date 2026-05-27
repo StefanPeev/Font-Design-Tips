@@ -150,9 +150,9 @@ Glyphs for evaluating fonts in development.
 |Ꚋ|ꚋ||Te with middle hook|right|
 |Ӽ|ӽ||Ha with hook|bottom right|
   
-  <details>
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
-    
+  
+  <details>
 <summary>Click me to open the list of Sources</summary>  
   
 + Wikipedia. [Hook (diacritic)](https://en.wikipedia.org/wiki/Hook_(diacritic))  
