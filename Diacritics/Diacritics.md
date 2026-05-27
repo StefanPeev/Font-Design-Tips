@@ -14,7 +14,9 @@ Glyphs for evaluating fonts in development.
 
 <img src="https://github.com/StefanPeev/Font-Design-Tips/blob/main/images/Types_of_Hook_diacritics.svg" />  
   
-Letters  
+In typesetting, the hook or tail is a diacritic mark attached to letters in many alphabets. In shape it looks like a hook and it can be attached below as a descender, on top as an ascender and sometimes to the side. The orientation of the hook can change its meaning: when it is below and curls to the left it can be interpreted as a palatal hook, and when it curls to the right is called hook tail or tail and can be interpreted as a retroflex hook. It should not be mistaken with the hook above, a diacritical mark used in Vietnamese, or the rhotic hook, used in the International Phonetic Alphabet. [(Wikipedia)](https://en.wikipedia.org/wiki/Hook_(diacritic))  
+  
+### Letters with hook  
 | Letter | Letter | Letter | [Unicode] name | Hook position |
 |:---- |:---- |:---- |:---- |:---- |
 ||ᶏ||A with retroflex hook|bottom|
