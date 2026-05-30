@@ -573,5 +573,11 @@
 ++ GitHub. [Adobe Cyrillic Character Sets 1](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-1.html)  
 ++ GitHub. [Adobe Cyrillic Character Sets 2](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-2.html)  
 ++ GitHub. [Adobe Cyrillic Character Sets 3](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-3.html)  
++ The Unicode Standard, Version 17.0. [Cyrillic. Range: 0400–04FF. Number of assigned Characters: 256](https://www.unicode.org/charts/PDF/U0400.pdf)  
++ The Unicode Standard, Version 17.0. [Cyrillic Supplement. Range: 0500–052F. Number of assigned Characters: 48](https://www.unicode.org/charts/PDF/U0500.pdf)  
++ The Unicode Standard, Version 17.0. [Cyrillic Extended-A. Range: 2DE0–2DFF. Number of assigned Characters: 32](https://www.unicode.org/charts/PDF/U2DE0.pdf)  
++ The Unicode Standard, Version 17.0. [Cyrillic Extended-B. Range: A640–A69F. Number of assigned Characters: 96](https://www.unicode.org/charts/PDF/UA640.pdf)  
++ The Unicode Standard, Version 17.0. [Cyrillic Extended-C. Range: 1C80–1C8F. Number of assigned Characters: 9](https://www.unicode.org/charts/PDF/U1C80.pdf)  
++ The Unicode Standard, Version 17.0. [Cyrillic Extended-D. Range: 1E030–1E08F. Number of assigned Characters: 63](https://www.unicode.org/charts/PDF/U1E030.pdf)  
 </details>  
   
