@@ -16,7 +16,7 @@
 ### <a id=accs_1></a>Adobe Cyrillic Character Sets 1 [:arrows_counterclockwise:](#tc_accs_1)   
     
 <details>
-  <summary>Click here for a `Table of Details`</summary>  
+  <summary>Click here for a `Table of Details. Adobe Cyrillic Character Sets 1`</summary>  
       
 | Unicode | Character | Glyph name | Character name | Notes |  
 | --- | --- | --- | --- | --- |  
@@ -132,7 +132,7 @@
 ### <a id=accs_2></a>Adobe Cyrillic Character Sets 2 [:arrows_counterclockwise:](#tc_accs_2)   
   
 <details>
-  <summary>Click here for a `Table of Details`</summary>  
+  <summary>Click here for a `Table of Details. Adobe Cyrillic Character Sets 2`</summary>  
       
 | Unicode | Character | Glyph name | Character name | Added | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -298,8 +298,10 @@
 ### <a id=accs_3></a>Adobe Cyrillic Character Sets 3 [:arrows_counterclockwise:](#tc_accs_3)   
     
 <details>
-  <summary>Click here for a `Table of Details`</summary>  
-      
+  <summary>Click here for a `Table of Details. Adobe Cyrillic Character Sets 3`</summary>  
+
+#### Adobe Cyrillic 3 table (combined only)  
+        
 | Unicode | Character | Glyph name | Character name | Added |
 | --- | --- | --- | --- | --- |
 | 0404,0301 | Є́ | n/a | CYRILLIC CAPITAL LETTER UKRAINIAN IE , COMBINING ACUTE ACCENT | • |
@@ -349,8 +351,10 @@
 | 04AE,0301 | Ү́ | n/a | CYRILLIC CAPITAL LETTER STRAIGHT U , COMBINING ACUTE ACCENT | • |
 | 04AE,0306 | Ү̆ | n/a | CYRILLIC CAPITAL LETTER STRAIGHT U , COMBINING BREVE | • |
 | 04AF,0301 | ү́ | n/a | CYRILLIC SMALL LETTER STRAIGHT U , COMBINING ACUTE ACCENT | • |
-| 04AF,0306 | ү̆ | n/a | CYRILLIC SMALL LETTER STRAIGHT U , COMBINING BREVE | • |
-
+| 04AF,0306 | ү̆ | n/a | CYRILLIC SMALL LETTER STRAIGHT U , COMBINING BREVE | • |  
+  
+#### Adobe Cyrillic 3 table (pre-composed only)  
+  
 | Unicode | Character | Glyph name | Character name | Added | Notes |
 | --- | --- | --- | --- | --- | --- |
 | 0400 | Ѐ | uni0400 | CYRILLIC CAPITAL LETTER IE WITH GRAVE |  |  |
