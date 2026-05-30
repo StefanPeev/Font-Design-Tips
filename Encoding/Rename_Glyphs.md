@@ -13,10 +13,10 @@
   
 ##  Adobe Cyrillic Character Sets  
   
-### <a id=accs_1></a>Adobe Cyrillic Character Sets 1 [:arrows_counterclockwise:](#tc_accs_1)   
+#### <a id=accs_1></a>Character Set 1 [:arrows_counterclockwise:](#tc_accs_1)   
     
 <details>
-  <summary>Click here for a `Table of Details. Adobe Cyrillic Character Sets 1`</summary>  
+  <summary>Click here for a Table of Details. Character Set 1</summary>  
       
 | Unicode | Character | Glyph name | Character name | Notes |  
 | --- | --- | --- | --- | --- |  
@@ -129,10 +129,10 @@
 | 2116 | № | uni2116 | NUMERO SIGN |  |  
 </details>  
   
-### <a id=accs_2></a>Adobe Cyrillic Character Sets 2 [:arrows_counterclockwise:](#tc_accs_2)   
+#### <a id=accs_2></a>Character Set 2 [:arrows_counterclockwise:](#tc_accs_2)   
   
 <details>
-  <summary>Click here for a `Table of Details. Adobe Cyrillic Character Sets 2`</summary>  
+  <summary>Click here for a Table of Details. Character Set 2</summary>  
       
 | Unicode | Character | Glyph name | Character name | Added | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -295,10 +295,10 @@
   
 ##  Adobe Cyrillic Character Sets  
   
-### <a id=accs_3></a>Adobe Cyrillic Character Sets 3 [:arrows_counterclockwise:](#tc_accs_3)   
+#### <a id=accs_3></a>Character Set 3 [:arrows_counterclockwise:](#tc_accs_3)   
     
 <details>
-  <summary>Click here for a `Table of Details. Adobe Cyrillic Character Sets 3`</summary>  
+  <summary>Click here for a Table of Details. Character Set 3</summary>  
 
 #### Adobe Cyrillic 3 table (combined only)  
         
@@ -571,5 +571,7 @@
   
 + GitHub. [Adobe Cyrillic Character Sets](https://github.com/StefanPeev/adobe-cyrillic-charsets)  
 ++ GitHub. [Adobe Cyrillic Character Sets 1](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-1.html)  
+++ GitHub. [Adobe Cyrillic Character Sets 2](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-2.html)  
+++ GitHub. [Adobe Cyrillic Character Sets 3](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-3.html)  
 </details>  
   
