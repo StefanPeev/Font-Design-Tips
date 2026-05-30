@@ -568,6 +568,7 @@
   <summary>Click me to open the list of Sources</summary>  
   
 + Alphabet. [Alphabet Type](https://www.alphabet-type.com/)  
++ GitHub. [Adobe Latin Character Sets](https://github.com/adobe-type-tools/adobe-latin-charsets)  
 + GitHub. [Adobe Cyrillic Character Sets](https://github.com/StefanPeev/adobe-cyrillic-charsets)  
 ++ GitHub. [Adobe Cyrillic Character Sets 1](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-1.html)  
 ++ GitHub. [Adobe Cyrillic Character Sets 2](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-2.html)  
