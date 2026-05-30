@@ -293,8 +293,6 @@
 | 2116 | № | uni2116 | NUMERO SIGN |  |  |  
 </details>  
   
-##  Adobe Cyrillic Character Sets  
-  
 #### <a id=accs_3></a>Character Set 3 [:arrows_counterclockwise:](#tc_accs_3)   
     
 <details>
@@ -569,6 +567,7 @@
 <details>
   <summary>Click me to open the list of Sources</summary>  
   
++ Alphabet. [Alphabet Type](https://www.alphabet-type.com/)  
 + GitHub. [Adobe Cyrillic Character Sets](https://github.com/StefanPeev/adobe-cyrillic-charsets)  
 ++ GitHub. [Adobe Cyrillic Character Sets 1](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-1.html)  
 ++ GitHub. [Adobe Cyrillic Character Sets 2](https://adobe-type-tools.github.io/adobe-cyrillic-charsets/adobe-cyrillic-2.html)  
