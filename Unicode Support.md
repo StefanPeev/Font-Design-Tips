@@ -16,6 +16,7 @@
 + Cyrillic Extended-A 2DE0 : 2DFF (32)  
 + Cyrillic Extended-B A640 : A69F (96)  
 + Cyrillic Extended-C 1C80 : 1C8F (9)  
++ Cyrillic Extended-D 1E030 : 1E08F (63)  
 + Armenian 0530 : 058F (91)  
 + Hebrew 0590 : 05FF (88)  
 + IPA Extensions 0250 : 02AF (96)  

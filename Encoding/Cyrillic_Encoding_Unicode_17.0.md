@@ -1,3 +1,12 @@
+# Cyrillic Unicode Support  
+  
++ Cyrillic 0400 : 04FF (256)  
++ Cyrillic Supplement 0500 : 052F (48)  
++ Cyrillic Extended-A 2DE0 : 2DFF (32)  
++ Cyrillic Extended-B A640 : A69F (96)  
++ Cyrillic Extended-C 1C80 : 1C8F (9)  
++ Cyrillic Extended-D 1E030 : 1E08F (63)  
+    
 | Glyph | Unicode name      | FontLab name               | Alternative name            | AGLFN             |
 | :----- | :----------------- | :-------------------------- | :--------------------------- | :----------------- |
 | Ѐ     | uni0400           | Iegravecyr                 | Iegrave-cy                  | uni0400           |
