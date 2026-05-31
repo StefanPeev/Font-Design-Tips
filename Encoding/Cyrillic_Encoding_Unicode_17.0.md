@@ -1,14 +1,14 @@
-| Glyph | Unicode name      | FontLab name               | Alternative name            |
-| ----- | ----------------- | -------------------------- | --------------------------- |
-| Ѐ     | uni0400           | Iegravecyr                 | Iegrave-cy                  |
-| Ё     | uni0401           | Iocyr                      | Io-cy                       |
-| Ђ     | uni0402           | Djecyr                     | Dje-cy                      |
-| Ѓ     | uni0403           | Gjecyr                     | Gje-cy                      |
-| Є     | uni0404           | Eukrcyr                    | E-cy                        |
-| Ѕ     | uni0405           | Dzecyr                     | Dze-cy                      |
-| І     | uni0406           | Iukrcyr                    | I-cy                        |
-| Ї     | uni0407           | Yukrcyr                    | Yi-cy                       |
-| Ј     | uni0408           | Jecyr                      | Je-cy                       |
+| Glyph | Unicode name | FontLab name | Alternative name |
+| ----- | ------------ | ------------ | ---------------- |
+| Ѐ     | uni0400      | Iegravecyr   | Iegrave-cy       |
+| Ё     | uni0401      | Iocyr        | Io-cy            |
+| Ђ     | uni0402      | Djecyr       | Dje-cy           |
+| Ѓ     | uni0403      | Gjecyr       | Gje-cy           |
+| Є     | uni0404      | Eukrcyr      | E-cy             |
+| Ѕ     | uni0405      | Dzecyr       | Dze-cy           |
+| І     | uni0406      | Iukrcyr      | I-cy             |
+| Ї     | uni0407      | Yukrcyr      | Yi-cy            |
+| Ј     | uni0408      | Jecyr        | Je-cy            |
 | Љ     | uni0409           | Ljecyr                     | Lje-cy                      |
 | Њ     | uni040A           | Njecyr                     | Nje-cy                      |
 | Ћ     | uni040B           | Tshecyr                    | Tshe-cy                     |
