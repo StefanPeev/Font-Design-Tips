@@ -1,536 +1,536 @@
-| Glyph  | Unicode name  | FontLab name  | Alternative name  |
-| :----- | :------------ | :------------ | :---------------- |
-| Ѐ     | uni0400      | Iegravecyr   | Iegrave-cy       |
-| Ё     | uni0401      | Iocyr        | Io-cy            |
-| Ђ     | uni0402      | Djecyr       | Dje-cy           |
-| Ѓ     | uni0403      | Gjecyr       | Gje-cy           |
-| Є     | uni0404      | Eukrcyr      | E-cy             |
-| Ѕ     | uni0405      | Dzecyr       | Dze-cy           |
-| І     | uni0406      | Iukrcyr      | I-cy             |
-| Ї     | uni0407      | Yukrcyr      | Yi-cy            |
-| Ј     | uni0408      | Jecyr        | Je-cy            |
-| Љ     | uni0409           | Ljecyr                     | Lje-cy                      |
-| Њ     | uni040A           | Njecyr                     | Nje-cy                      |
-| Ћ     | uni040B           | Tshecyr                    | Tshe-cy                     |
-| Ќ     | uni040C           | Kjecyr                     | Kje-cy                      |
-| Ѝ     | uni040D           | Igravecyr                  | Iigrave-cy                  |
-| Ў     | uni040E           | Ushortcyr                  | Ushort-cy                   |
-| Џ     | uni040F           | Dzhecyr                    | Dzhe-cy                     |
-| А     | uni0410           | Acyr                       | A-cy                        |
-| Б     | uni0411           | Becyr                      | Be-cy                       |
-| В     | uni0412           | Vecyr                      | Ve-cy                       |
-| Г     | uni0413           | Gecyr                      | Ge-cy                       |
-| Д     | uni0414           | Decyr                      | De-cy                       |
-| Е     | uni0415           | Iecyr                      | Ie-cy                       |
-| Ж     | uni0416           | Zhecyr                     | Zhe-cy                      |
-| З     | uni0417           | Zecyr                      | Ze-cy                       |
-| И     | uni0418           | Icyr                       | Ii-cy                       |
-| Й     | uni0419           | Ishortcyr                  | Iishort-cy                  |
-| К     | uni041A           | Kacyr                      | Ka-cy                       |
-| Л     | uni041B           | Elcyr                      | El-cy                       |
-| М     | uni041C           | Emcyr                      | Em-cy                       |
-| Н     | uni041D           | Encyr                      | En-cy                       |
-| О     | uni041E           | Ocyr                       | O-cy                        |
-| П     | uni041F           | Pecyr                      | Pe-cy                       |
-| Р     | uni0420           | Ercyr                      | Er-cy                       |
-| С     | uni0421           | Escyr                      | Es-cy                       |
-| Т     | uni0422           | Tecyr                      | Te-cy                       |
-| У     | uni0423           | Ucyr                       | U-cy                        |
-| Ф     | uni0424           | Efcyr                      | Ef-cy                       |
-| Х     | uni0425           | Hacyr                      | Ha-cy                       |
-| Ц     | uni0426           | Tsecyr                     | Tse-cy                      |
-| Ч     | uni0427           | Checyr                     | Che-cy                      |
-| Ш     | uni0428           | Shacyr                     | Sha-cy                      |
-| Щ     | uni0429           | Shchacyr                   | Shcha-cy                    |
-| Ъ     | uni042A           | Hardcyr                    | Hardsign-cy                 |
-| Ы     | uni042B           | Ylongcyr                   | Yeru-cy                     |
-| Ь     | uni042C           | Softcyr                    | Softsign-cy                 |
-| Э     | uni042D           | Ereversedcyr               | Ereversed-cy                |
-| Ю     | uni042E           | Yucyr                      | Iu-cy                       |
-| Я     | uni042F           | Yacyr                      | Ia-cy                       |
-| а     | uni0430           | acyr                       | a-cy                        |
-| б     | uni0431           | becyr                      | be-cy                       |
-| в     | uni0432           | vecyr                      | ve-cy                       |
-| г     | uni0433           | gecyr                      | ge-cy                       |
-| д     | uni0434           | decyr                      | de-cy                       |
-| е     | uni0435           | iecyr                      | ie-cy                       |
-| ж     | uni0436           | zhecyr                     | zhe-cy                      |
-| з     | uni0437           | zecyr                      | ze-cy                       |
-| и     | uni0438           | icyr                       | ii-cy                       |
-| й     | uni0439           | ishortcyr                  | iishort-cy                  |
-| к     | uni043A           | kacyr                      | ka-cy                       |
-| л     | uni043B           | elcyr                      | el-cy                       |
-| м     | uni043C           | emcyr                      | em-cy                       |
-| н     | uni043D           | encyr                      | en-cy                       |
-| о     | uni043E           | ocyr                       | o-cy                        |
-| п     | uni043F           | pecyr                      | pe-cy                       |
-| р     | uni0440           | ercyr                      | er-cy                       |
-| с     | uni0441           | escyr                      | es-cy                       |
-| т     | uni0442           | tecyr                      | te-cy                       |
-| у     | uni0443           | ucyr                       | u-cy                        |
-| ф     | uni0444           | efcyr                      | ef-cy                       |
-| х     | uni0445           | hacyr                      | ha-cy                       |
-| ц     | uni0446           | tsecyr                     | tse-cy                      |
-| ч     | uni0447           | checyr                     | che-cy                      |
-| ш     | uni0448           | shacyr                     | sha-cy                      |
-| щ     | uni0449           | shchacyr                   | shcha-cy                    |
-| ъ     | uni044A           | hardcyr                    | hardsign-cy                 |
-| ы     | uni044B           | ylongcyr                   | yeru-cy                     |
-| ь     | uni044C           | softcyr                    | softsign-cy                 |
-| э     | uni044D           | ereversedcyr               | ereversed-cy                |
-| ю     | uni044E           | yucyr                      | iu-cy                       |
-| я     | uni044F           | yacyr                      | ia-cy                       |
-| ѐ     | uni0450           | iegravecyr                 | iegrave-cy                  |
-| ё     | uni0451           | iocyr                      | io-cy                       |
-| ђ     | uni0452           | djecyr                     | dje-cy                      |
-| ѓ     | uni0453           | gjecyr                     | gje-cy                      |
-| є     | uni0454           | eukrcyr                    | e-cy                        |
-| ѕ     | uni0455           | dzecyr                     | dze-cy                      |
-| і     | uni0456           | iukrcyr                    | i-cy                        |
-| ї     | uni0457           | yukrcyr                    | yi-cy                       |
-| ј     | uni0458           | jecyr                      | je-cy                       |
-| љ     | uni0459           | ljecyr                     | lje-cy                      |
-| њ     | uni045A           | njecyr                     | nje-cy                      |
-| ћ     | uni045B           | tshecyr                    | tshe-cy                     |
-| ќ     | uni045C           | kjecyr                     | kje-cy                      |
-| ѝ     | uni045D           | igravecyr                  | iigrave-cy                  |
-| ў     | uni045E           | ushortcyr                  | ushort-cy                   |
-| џ     | uni045F           | dzhecyr                    | dzhe-cy                     |
-| Ѡ     | uni0460           | Omegacyr                   | Omega-cy                    |
-| ѡ     | uni0461           | omegacyr                   | omega-cy                    |
-| Ѣ     | uni0462           | Yatcyr                     | Yat-cy                      |
-| ѣ     | uni0463           | yatcyr                     | yat-cy                      |
-| Ѥ     | uni0464           | Eiotifiedcyr               | Eiotified-cy                |
-| ѥ     | uni0465           | eiotifiedcyr               | eiotified-cy                |
-| Ѧ     | uni0466           | Yuslittlecyr               | Yuslittle-cy                |
-| ѧ     | uni0467           | yuslittlecyr               | yuslittle-cy                |
-| Ѩ     | uni0468           | Yuslittleiotifiedcyr       | Yuslittleiotified-cy        |
-| ѩ     | uni0469           | yuslittleiotifiedcyr       | yuslittleiotified-cy        |
-| Ѫ     | uni046A           | Yusbigcyr                  | Yusbig-cy                   |
-| ѫ     | uni046B           | yusbigcyr                  | yusbig-cy                   |
-| Ѭ     | uni046C           | Yusbigiotifiedcyr          | Yusbigiotified-cy           |
-| ѭ     | uni046D           | yusbigiotifiedcyr          | yusbigiotified-cy           |
-| Ѯ     | uni046E           | Ksicyr                     | Ksi-cy                      |
-| ѯ     | uni046F           | ksicyr                     | ksi-cy                      |
-| Ѱ     | uni0470           | Psicyr                     | Psi-cy                      |
-| ѱ     | uni0471           | psicyr                     | psi-cy                      |
-| Ѳ     | uni0472           | Fitacyr                    | Fita-cy                     |
-| ѳ     | uni0473           | fitacyr                    | fita-cy                     |
-| Ѵ     | uni0474           | Izhitsacyr                 | Izhitsa-cy                  |
-| ѵ     | uni0475           | izhitsacyr                 | izhitsa-cy                  |
-| Ѷ     | uni0476           | Izhitsagravedblcyr         | Izhitsadblgrave-cy          |
-| ѷ     | uni0477           | izhitsagravedblcyr         | izhitsadblgrave-cy          |
-| Ѹ     | uni0478           | Ukcyr                      | Uk-cy                       |
-| ѹ     | uni0479           | ukcyr                      | uk-cy                       |
-| Ѻ     | uni047A           | Omegaroundcyr              | Omegaroundcyr               |
-| ѻ     | uni047B           | omegaroundcyr              | omegaroundcyr               |
-| Ѽ     | uni047C           | Omegatitlocyr              | Omegatitlocyr               |
-| ѽ     | uni047D           | omegatitlocyr              | omegatitlocyr               |
-| Ѿ     | uni047E           | Otcyr                      | Otcyr                       |
-| ѿ     | uni047F           | otcyr                      | otcyr                       |
-| Ҁ     | uni0480           | Koppacyr                   | Koppa-cy                    |
-| ҁ     | uni0481           | koppacyr                   | koppa-cy                    |
-| ҂     | uni0482           | thousandscyr               | thousand-cy                 |
-| ҃     | uni0483           | titlocombcyr               | titlocomb-cy                |
-| ҄     | uni0484           | palatcombcyr               | palatalizationcomb-cy       |
-| ҇     | uni0487           | pokrytiecombcyr            | pokrytiecomb-cy             |
-| ҈     | uni0488           | hundredthousandscombcyr    | hundredthousandssigncomb-cy |
-| ҉     | uni0489           | millionscombcyr            | millionssigncomb-cy         |
-| Ҋ     | uni048A           | Ishortsharptailcyr         | Iishorttail-cy              |
-| ҋ     | uni048B           | ishortsharptailcyr         | iishorttail-cy              |
-| Ҍ     | uni048C           | Semisoftcyr                | Semisoftsign-cy             |
-| ҍ     | uni048D           | semisoftcyr                | semisoftsign-cy             |
-| Ҏ     | uni048E           | Ertickcyr                  | Ertick-cy                   |
-| ҏ     | uni048F           | ertickcyr                  | ertick-cy                   |
-| Ґ     | uni0490           | Geupcyr                    | Gheupturn-cy                |
-| ґ     | uni0491           | geupcyr                    | gheupturn-cy                |
-| Ғ     | uni0492           | Gestrokecyr                | Ghestroke-cy                |
-| ғ     | uni0493           | gestrokecyr                | ghestroke-cy                |
-| Ҕ     | uni0494           | Gehookcyr                  | Ghemiddlehook-cy            |
-| ҕ     | uni0495           | gehookcyr                  | ghemiddlehook-cy            |
-| Җ     | uni0496           | Zhetailcyr                 | Zhedescender-cy             |
-| җ     | uni0497           | zhetailcyr                 | zhedescender-cy             |
-| Ҙ     | uni0498           | Zetailcyr                  | Zedescender-cy              |
-| ҙ     | uni0499           | zetailcyr                  | zedescender-cy              |
-| Қ     | uni049A           | Katailcyr                  | Kadescender-cy              |
-| қ     | uni049B           | katailcyr                  | kadescender-cy              |
-| Ҝ     | uni049C           | Kaverticalstrokecyr        | Kaverticalstroke-cy         |
-| ҝ     | uni049D           | kaverticalstrokecyr        | kaverticalstroke-cy         |
-| Ҟ     | uni049E           | Kastrokecyr                | Kastroke-cy                 |
-| ҟ     | uni049F           | kastrokecyr                | kastroke-cy                 |
-| Ҡ     | uni04A0           | Kabashkcyr                 | Kabashkir-cy                |
-| ҡ     | uni04A1           | kabashkcyr                 | kabashkir-cy                |
-| Ң     | uni04A2           | Entailcyr                  | Endescender-cy              |
-| ң     | uni04A3           | entailcyr                  | endescender-cy              |
-| Ҥ     | uni04A4           | Engecyr                    | Enghe-cy                    |
-| ҥ     | uni04A5           | engecyr                    | enghe-cy                    |
-| Ҧ     | uni04A6           | Pehookcyr                  | Pemiddlehook-cy             |
-| ҧ     | uni04A7           | pehookcyr                  | pemiddlehook-cy             |
-| Ҩ     | uni04A8           | Haabkhcyr                  | Haabkhasian-cy              |
-| ҩ     | uni04A9           | haabkhcyr                  | haabkhasian-cy              |
-| Ҫ     | uni04AA           | Estailcyr                  | Esdescender-cy              |
-| ҫ     | uni04AB           | estailcyr                  | esdescender-cy              |
-| Ҭ     | uni04AC           | Tetailcyr                  | Tedescender-cy              |
-| ҭ     | uni04AD           | tetailcyr                  | tedescender-cy              |
-| Ү     | uni04AE           | Ustraightcyr               | Ustraight-cy                |
-| ү     | uni04AF           | ustraightcyr               | ustraight-cy                |
-| Ұ     | uni04B0           | Ustraightstrokecyr         | Ustraightstroke-cy          |
-| ұ     | uni04B1           | ustraightstrokecyr         | ustraightstroke-cy          |
-| Ҳ     | uni04B2           | Xatailcyr                  | Hadescender-cy              |
-| ҳ     | uni04B3           | xatailcyr                  | hadescender-cy              |
-| Ҵ     | uni04B4           | Tetsecyr                   | Tetse-cy                    |
-| ҵ     | uni04B5           | tetsecyr                   | tetse-cy                    |
-| Ҷ     | uni04B6           | Chetailcyr                 | Chedescender-cy             |
-| ҷ     | uni04B7           | chetailcyr                 | chedescender-cy             |
-| Ҹ     | uni04B8           | Chevertcyr                 | Cheverticalstroke-cy        |
-| ҹ     | uni04B9           | chevertcyr                 | cheverticalstroke-cy        |
-| Һ     | uni04BA           | Shhacyr                    | Shha-cy                     |
-| һ     | uni04BB           | shhacyr                    | shha-cy                     |
-| Ҽ     | uni04BC           | Cheabkhcyr                 | Cheabkhasian-cy             |
-| ҽ     | uni04BD           | cheabkhcyr                 | cheabkhasian-cy             |
-| Ҿ     | uni04BE           | Cheabkhtailcyr             | Chedescenderabkhasian-cy    |
-| ҿ     | uni04BF           | cheabkhtailcyr             | chedescenderabkhasian-cy    |
-| Ӏ     | uni04C0           | Palochkacyr                | Palochka-cy                 |
-| Ӂ     | uni04C1           | Zhebrevecyr                | Zhebreve-cy                 |
-| ӂ     | uni04C2           | zhebrevecyr                | zhebreve-cy                 |
-| Ӄ     | uni04C3           | Kahookcyr                  | Kahook-cy                   |
-| ӄ     | uni04C4           | kahookcyr                  | kahook-cy                   |
-| Ӆ     | uni04C5           | Elsharptailcyr             | Eltail-cy                   |
-| ӆ     | uni04C6           | elsharptailcyr             | eltail-cy                   |
-| Ӈ     | uni04C7           | Enhookcyr                  | Enhook-cy                   |
-| ӈ     | uni04C8           | enhookcyr                  | enhook-cy                   |
-| Ӊ     | uni04C9           | Ensharptailcyr             | Entail-cy                   |
-| ӊ     | uni04CA           | ensharptailcyr             | entail-cy                   |
-| Ӌ     | uni04CB           | Chekhakascyr               | Chekhakassian-cy            |
-| ӌ     | uni04CC           | chekhakascyr               | chekhakassian-cy            |
-| Ӎ     | uni04CD           | Emsharptailcyr             | Emtail-cy                   |
-| ӎ     | uni04CE           | emsharptailcyr             | emtail-cy                   |
-| ӏ     | uni04CF           | palochkacyr                | palochka-cy                 |
-| Ӑ     | uni04D0           | Abrevecyr                  | Abreve-cy                   |
-| ӑ     | uni04D1           | abrevecyr                  | abreve-cy                   |
-| Ӓ     | uni04D2           | Adieresiscyr               | Adieresis-cy                |
-| ӓ     | uni04D3           | adieresiscyr               | adieresis-cy                |
-| Ӕ     | uni04D4           | Aiecyr                     | Aie-cy                      |
-| ӕ     | uni04D5           | aiecyr                     | aie-cy                      |
-| Ӗ     | uni04D6           | Iebrevecyr                 | Iebreve-cy                  |
-| ӗ     | uni04D7           | iebrevecyr                 | iebreve-cy                  |
-| Ә     | uni04D8           | Schwacyr                   | Schwa-cy                    |
-| ә     | uni04D9           | schwacyr                   | schwa-cy                    |
-| Ӛ     | uni04DA           | Schwadieresiscyr           | Schwadieresis-cy            |
-| ӛ     | uni04DB           | schwadieresiscyr           | schwadieresis-cy            |
-| Ӝ     | uni04DC           | Zhedieresiscyr             | Zhedieresis-cy              |
-| ӝ     | uni04DD           | zhedieresiscyr             | zhedieresis-cy              |
-| Ӟ     | uni04DE           | Zedieresiscyr              | Zedieresis-cy               |
-| ӟ     | uni04DF           | zedieresiscyr              | zedieresis-cy               |
-| Ӡ     | uni04E0           | Dzeabkhcyr                 | Dzeabkhasian-cy             |
-| ӡ     | uni04E1           | dzeabkhcyr                 | dzeabkhasian-cy             |
-| Ӣ     | uni04E2           | Imacroncyr                 | Imacron-cy                  |
-| ӣ     | uni04E3           | imacroncyr                 | imacron-cy                  |
-| Ӥ     | uni04E4           | Idieresiscyr               | Idieresis-cy                |
-| ӥ     | uni04E5           | idieresiscyr               | idieresis-cy                |
-| Ӧ     | uni04E6           | Odieresiscyr               | Odieresis-cy                |
-| ӧ     | uni04E7           | odieresiscyr               | odieresis-cy                |
-| Ө     | uni04E8           | Obarcyr                    | Obarred-cy                  |
-| ө     | uni04E9           | obarcyr                    | obarred-cy                  |
-| Ӫ     | uni04EA           | Obardieresiscyr            | Obarreddieresis-cy          |
-| ӫ     | uni04EB           | obardieresiscyr            | obarreddieresis-cy          |
-| Ӭ     | uni04EC           | Ereverseddieresiscyr       | Edieresis-cy                |
-| ӭ     | uni04ED           | ereverseddieresiscyr       | edieresis-cy                |
-| Ӯ     | uni04EE           | Umacroncyr                 | Umacron-cy                  |
-| ӯ     | uni04EF           | umacroncyr                 | umacron-cy                  |
-| Ӱ     | uni04F0           | Udieresiscyr               | Udieresis-cy                |
-| ӱ     | uni04F1           | udieresiscyr               | udieresis-cy                |
-| Ӳ     | uni04F2           | Uacutedblcyr               | Uhungarumlaut-cy            |
-| ӳ     | uni04F3           | uacutedblcyr               | uhungarumlaut-cy            |
-| Ӵ     | uni04F4           | Chedieresiscyr             | Chedieresis-cy              |
-| ӵ     | uni04F5           | chedieresiscyr             | chedieresis-cy              |
-| Ӷ     | uni04F6           | Getailcyr                  | Gedescender-cy              |
-| ӷ     | uni04F7           | getailcyr                  | gedescender-cy              |
-| Ӹ     | uni04F8           | Ylongdieresiscyr           | Yerudieresis-cy             |
-| ӹ     | uni04F9           | ylongdieresiscyr           | yerudieresis-cy             |
-| Ӻ     | uni04FA           | Gehookstrokecyr            | Gestrokehook-cy             |
-| ӻ     | uni04FB           | gehookstrokecyr            | gestrokehook-cy             |
-| Ӽ     | uni04FC           | Hahookcyr                  | Hahook-cy                   |
-| ӽ     | uni04FD           | hahookcyr                  | hahook-cy                   |
-| Ӿ     | uni04FE           | Hastrokecyr                | Hastroke-cy                 |
-| ӿ     | uni04FF           | hastrokecyr                | hastroke-cy                 |
-| Ԁ     | uni0500           | Dekomicyr                  | Komide-cy                   |
-| ԁ     | uni0501           | dekomicyr                  | komide-cy                   |
-| Ԃ     | uni0502           | Djekomicyr                 | Komidje-cy                  |
-| ԃ     | uni0503           | djekomicyr                 | komidje-cy                  |
-| Ԅ     | uni0504           | Zjekomicyr                 | Komizje-cy                  |
-| ԅ     | uni0505           | zjekomicyr                 | komizje-cy                  |
-| Ԇ     | uni0506           | Dzjekomicyr                | Komidzje-cy                 |
-| ԇ     | uni0507           | dzjekomicyr                | komidzje-cy                 |
-| Ԉ     | uni0508           | Ljekomicyr                 | Komilje-cy                  |
-| ԉ     | uni0509           | ljekomicyr                 | komilje-cy                  |
-| Ԋ     | uni050A           | Njekomicyr                 | Kominje-cy                  |
-| ԋ     | uni050B           | njekomicyr                 | kominje-cy                  |
-| Ԍ     | uni050C           | Sjekomicyr                 | Komisje-cy                  |
-| ԍ     | uni050D           | sjekomicyr                 | komisje-cy                  |
-| Ԏ     | uni050E           | Tjekomicyr                 | Komitje-cy                  |
-| ԏ     | uni050F           | tjekomicyr                 | komitje-cy                  |
-| Ԑ     | uni0510           | Reversedzecyr              | Reversedze-cy               |
-| ԑ     | uni0511           | reversedzecyr              | reversedze-cy               |
-| Ԓ     | uni0512           | Elhookcyr                  | Elhook-cy                   |
-| ԓ     | uni0513           | elhookcyr                  | elhook-cy                   |
-| Ԕ     | uni0514           | Lhacyr                     | Lha-cy                      |
-| ԕ     | uni0515           | lhacyr                     | lha-cy                      |
-| Ԗ     | uni0516           | Rhacyr                     | Rha-cy                      |
-| ԗ     | uni0517           | rhacyr                     | rha-cy                      |
-| Ԙ     | uni0518           | Yaecyr                     | Yae-cy                      |
-| ԙ     | uni0519           | yaecyr                     | yae-cy                      |
-| Ԛ     | uni051A           | Qacyr                      | Qa-cy                       |
-| ԛ     | uni051B           | qacyr                      | qa-cy                       |
-| Ԝ     | uni051C           | Wecyr                      | We-cy                       |
-| ԝ     | uni051D           | wecyr                      | we-cy                       |
-| Ԟ     | uni051E           | Kaaleutcyr                 | Aleutka-cy                  |
-| ԟ     | uni051F           | kaaleutcyr                 | aleutka-cy                  |
-| Ԡ     | uni0520           | Elmiddlehookcyr            | Elmiddlehook-cy             |
-| ԡ     | uni0521           | elmiddlehookcyr            | elmiddlehook-cy             |
-| Ԣ     | uni0522           | Enmiddlehookcyr            | Enmiddlehook-cy             |
-| ԣ     | uni0523           | enmiddlehookcyr            | enmiddlehook-cy             |
-| Ԥ     | uni0524           | Petailcyr                  | Pedescender-cy              |
-| ԥ     | uni0525           | petailcyr                  | pedescender-cy              |
-| Ԧ     | uni0526           | Shhatailcyr                | Shhadescender-cy            |
-| ԧ     | uni0527           | shhatailcyr                | shhadescender-cy            |
-| Ԩ     | uni0528           | Enhookleftcyr              | EnLeftHook-cy               |
-| ԩ     | uni0529           | enhookleftcyr              | enlefthook-cy               |
-| Ԫ     | uni052A           | Dzzhecyr                   | Dzzhe-cy                    |
-| ԫ     | uni052B           | dzzhecyr                   | dzzhe-cy                    |
-| Ԭ     | uni052C           | Dchecyr                    | Dche-cy                     |
-| ԭ     | uni052D           | dchecyr                    | dche-cy                     |
-| Ԯ     | uni052E           | Eltailcyr                  | Eldescender-cy              |
-| ԯ     | uni052F           | eltailcyr                  | eldescender-cy              |
-| ᲀ     | uni1C80           | uni1C80                    | uni1C80                     |
-| ᲁ     | uni1C81           | uni1C81                    | uni1C81                     |
-| ᲂ     | uni1C82           | uni1C82                    | uni1C82                     |
-| ᲃ     | uni1C83           | uni1C83                    | uni1C83                     |
-| ᲄ     | uni1C84           | uni1C84                    | uni1C84                     |
-| ᲅ     | uni1C85           | uni1C85                    | uni1C85                     |
-| ᲆ     | uni1C86           | uni1C86                    | uni1C86                     |
-| ᲇ     | uni1C87           | uni1C87                    | uni1C87                     |
-| ᲈ     | uni1C88           | uni1C88                    | uni1C88                     |
-|       | uni1C89           | uni1C89                    | uni1C89                     |
-|       | uni1C8A           | uni1C8A                    | uni1C8A                     |
-| ᴫ     | uni1D2B           | Elsmallcyr                 | Elsmall-cy                  |
-|       | uni1D2C           | uni1D2C                    | uni1D2C                     |
-| ᵸ     | uni1D78           | ENcyrmod                   | enmod-cy                    |
-| ⷠ     | uni2DE0           | uni2DE0                    | uni2DE0                     |
-| ⷡ     | uni2DE1           | uni2DE1                    | uni2DE1                     |
-| ⷢ     | uni2DE2           | uni2DE2                    | uni2DE2                     |
-| ⷣ     | uni2DE3           | uni2DE3                    | uni2DE3                     |
-| ⷤ     | uni2DE4           | uni2DE4                    | uni2DE4                     |
-| ⷥ     | uni2DE5           | uni2DE5                    | uni2DE5                     |
-| ⷦ     | uni2DE6           | uni2DE6                    | uni2DE6                     |
-| ⷧ     | uni2DE7           | uni2DE7                    | uni2DE7                     |
-| ⷨ     | uni2DE8           | uni2DE8                    | uni2DE8                     |
-| ⷩ     | uni2DE9           | uni2DE9                    | uni2DE9                     |
-| ⷪ     | uni2DEA           | uni2DEA                    | uni2DEA                     |
-| ⷫ     | uni2DEB           | uni2DEB                    | uni2DEB                     |
-| ⷬ     | uni2DEC           | uni2DEC                    | uni2DEC                     |
-| ⷭ     | uni2DED           | uni2DED                    | uni2DED                     |
-| ⷮ     | uni2DEE           | uni2DEE                    | uni2DEE                     |
-| ⷯ     | uni2DEF           | uni2DEF                    | uni2DEF                     |
-| ⷰ     | uni2DF0           | uni2DF0                    | uni2DF0                     |
-| ⷱ     | uni2DF1           | uni2DF1                    | uni2DF1                     |
-| ⷲ     | uni2DF2           | uni2DF2                    | uni2DF2                     |
-| ⷳ     | uni2DF3           | uni2DF3                    | uni2DF3                     |
-| ⷴ     | uni2DF4           | uni2DF4                    | uni2DF4                     |
-| ⷵ     | uni2DF5           | uni2DF5                    | uni2DF5                     |
-| ⷶ     | uni2DF6           | uni2DF6                    | uni2DF6                     |
-| ⷷ     | uni2DF7           | uni2DF7                    | uni2DF7                     |
-| ⷸ     | uni2DF8           | uni2DF8                    | uni2DF8                     |
-| ⷹ     | uni2DF9           | uni2DF9                    | uni2DF9                     |
-| ⷺ     | uni2DFA           | uni2DFA                    | uni2DFA                     |
-| ⷻ     | uni2DFB           | uni2DFB                    | uni2DFB                     |
-| ⷼ     | uni2DFC           | uni2DFC                    | uni2DFC                     |
-| ⷽ     | uni2DFD           | uni2DFD                    | uni2DFD                     |
-| ⷾ     | uni2DFE           | uni2DFE                    | uni2DFE                     |
-| ⷿ     | uni2DFF           | uni2DFF                    | uni2DFF                     |
-| Ꙁ     | uniA640           | Zemlya-cy                  | Zemlya-cy                   |
-| ꙁ     | uniA641           | zemlya-cy                  | zemlya-cy                   |
-| Ꙃ     | uniA642           | Dzelo-cy                   | Dzelo-cy                    |
-| ꙃ     | uniA643           | dzelo-cy                   | dzelo-cy                    |
-| Ꙅ     | uniA644           | DzeReversed-cy             | DzeReversed-cy              |
-| ꙅ     | uniA645           | dzeReversed-cy             | dzeReversed-cy              |
-| Ꙇ     | uniA646           | Iota-cy                    | Iota-cy                     |
-| ꙇ     | uniA647           | iota-cy                    | iota-cy                     |
-| Ꙉ     | uniA648           | Djerv-cy                   | Djerv-cy                    |
-| ꙉ     | uniA649           | djerv-cy                   | djerv-cy                    |
-| Ꙋ     | uniA64A           | UkMonograph-cy             | UkMonograph-cy              |
-| ꙋ     | uniA64B           | ukMonograph-cy             | ukMonograph-cy              |
-| Ꙍ     | uniA64C           | OmegaBroad-cy              | OmegaBroad-cy               |
-| ꙍ     | uniA64D           | omegaBroad-cy              | omegaBroad-cy               |
-| Ꙏ     | uniA64E           | YerNeutral-cy              | YerNeutral-cy               |
-| ꙏ     | uniA64F           | yerNeutral-cy              | yerNeutral-cy               |
-| Ꙑ     | uniA650           | YeruBackYer-cy             | YeruBackYer-cy              |
-| ꙑ     | uniA651           | yeruBackyer-cy             | yeruBackyer-cy              |
-| Ꙓ     | uniA652           | YatIotified-cy             | YatIotified-cy              |
-| ꙓ     | uniA653           | yatIotified-cy             | yatIotified-cy              |
-| Ꙕ     | uniA654           | YuReversed-cy              | YuReversed-cy               |
-| ꙕ     | uniA655           | yuReversed-cy              | yuReversed-cy               |
-| Ꙗ     | uniA656           | IotifiedA-cy               | IotifiedA-cy                |
-| ꙗ     | uniA657           | iotifieda-cy               | iotifieda-cy                |
-| Ꙙ     | uniA658           | YusClosedlittle-cy         | YusClosedlittle-cy          |
-| ꙙ     | uniA659           | yusClosedlittle-cy         | yusClosedlittle-cy          |
-| Ꙛ     | uniA65A           | YusBlended-cy              | YusBlended-cy               |
-| ꙛ     | uniA65B           | yusBlended-cy              | yusBlended-cy               |
-| Ꙝ     | uniA65C           | YusiotifiedClosedLittle-cy | YusiotifiedClosedLittle-cy  |
-| ꙝ     | uniA65D           | yusiotifiedClosedLittle-cy | yusiotifiedClosedLittle-cy  |
-| Ꙟ     | uniA65E           | Yn-cy                      | Yn-cy                       |
-| ꙟ     | uniA65F           | yn-cy                      | yn-cy                       |
-| Ꙡ     | uniA660           | TseReversed-cy             | TseReversed-cy              |
-| ꙡ     | uniA661           | tseReversed-cy             | tseReversed-cy              |
-| Ꙣ     | uniA662           | DeSoft-cy                  | DeSoft-cy                   |
-| ꙣ     | uniA663           | deSoft-cy                  | deSoft-cy                   |
-| Ꙥ     | uniA664           | ElSoft-cy                  | ElSoft-cy                   |
-| ꙥ     | uniA665           | elSoft-cy                  | elSoft-cy                   |
-| Ꙧ     | uniA666           | EmSoft-cy                  | EmSoft-cy                   |
-| ꙧ     | uniA667           | emSoft-cy                  | emSoft-cy                   |
-| Ꙩ     | uniA668           | OMonocular-cy              | OMonocular-cy               |
-| ꙩ     | uniA669           | oMonocular-cy              | oMonocular-cy               |
-| Ꙫ     | uniA66A           | OBinocular-cy              | OBinocular-cy               |
-| ꙫ     | uniA66B           | oBinocular-cy              | oBinocular-cy               |
-| Ꙭ     | uniA66C           | ODoubleMonocular-cy        | ODoubleMonocular-cy         |
-| ꙭ     | uniA66D           | oDoubleMonocular-cy        | oDoubleMonocular-cy         |
-| ꙮ     | uniA66E           | omultiocular-cy            | omultiocular-cy             |
-| ꙯     | uniA66F           | vzmetcomb-cy               | vzmetcomb-cy                |
-| ꙰     | uniA670           | tenmillionscomb-cy         | tenmillionscomb-cy          |
-| ꙱     | uniA671           | hundredmillionscomb-cy     | hundredmillionscomb-cy      |
-| ꙲     | uniA672           | thousandmillionscomb-cy    | thousandmillionscomb-cy     |
-| ꙳     | uniA673           | asterisk-cy                | asterisk-cy                 |
-| ꙴ     | uniA674           | ieukrainiancomb-cy         | ieukrainiancomb-cy          |
-| ꙵ     | uniA675           | icomb-cy                   | icomb-cy                    |
-| ꙶ     | uniA676           | yicomb-cy                  | yicomb-cy                   |
-| ꙷ     | uniA677           | ucomb-cy                   | ucomb-cy                    |
-| ꙸ     | uniA678           | hardsigncomb-cy            | hardsigncomb-cy             |
-| ꙹ     | uniA679           | yerucomb-cy                | yerucomb-cy                 |
-| ꙺ     | uniA67A           | softsigncomb-cy            | softsigncomb-cy             |
-| ꙻ     | uniA67B           | omegacomb-cy               | omegacomb-cy                |
-| ꙼     | uniA67C           | kavykacomb-cy              | kavykacomb-cy               |
-| ꙽     | uniA67D           | payerokcomb-cy             | payerokcomb-cy              |
-| ꙾     | uniA67E           | kavyka-cy                  | kavyka-cy                   |
-| ꙿ     | uniA67F           | payerok-cy                 | payerok-cy                  |
-| Ꚁ     | uniA680           | Dwe-cy                     | Dwe-cy                      |
-| ꚁ     | uniA681           | dwe-cy                     | dwe-cy                      |
-| Ꚃ     | uniA682           | Dzwe-cy                    | Dzwe-cy                     |
-| ꚃ     | uniA683           | dzwe-cy                    | dzwe-cy                     |
-| Ꚅ     | uniA684           | Zhwe-cy                    | Zhwe-cy                     |
-| ꚅ     | uniA685           | zhwe-cy                    | zhwe-cy                     |
-| Ꚇ     | uniA686           | Cche-cy                    | Cche-cy                     |
-| ꚇ     | uniA687           | cche-cy                    | cche-cy                     |
-| Ꚉ     | uniA688           | Dzze-cy                    | Dzze-cy                     |
-| ꚉ     | uniA689           | dzze-cy                    | dzze-cy                     |
-| Ꚋ     | uniA68A           | TeWithMiddleHook-cy        | TeWithMiddleHook-cy         |
-| ꚋ     | uniA68B           | tewithmiddlehook-cy        | tewithmiddlehook-cy         |
-| Ꚍ     | uniA68C           | Twe-cy                     | Twe-cy                      |
-| ꚍ     | uniA68D           | twe-cy                     | twe-cy                      |
-| Ꚏ     | uniA68E           | Tswe-cy                    | Tswe-cy                     |
-| ꚏ     | uniA68F           | tswe-cy                    | tswe-cy                     |
-| Ꚑ     | uniA690           | Tsse-cy                    | Tsse-cy                     |
-| ꚑ     | uniA691           | tsse-cy                    | tsse-cy                     |
-| Ꚓ     | uniA692           | Tche-cy                    | Tche-cy                     |
-| ꚓ     | uniA693           | tche-cy                    | tche-cy                     |
-| Ꚕ     | uniA694           | Hwe-cy                     | Hwe-cy                      |
-| ꚕ     | uniA695           | hwe-cy                     | hwe-cy                      |
-| Ꚗ     | uniA696           | Shwe-cy                    | Shwe-cy                     |
-| ꚗ     | uniA697           | shwe-cy                    | shwe-cy                     |
-| Ꚙ     | uniA698           | DoubleO-cy                 | DoubleO-cy                  |
-| ꚙ     | uniA699           | doubleo-cy                 | doubleo-cy                  |
-| Ꚛ     | uniA69A           | CrossedO-cy                | CrossedO-cy                 |
-| ꚛ     | uniA69B           | crossedo-cy                | crossedo-cy                 |
-| ꚜ     | uniA69C           | modifierhardsign-cy        | modifierhardsign-cy         |
-| ꚝ     | uniA69D           | modifiersoftsign-cy        | modifiersoftsign-cy         |
-| ꚞ     | uniA69E           | efcomb-cy                  | efcomb-cy                   |
-| ꚟ     | uniA69F           | iotifiedecomb-cy           | iotifiedecomb-cy            |
-| ︮     | uniFE2E           | titlolefthalfcomb-cy       | titlolefthalfcomb-cy        |
-| ︯     | uniFE2F           | titlorighthalfcomb-cy      | titlorighthalfcomb-cy       |
-| 𞀰    | u1E030            | u1E030                     | u1E030                      |
-| 𞀱    | u1E031            | u1E031                     | u1E031                      |
-| 𞀲    | u1E032            | u1E032                     | u1E032                      |
-| 𞀳    | u1E033            | u1E033                     | u1E033                      |
-| 𞀴    | u1E034            | u1E034                     | u1E034                      |
-| 𞀵    | u1E035            | u1E035                     | u1E035                      |
-| 𞀶    | u1E036            | u1E036                     | u1E036                      |
-| 𞀷    | u1E037            | u1E037                     | u1E037                      |
-| 𞀸    | u1E038            | u1E038                     | u1E038                      |
-| 𞀹    | u1E039            | u1E039                     | u1E039                      |
-| 𞀺    | u1E03A            | u1E03A                     | u1E03A                      |
-| 𞀻    | u1E03B            | u1E03B                     | u1E03B                      |
-| 𞀼    | u1E03C            | u1E03C                     | u1E03C                      |
-| 𞀽    | u1E03D            | u1E03D                     | u1E03D                      |
-| 𞀾    | u1E03E            | u1E03E                     | u1E03E                      |
-| 𞀿    | u1E03F            | u1E03F                     | u1E03F                      |
-| 𞁀    | u1E040            | u1E040                     | u1E040                      |
-| 𞁁    | u1E041            | u1E041                     | u1E041                      |
-| 𞁂    | u1E042            | u1E042                     | u1E042                      |
-| 𞁃    | u1E043            | u1E043                     | u1E043                      |
-| 𞁄    | u1E044            | u1E044                     | u1E044                      |
-| 𞁅    | u1E045            | u1E045                     | u1E045                      |
-| 𞁆    | u1E046            | u1E046                     | u1E046                      |
-| 𞁇    | u1E047            | u1E047                     | u1E047                      |
-| 𞁈    | u1E048            | u1E048                     | u1E048                      |
-| 𞁉    | u1E049            | u1E049                     | u1E049                      |
-| 𞁊    | u1E04A            | u1E04A                     | u1E04A                      |
-| 𞁋    | u1E04B            | u1E04B                     | u1E04B                      |
-| 𞁌    | u1E04C            | u1E04C                     | u1E04C                      |
-| 𞁍    | u1E04D            | u1E04D                     | u1E04D                      |
-| 𞁎    | u1E04E            | u1E04E                     | u1E04E                      |
-| 𞁏    | u1E04F            | u1E04F                     | u1E04F                      |
-| 𞁐    | u1E050            | u1E050                     | u1E050                      |
-| 𞁑    | u1E051            | u1E051                     | u1E051                      |
-| 𞁒    | u1E052            | u1E052                     | u1E052                      |
-| 𞁓    | u1E053            | u1E053                     | u1E053                      |
-| 𞁔    | u1E054            | u1E054                     | u1E054                      |
-| 𞁕    | u1E055            | u1E055                     | u1E055                      |
-| 𞁖    | u1E056            | u1E056                     | u1E056                      |
-| 𞁗    | u1E057            | u1E057                     | u1E057                      |
-| 𞁘    | u1E058            | u1E058                     | u1E058                      |
-| 𞁙    | u1E059            | u1E059                     | u1E059                      |
-| 𞁚    | u1E05A            | u1E05A                     | u1E05A                      |
-| 𞁛    | u1E05B            | u1E05B                     | u1E05B                      |
-| 𞁜    | u1E05C            | u1E05C                     | u1E05C                      |
-| 𞁝    | u1E05D            | u1E05D                     | u1E05D                      |
-| 𞁞    | u1E05E            | u1E05E                     | u1E05E                      |
-| 𞁟    | u1E05F            | u1E05F                     | u1E05F                      |
-| 𞁠    | u1E060            | u1E060                     | u1E060                      |
-| 𞁡    | u1E061            | u1E061                     | u1E061                      |
-| 𞁢    | u1E062            | u1E062                     | u1E062                      |
-| 𞁣    | u1E063            | u1E063                     | u1E063                      |
-| 𞁤    | u1E064            | u1E064                     | u1E064                      |
-|       | u1E065            | u1E065                     | u1E065                      |
-|       | u1E066            | u1E066                     | u1E066                      |
-|       | u1E067            | u1E067                     | u1E067                      |
-|       | u1E068            | u1E068                     | u1E068                      |
-|       | u1E069            | u1E069                     | u1E069                      |
-|       | u1E06A            | u1E06A                     | u1E06A                      |
-|       | u1E06B            | u1E06B                     | u1E06B                      |
-|       | u1E06C            | u1E06C                     | u1E06C                      |
-|       | u1E06D            | u1E06D                     | u1E06D                      |
-|       | u1E08F            | u1E08F                     | u1E08F                      |
-|       | Decyr.loclBGR     | Decyr.loclBGR              | Decyr.loclBGR               |
-|       | Zhecyr.loclBGR    | Zhecyr.loclBGR             | Zhecyr.loclBGR              |
-|       | Kacyr.loclBGR     | Kacyr.loclBGR              | Kacyr.loclBGR               |
-|       | Elcyr.loclBGR     | Elcyr.loclBGR              | Elcyr.loclBGR               |
-|       | vecyr.loclBGR     | vecyr.loclBGR              | vecyr.loclBGR               |
-|       | gecyr.loclBGR     | gecyr.loclBGR              | gecyr.loclBGR               |
-|       | decyr.loclBGR     | decyr.loclBGR              | decyr.loclBGR               |
-|       | zhecyr.loclBGR    | zhecyr.loclBGR             | zhecyr.loclBGR              |
-|       | zecyr.loclBGR     | zecyr.loclBGR              | zecyr.loclBGR               |
-|       | icyr.loclBGR      | icyr.loclBGR               | icyr.loclBGR                |
-|       | ishortcyr.loclBGR | ishortcyr.loclBGR          | ishortcyr.loclBGR           |
-|       | kacyr.loclBGR     | kacyr.loclBGR              | kacyr.loclBGR               |
-|       | elcyr.loclBGR     | elcyr.loclBGR              | elcyr.loclBGR               |
-|       | encyr.loclBGR     | encyr.loclBGR              | encyr.loclBGR               |
-|       | pecyr.loclBGR     | pecyr.loclBGR              | pecyr.loclBGR               |
-|       | tecyr.loclBGR     | tecyr.loclBGR              | tecyr.loclBGR               |
-|       | efcyr.loclBGR     | efcyr.loclBGR              | efcyr.loclBGR               |
-|       | tsecyr.loclBGR    | tsecyr.loclBGR             | tsecyr.loclBGR              |
-|       | checyr.loclBGR    | checyr.loclBGR             | checyr.loclBGR              |
-|       | shacyr.loclBGR    | shacyr.loclBGR             | shacyr.loclBGR              |
-|       | shchacyr.loclBGR  | shchacyr.loclBGR           | shchacyr.loclBGR            |
-|       | hardcyr.loclBGR   | hardcyr.loclBGR            | hardcyr.loclBGR             |
-|       | softcyr.loclBGR   | softcyr.loclBGR            | softcyr.loclBGR             |
-|       | yucyr.loclBGR     | yucyr.loclBGR              | yucyr.loclBGR               |
-|       | igravecyr.loclBGR | igravecyr.loclBGR          | igravecyr.loclBGR           |
+| Glyph | Unicode name      | FontLab name               | Alternative name            | AGLFN             |
+| :----- | :----------------- | :-------------------------- | :--------------------------- | :----------------- |
+| Ѐ     | uni0400           | Iegravecyr                 | Iegrave-cy                  | uni0400           |
+| Ё     | uni0401           | Iocyr                      | Io-cy                       | afii10023         |
+| Ђ     | uni0402           | Djecyr                     | Dje-cy                      | afii10051         |
+| Ѓ     | uni0403           | Gjecyr                     | Gje-cy                      | afii10052         |
+| Є     | uni0404           | Eukrcyr                    | E-cy                        | afii10053         |
+| Ѕ     | uni0405           | Dzecyr                     | Dze-cy                      | afii10054         |
+| І     | uni0406           | Iukrcyr                    | I-cy                        | afii10055         |
+| Ї     | uni0407           | Yukrcyr                    | Yi-cy                       | afii10056         |
+| Ј     | uni0408           | Jecyr                      | Je-cy                       | afii10057         |
+| Љ     | uni0409           | Ljecyr                     | Lje-cy                      | afii10058         |
+| Њ     | uni040A           | Njecyr                     | Nje-cy                      | afii10059         |
+| Ћ     | uni040B           | Tshecyr                    | Tshe-cy                     | afii10060         |
+| Ќ     | uni040C           | Kjecyr                     | Kje-cy                      | afii10061         |
+| Ѝ     | uni040D           | Igravecyr                  | Iigrave-cy                  | uni040D           |
+| Ў     | uni040E           | Ushortcyr                  | Ushort-cy                   | afii10062         |
+| Џ     | uni040F           | Dzhecyr                    | Dzhe-cy                     | afii10145         |
+| А     | uni0410           | Acyr                       | A-cy                        | afii10017         |
+| Б     | uni0411           | Becyr                      | Be-cy                       | afii10018         |
+| В     | uni0412           | Vecyr                      | Ve-cy                       | afii10019         |
+| Г     | uni0413           | Gecyr                      | Ge-cy                       | afii10020         |
+| Д     | uni0414           | Decyr                      | De-cy                       | afii10021         |
+| Е     | uni0415           | Iecyr                      | Ie-cy                       | afii10022         |
+| Ж     | uni0416           | Zhecyr                     | Zhe-cy                      | afii10024         |
+| З     | uni0417           | Zecyr                      | Ze-cy                       | afii10025         |
+| И     | uni0418           | Icyr                       | Ii-cy                       | afii10026         |
+| Й     | uni0419           | Ishortcyr                  | Iishort-cy                  | afii10027         |
+| К     | uni041A           | Kacyr                      | Ka-cy                       | afii10028         |
+| Л     | uni041B           | Elcyr                      | El-cy                       | afii10029         |
+| М     | uni041C           | Emcyr                      | Em-cy                       | afii10030         |
+| Н     | uni041D           | Encyr                      | En-cy                       | afii10031         |
+| О     | uni041E           | Ocyr                       | O-cy                        | afii10032         |
+| П     | uni041F           | Pecyr                      | Pe-cy                       | afii10033         |
+| Р     | uni0420           | Ercyr                      | Er-cy                       | afii10034         |
+| С     | uni0421           | Escyr                      | Es-cy                       | afii10035         |
+| Т     | uni0422           | Tecyr                      | Te-cy                       | afii10036         |
+| У     | uni0423           | Ucyr                       | U-cy                        | afii10037         |
+| Ф     | uni0424           | Efcyr                      | Ef-cy                       | afii10038         |
+| Х     | uni0425           | Hacyr                      | Ha-cy                       | afii10039         |
+| Ц     | uni0426           | Tsecyr                     | Tse-cy                      | afii10040         |
+| Ч     | uni0427           | Checyr                     | Che-cy                      | afii10041         |
+| Ш     | uni0428           | Shacyr                     | Sha-cy                      | afii10042         |
+| Щ     | uni0429           | Shchacyr                   | Shcha-cy                    | afii10043         |
+| Ъ     | uni042A           | Hardcyr                    | Hardsign-cy                 | afii10044         |
+| Ы     | uni042B           | Ylongcyr                   | Yeru-cy                     | afii10045         |
+| Ь     | uni042C           | Softcyr                    | Softsign-cy                 | afii10046         |
+| Э     | uni042D           | Ereversedcyr               | Ereversed-cy                | afii10047         |
+| Ю     | uni042E           | Yucyr                      | Iu-cy                       | afii10048         |
+| Я     | uni042F           | Yacyr                      | Ia-cy                       | afii10049         |
+| а     | uni0430           | acyr                       | a-cy                        | afii10065         |
+| б     | uni0431           | becyr                      | be-cy                       | afii10066         |
+| в     | uni0432           | vecyr                      | ve-cy                       | afii10067         |
+| г     | uni0433           | gecyr                      | ge-cy                       | afii10068         |
+| д     | uni0434           | decyr                      | de-cy                       | afii10069         |
+| е     | uni0435           | iecyr                      | ie-cy                       | afii10070         |
+| ж     | uni0436           | zhecyr                     | zhe-cy                      | afii10072         |
+| з     | uni0437           | zecyr                      | ze-cy                       | afii10073         |
+| и     | uni0438           | icyr                       | ii-cy                       | afii10074         |
+| й     | uni0439           | ishortcyr                  | iishort-cy                  | afii10075         |
+| к     | uni043A           | kacyr                      | ka-cy                       | afii10076         |
+| л     | uni043B           | elcyr                      | el-cy                       | afii10077         |
+| м     | uni043C           | emcyr                      | em-cy                       | afii10078         |
+| н     | uni043D           | encyr                      | en-cy                       | afii10079         |
+| о     | uni043E           | ocyr                       | o-cy                        | afii10080         |
+| п     | uni043F           | pecyr                      | pe-cy                       | afii10081         |
+| р     | uni0440           | ercyr                      | er-cy                       | afii10082         |
+| с     | uni0441           | escyr                      | es-cy                       | afii10083         |
+| т     | uni0442           | tecyr                      | te-cy                       | afii10084         |
+| у     | uni0443           | ucyr                       | u-cy                        | afii10085         |
+| ф     | uni0444           | efcyr                      | ef-cy                       | afii10086         |
+| х     | uni0445           | hacyr                      | ha-cy                       | afii10087         |
+| ц     | uni0446           | tsecyr                     | tse-cy                      | afii10088         |
+| ч     | uni0447           | checyr                     | che-cy                      | afii10089         |
+| ш     | uni0448           | shacyr                     | sha-cy                      | afii10090         |
+| щ     | uni0449           | shchacyr                   | shcha-cy                    | afii10091         |
+| ъ     | uni044A           | hardcyr                    | hardsign-cy                 | afii10092         |
+| ы     | uni044B           | ylongcyr                   | yeru-cy                     | afii10093         |
+| ь     | uni044C           | softcyr                    | softsign-cy                 | afii10094         |
+| э     | uni044D           | ereversedcyr               | ereversed-cy                | afii10095         |
+| ю     | uni044E           | yucyr                      | iu-cy                       | afii10096         |
+| я     | uni044F           | yacyr                      | ia-cy                       | afii10097         |
+| ѐ     | uni0450           | iegravecyr                 | iegrave-cy                  | uni0450           |
+| ё     | uni0451           | iocyr                      | io-cy                       | afii10071         |
+| ђ     | uni0452           | djecyr                     | dje-cy                      | afii10099         |
+| ѓ     | uni0453           | gjecyr                     | gje-cy                      | afii10100         |
+| є     | uni0454           | eukrcyr                    | e-cy                        | afii10101         |
+| ѕ     | uni0455           | dzecyr                     | dze-cy                      | afii10102         |
+| і     | uni0456           | iukrcyr                    | i-cy                        | afii10103         |
+| ї     | uni0457           | yukrcyr                    | yi-cy                       | afii10104         |
+| ј     | uni0458           | jecyr                      | je-cy                       | afii10105         |
+| љ     | uni0459           | ljecyr                     | lje-cy                      | afii10106         |
+| њ     | uni045A           | njecyr                     | nje-cy                      | afii10107         |
+| ћ     | uni045B           | tshecyr                    | tshe-cy                     | afii10108         |
+| ќ     | uni045C           | kjecyr                     | kje-cy                      | afii10109         |
+| ѝ     | uni045D           | igravecyr                  | iigrave-cy                  | uni045D           |
+| ў     | uni045E           | ushortcyr                  | ushort-cy                   | afii10110         |
+| џ     | uni045F           | dzhecyr                    | dzhe-cy                     | afii10193         |
+| Ѡ     | uni0460           | Omegacyr                   | Omega-cy                    | uni0460           |
+| ѡ     | uni0461           | omegacyr                   | omega-cy                    | uni0461           |
+| Ѣ     | uni0462           | Yatcyr                     | Yat-cy                      | uni0462           |
+| ѣ     | uni0463           | yatcyr                     | yat-cy                      | uni0463           |
+| Ѥ     | uni0464           | Eiotifiedcyr               | Eiotified-cy                | uni0464           |
+| ѥ     | uni0465           | eiotifiedcyr               | eiotified-cy                | uni0465           |
+| Ѧ     | uni0466           | Yuslittlecyr               | Yuslittle-cy                | uni0466           |
+| ѧ     | uni0467           | yuslittlecyr               | yuslittle-cy                | uni0467           |
+| Ѩ     | uni0468           | Yuslittleiotifiedcyr       | Yuslittleiotified-cy        | uni0468           |
+| ѩ     | uni0469           | yuslittleiotifiedcyr       | yuslittleiotified-cy        | uni0469           |
+| Ѫ     | uni046A           | Yusbigcyr                  | Yusbig-cy                   | uni046A           |
+| ѫ     | uni046B           | yusbigcyr                  | yusbig-cy                   | uni046B           |
+| Ѭ     | uni046C           | Yusbigiotifiedcyr          | Yusbigiotified-cy           | uni046C           |
+| ѭ     | uni046D           | yusbigiotifiedcyr          | yusbigiotified-cy           | uni046D           |
+| Ѯ     | uni046E           | Ksicyr                     | Ksi-cy                      | uni046E           |
+| ѯ     | uni046F           | ksicyr                     | ksi-cy                      | uni046F           |
+| Ѱ     | uni0470           | Psicyr                     | Psi-cy                      | uni0470           |
+| ѱ     | uni0471           | psicyr                     | psi-cy                      | uni0471           |
+| Ѳ     | uni0472           | Fitacyr                    | Fita-cy                     | uni0472           |
+| ѳ     | uni0473           | fitacyr                    | fita-cy                     | uni0473           |
+| Ѵ     | uni0474           | Izhitsacyr                 | Izhitsa-cy                  | uni0474           |
+| ѵ     | uni0475           | izhitsacyr                 | izhitsa-cy                  | uni0475           |
+| Ѷ     | uni0476           | Izhitsagravedblcyr         | Izhitsadblgrave-cy          | uni0476           |
+| ѷ     | uni0477           | izhitsagravedblcyr         | izhitsadblgrave-cy          | uni0477           |
+| Ѹ     | uni0478           | Ukcyr                      | Uk-cy                       | uni0478           |
+| ѹ     | uni0479           | ukcyr                      | uk-cy                       | uni0479           |
+| Ѻ     | uni047A           | Omegaroundcyr              | Omegaroundcyr               | uni047A           |
+| ѻ     | uni047B           | omegaroundcyr              | omegaroundcyr               | uni047B           |
+| Ѽ     | uni047C           | Omegatitlocyr              | Omegatitlocyr               | uni047C           |
+| ѽ     | uni047D           | omegatitlocyr              | omegatitlocyr               | uni047D           |
+| Ѿ     | uni047E           | Otcyr                      | Otcyr                       | uni047E           |
+| ѿ     | uni047F           | otcyr                      | otcyr                       | uni047F           |
+| Ҁ     | uni0480           | Koppacyr                   | Koppa-cy                    | uni0480           |
+| ҁ     | uni0481           | koppacyr                   | koppa-cy                    | uni0481           |
+| ҂     | uni0482           | thousandscyr               | thousand-cy                 | uni0482           |
+| ҃     | uni0483           | titlocombcyr               | titlocomb-cy                | uni0483           |
+| ҄     | uni0484           | palatcombcyr               | palatalizationcomb-cy       | uni0484           |
+| ҇     | uni0487           | pokrytiecombcyr            | pokrytiecomb-cy             | uni0487           |
+| ҈     | uni0488           | hundredthousandscombcyr    | hundredthousandssigncomb-cy | uni0488           |
+| ҉     | uni0489           | millionscombcyr            | millionssigncomb-cy         | uni0489           |
+| Ҋ     | uni048A           | Ishortsharptailcyr         | Iishorttail-cy              | uni048A           |
+| ҋ     | uni048B           | ishortsharptailcyr         | iishorttail-cy              | uni048B           |
+| Ҍ     | uni048C           | Semisoftcyr                | Semisoftsign-cy             | uni048C           |
+| ҍ     | uni048D           | semisoftcyr                | semisoftsign-cy             | uni048D           |
+| Ҏ     | uni048E           | Ertickcyr                  | Ertick-cy                   | uni048E           |
+| ҏ     | uni048F           | ertickcyr                  | ertick-cy                   | uni048F           |
+| Ґ     | uni0490           | Geupcyr                    | Gheupturn-cy                | afii10050         |
+| ґ     | uni0491           | geupcyr                    | gheupturn-cy                | afii10098         |
+| Ғ     | uni0492           | Gestrokecyr                | Ghestroke-cy                | uni0492           |
+| ғ     | uni0493           | gestrokecyr                | ghestroke-cy                | uni0493           |
+| Ҕ     | uni0494           | Gehookcyr                  | Ghemiddlehook-cy            | uni0494           |
+| ҕ     | uni0495           | gehookcyr                  | ghemiddlehook-cy            | uni0495           |
+| Җ     | uni0496           | Zhetailcyr                 | Zhedescender-cy             | uni0496           |
+| җ     | uni0497           | zhetailcyr                 | zhedescender-cy             | uni0497           |
+| Ҙ     | uni0498           | Zetailcyr                  | Zedescender-cy              | uni0498           |
+| ҙ     | uni0499           | zetailcyr                  | zedescender-cy              | uni0499           |
+| Қ     | uni049A           | Katailcyr                  | Kadescender-cy              | uni049A           |
+| қ     | uni049B           | katailcyr                  | kadescender-cy              | uni049B           |
+| Ҝ     | uni049C           | Kaverticalstrokecyr        | Kaverticalstroke-cy         | uni049C           |
+| ҝ     | uni049D           | kaverticalstrokecyr        | kaverticalstroke-cy         | uni049D           |
+| Ҟ     | uni049E           | Kastrokecyr                | Kastroke-cy                 | uni049E           |
+| ҟ     | uni049F           | kastrokecyr                | kastroke-cy                 | uni049F           |
+| Ҡ     | uni04A0           | Kabashkcyr                 | Kabashkir-cy                | uni04A0           |
+| ҡ     | uni04A1           | kabashkcyr                 | kabashkir-cy                | uni04A1           |
+| Ң     | uni04A2           | Entailcyr                  | Endescender-cy              | uni04A2           |
+| ң     | uni04A3           | entailcyr                  | endescender-cy              | uni04A3           |
+| Ҥ     | uni04A4           | Engecyr                    | Enghe-cy                    | uni04A4           |
+| ҥ     | uni04A5           | engecyr                    | enghe-cy                    | uni04A5           |
+| Ҧ     | uni04A6           | Pehookcyr                  | Pemiddlehook-cy             | uni04A6           |
+| ҧ     | uni04A7           | pehookcyr                  | pemiddlehook-cy             | uni04A7           |
+| Ҩ     | uni04A8           | Haabkhcyr                  | Haabkhasian-cy              | uni04A8           |
+| ҩ     | uni04A9           | haabkhcyr                  | haabkhasian-cy              | uni04A9           |
+| Ҫ     | uni04AA           | Estailcyr                  | Esdescender-cy              | uni04AA           |
+| ҫ     | uni04AB           | estailcyr                  | esdescender-cy              | uni04AB           |
+| Ҭ     | uni04AC           | Tetailcyr                  | Tedescender-cy              | uni04AC           |
+| ҭ     | uni04AD           | tetailcyr                  | tedescender-cy              | uni04AD           |
+| Ү     | uni04AE           | Ustraightcyr               | Ustraight-cy                | uni04AE           |
+| ү     | uni04AF           | ustraightcyr               | ustraight-cy                | uni04AF           |
+| Ұ     | uni04B0           | Ustraightstrokecyr         | Ustraightstroke-cy          | uni04B0           |
+| ұ     | uni04B1           | ustraightstrokecyr         | ustraightstroke-cy          | uni04B1           |
+| Ҳ     | uni04B2           | Xatailcyr                  | Hadescender-cy              | uni04B2           |
+| ҳ     | uni04B3           | xatailcyr                  | hadescender-cy              | uni04B3           |
+| Ҵ     | uni04B4           | Tetsecyr                   | Tetse-cy                    | uni04B4           |
+| ҵ     | uni04B5           | tetsecyr                   | tetse-cy                    | uni04B5           |
+| Ҷ     | uni04B6           | Chetailcyr                 | Chedescender-cy             | uni04B6           |
+| ҷ     | uni04B7           | chetailcyr                 | chedescender-cy             | uni04B7           |
+| Ҹ     | uni04B8           | Chevertcyr                 | Cheverticalstroke-cy        | uni04B8           |
+| ҹ     | uni04B9           | chevertcyr                 | cheverticalstroke-cy        | uni04B9           |
+| Һ     | uni04BA           | Shhacyr                    | Shha-cy                     | uni04BA           |
+| һ     | uni04BB           | shhacyr                    | shha-cy                     | uni04BB           |
+| Ҽ     | uni04BC           | Cheabkhcyr                 | Cheabkhasian-cy             | uni04BC           |
+| ҽ     | uni04BD           | cheabkhcyr                 | cheabkhasian-cy             | uni04BD           |
+| Ҿ     | uni04BE           | Cheabkhtailcyr             | Chedescenderabkhasian-cy    | uni04BE           |
+| ҿ     | uni04BF           | cheabkhtailcyr             | chedescenderabkhasian-cy    | uni04BF           |
+| Ӏ     | uni04C0           | Palochkacyr                | Palochka-cy                 | uni04C0           |
+| Ӂ     | uni04C1           | Zhebrevecyr                | Zhebreve-cy                 | uni04C1           |
+| ӂ     | uni04C2           | zhebrevecyr                | zhebreve-cy                 | uni04C2           |
+| Ӄ     | uni04C3           | Kahookcyr                  | Kahook-cy                   | uni04C3           |
+| ӄ     | uni04C4           | kahookcyr                  | kahook-cy                   | uni04C4           |
+| Ӆ     | uni04C5           | Elsharptailcyr             | Eltail-cy                   | uni04C5           |
+| ӆ     | uni04C6           | elsharptailcyr             | eltail-cy                   | uni04C6           |
+| Ӈ     | uni04C7           | Enhookcyr                  | Enhook-cy                   | uni04C7           |
+| ӈ     | uni04C8           | enhookcyr                  | enhook-cy                   | uni04C8           |
+| Ӊ     | uni04C9           | Ensharptailcyr             | Entail-cy                   | uni04C9           |
+| ӊ     | uni04CA           | ensharptailcyr             | entail-cy                   | uni04CA           |
+| Ӌ     | uni04CB           | Chekhakascyr               | Chekhakassian-cy            | uni04CB           |
+| ӌ     | uni04CC           | chekhakascyr               | chekhakassian-cy            | uni04CC           |
+| Ӎ     | uni04CD           | Emsharptailcyr             | Emtail-cy                   | uni04CD           |
+| ӎ     | uni04CE           | emsharptailcyr             | emtail-cy                   | uni04CE           |
+| ӏ     | uni04CF           | palochkacyr                | palochka-cy                 | uni04CF           |
+| Ӑ     | uni04D0           | Abrevecyr                  | Abreve-cy                   | uni04D0           |
+| ӑ     | uni04D1           | abrevecyr                  | abreve-cy                   | uni04D1           |
+| Ӓ     | uni04D2           | Adieresiscyr               | Adieresis-cy                | uni04D2           |
+| ӓ     | uni04D3           | adieresiscyr               | adieresis-cy                | uni04D3           |
+| Ӕ     | uni04D4           | Aiecyr                     | Aie-cy                      | uni04D4           |
+| ӕ     | uni04D5           | aiecyr                     | aie-cy                      | uni04D5           |
+| Ӗ     | uni04D6           | Iebrevecyr                 | Iebreve-cy                  | uni04D6           |
+| ӗ     | uni04D7           | iebrevecyr                 | iebreve-cy                  | uni04D7           |
+| Ә     | uni04D8           | Schwacyr                   | Schwa-cy                    | uni04D8           |
+| ә     | uni04D9           | schwacyr                   | schwa-cy                    | uni04D9           |
+| Ӛ     | uni04DA           | Schwadieresiscyr           | Schwadieresis-cy            | uni04DA           |
+| ӛ     | uni04DB           | schwadieresiscyr           | schwadieresis-cy            | uni04DB           |
+| Ӝ     | uni04DC           | Zhedieresiscyr             | Zhedieresis-cy              | uni04DC           |
+| ӝ     | uni04DD           | zhedieresiscyr             | zhedieresis-cy              | uni04DD           |
+| Ӟ     | uni04DE           | Zedieresiscyr              | Zedieresis-cy               | uni04DE           |
+| ӟ     | uni04DF           | zedieresiscyr              | zedieresis-cy               | uni04DF           |
+| Ӡ     | uni04E0           | Dzeabkhcyr                 | Dzeabkhasian-cy             | uni04E0           |
+| ӡ     | uni04E1           | dzeabkhcyr                 | dzeabkhasian-cy             | uni04E1           |
+| Ӣ     | uni04E2           | Imacroncyr                 | Imacron-cy                  | uni04E2           |
+| ӣ     | uni04E3           | imacroncyr                 | imacron-cy                  | uni04E3           |
+| Ӥ     | uni04E4           | Idieresiscyr               | Idieresis-cy                | uni04E4           |
+| ӥ     | uni04E5           | idieresiscyr               | idieresis-cy                | uni04E5           |
+| Ӧ     | uni04E6           | Odieresiscyr               | Odieresis-cy                | uni04E6           |
+| ӧ     | uni04E7           | odieresiscyr               | odieresis-cy                | uni04E7           |
+| Ө     | uni04E8           | Obarcyr                    | Obarred-cy                  | uni04E8           |
+| ө     | uni04E9           | obarcyr                    | obarred-cy                  | uni04E9           |
+| Ӫ     | uni04EA           | Obardieresiscyr            | Obarreddieresis-cy          | uni04EA           |
+| ӫ     | uni04EB           | obardieresiscyr            | obarreddieresis-cy          | uni04EB           |
+| Ӭ     | uni04EC           | Ereverseddieresiscyr       | Edieresis-cy                | uni04EC           |
+| ӭ     | uni04ED           | ereverseddieresiscyr       | edieresis-cy                | uni04ED           |
+| Ӯ     | uni04EE           | Umacroncyr                 | Umacron-cy                  | uni04EE           |
+| ӯ     | uni04EF           | umacroncyr                 | umacron-cy                  | uni04EF           |
+| Ӱ     | uni04F0           | Udieresiscyr               | Udieresis-cy                | uni04F0           |
+| ӱ     | uni04F1           | udieresiscyr               | udieresis-cy                | uni04F1           |
+| Ӳ     | uni04F2           | Uacutedblcyr               | Uhungarumlaut-cy            | uni04F2           |
+| ӳ     | uni04F3           | uacutedblcyr               | uhungarumlaut-cy            | uni04F3           |
+| Ӵ     | uni04F4           | Chedieresiscyr             | Chedieresis-cy              | uni04F4           |
+| ӵ     | uni04F5           | chedieresiscyr             | chedieresis-cy              | uni04F5           |
+| Ӷ     | uni04F6           | Getailcyr                  | Gedescender-cy              | uni04F6           |
+| ӷ     | uni04F7           | getailcyr                  | gedescender-cy              | uni04F7           |
+| Ӹ     | uni04F8           | Ylongdieresiscyr           | Yerudieresis-cy             | uni04F8           |
+| ӹ     | uni04F9           | ylongdieresiscyr           | yerudieresis-cy             | uni04F9           |
+| Ӻ     | uni04FA           | Gehookstrokecyr            | Gestrokehook-cy             | uni04FA           |
+| ӻ     | uni04FB           | gehookstrokecyr            | gestrokehook-cy             | uni04FB           |
+| Ӽ     | uni04FC           | Hahookcyr                  | Hahook-cy                   | uni04FC           |
+| ӽ     | uni04FD           | hahookcyr                  | hahook-cy                   | uni04FD           |
+| Ӿ     | uni04FE           | Hastrokecyr                | Hastroke-cy                 | uni04FE           |
+| ӿ     | uni04FF           | hastrokecyr                | hastroke-cy                 | uni04FF           |
+| Ԁ     | uni0500           | Dekomicyr                  | Komide-cy                   | uni0500           |
+| ԁ     | uni0501           | dekomicyr                  | komide-cy                   | uni0501           |
+| Ԃ     | uni0502           | Djekomicyr                 | Komidje-cy                  | uni0502           |
+| ԃ     | uni0503           | djekomicyr                 | komidje-cy                  | uni0503           |
+| Ԅ     | uni0504           | Zjekomicyr                 | Komizje-cy                  | uni0504           |
+| ԅ     | uni0505           | zjekomicyr                 | komizje-cy                  | uni0505           |
+| Ԇ     | uni0506           | Dzjekomicyr                | Komidzje-cy                 | uni0506           |
+| ԇ     | uni0507           | dzjekomicyr                | komidzje-cy                 | uni0507           |
+| Ԉ     | uni0508           | Ljekomicyr                 | Komilje-cy                  | uni0508           |
+| ԉ     | uni0509           | ljekomicyr                 | komilje-cy                  | uni0509           |
+| Ԋ     | uni050A           | Njekomicyr                 | Kominje-cy                  | uni050A           |
+| ԋ     | uni050B           | njekomicyr                 | kominje-cy                  | uni050B           |
+| Ԍ     | uni050C           | Sjekomicyr                 | Komisje-cy                  | uni050C           |
+| ԍ     | uni050D           | sjekomicyr                 | komisje-cy                  | uni050D           |
+| Ԏ     | uni050E           | Tjekomicyr                 | Komitje-cy                  | uni050E           |
+| ԏ     | uni050F           | tjekomicyr                 | komitje-cy                  | uni050F           |
+| Ԑ     | uni0510           | Reversedzecyr              | Reversedze-cy               | uni0510           |
+| ԑ     | uni0511           | reversedzecyr              | reversedze-cy               | uni0511           |
+| Ԓ     | uni0512           | Elhookcyr                  | Elhook-cy                   | uni0512           |
+| ԓ     | uni0513           | elhookcyr                  | elhook-cy                   | uni0513           |
+| Ԕ     | uni0514           | Lhacyr                     | Lha-cy                      | uni0514           |
+| ԕ     | uni0515           | lhacyr                     | lha-cy                      | uni0515           |
+| Ԗ     | uni0516           | Rhacyr                     | Rha-cy                      | uni0516           |
+| ԗ     | uni0517           | rhacyr                     | rha-cy                      | uni0517           |
+| Ԙ     | uni0518           | Yaecyr                     | Yae-cy                      | uni0518           |
+| ԙ     | uni0519           | yaecyr                     | yae-cy                      | uni0519           |
+| Ԛ     | uni051A           | Qacyr                      | Qa-cy                       | uni051A           |
+| ԛ     | uni051B           | qacyr                      | qa-cy                       | uni051B           |
+| Ԝ     | uni051C           | Wecyr                      | We-cy                       | uni051C           |
+| ԝ     | uni051D           | wecyr                      | we-cy                       | uni051D           |
+| Ԟ     | uni051E           | Kaaleutcyr                 | Aleutka-cy                  | uni051E           |
+| ԟ     | uni051F           | kaaleutcyr                 | aleutka-cy                  | uni051F           |
+| Ԡ     | uni0520           | Elmiddlehookcyr            | Elmiddlehook-cy             | uni0520           |
+| ԡ     | uni0521           | elmiddlehookcyr            | elmiddlehook-cy             | uni0521           |
+| Ԣ     | uni0522           | Enmiddlehookcyr            | Enmiddlehook-cy             | uni0522           |
+| ԣ     | uni0523           | enmiddlehookcyr            | enmiddlehook-cy             | uni0523           |
+| Ԥ     | uni0524           | Petailcyr                  | Pedescender-cy              | uni0524           |
+| ԥ     | uni0525           | petailcyr                  | pedescender-cy              | uni0525           |
+| Ԧ     | uni0526           | Shhatailcyr                | Shhadescender-cy            | uni0526           |
+| ԧ     | uni0527           | shhatailcyr                | shhadescender-cy            | uni0527           |
+| Ԩ     | uni0528           | Enhookleftcyr              | EnLeftHook-cy               | uni0528           |
+| ԩ     | uni0529           | enhookleftcyr              | enlefthook-cy               | uni0529           |
+| Ԫ     | uni052A           | Dzzhecyr                   | Dzzhe-cy                    | uni052A           |
+| ԫ     | uni052B           | dzzhecyr                   | dzzhe-cy                    | uni052B           |
+| Ԭ     | uni052C           | Dchecyr                    | Dche-cy                     | uni052C           |
+| ԭ     | uni052D           | dchecyr                    | dche-cy                     | uni052D           |
+| Ԯ     | uni052E           | Eltailcyr                  | Eldescender-cy              | uni052E           |
+| ԯ     | uni052F           | eltailcyr                  | eldescender-cy              | uni052F           |
+| ᲀ     | uni1C80           | uni1C80                    | uni1C80                     | uni1C80           |
+| ᲁ     | uni1C81           | uni1C81                    | uni1C81                     | uni1C81           |
+| ᲂ     | uni1C82           | uni1C82                    | uni1C82                     | uni1C82           |
+| ᲃ     | uni1C83           | uni1C83                    | uni1C83                     | uni1C83           |
+| ᲄ     | uni1C84           | uni1C84                    | uni1C84                     | uni1C84           |
+| ᲅ     | uni1C85           | uni1C85                    | uni1C85                     | uni1C85           |
+| ᲆ     | uni1C86           | uni1C86                    | uni1C86                     | uni1C86           |
+| ᲇ     | uni1C87           | uni1C87                    | uni1C87                     | uni1C87           |
+| ᲈ     | uni1C88           | uni1C88                    | uni1C88                     | uni1C88           |
+|       | uni1C89           | uni1C89                    | uni1C89                     | uni1C89           |
+|       | uni1C8A           | uni1C8A                    | uni1C8A                     | uni1C8A           |
+| ᴫ     | uni1D2B           | Elsmallcyr                 | Elsmall-cy                  | uni1D2B           |
+|       | uni1D2C           | uni1D2C                    | uni1D2C                     | uni1D2C           |
+| ᵸ     | uni1D78           | ENcyrmod                   | enmod-cy                    | uni1D78           |
+| ⷠ     | uni2DE0           | uni2DE0                    | uni2DE0                     | uni2DE0           |
+| ⷡ     | uni2DE1           | uni2DE1                    | uni2DE1                     | uni2DE1           |
+| ⷢ     | uni2DE2           | uni2DE2                    | uni2DE2                     | uni2DE2           |
+| ⷣ     | uni2DE3           | uni2DE3                    | uni2DE3                     | uni2DE3           |
+| ⷤ     | uni2DE4           | uni2DE4                    | uni2DE4                     | uni2DE4           |
+| ⷥ     | uni2DE5           | uni2DE5                    | uni2DE5                     | uni2DE5           |
+| ⷦ     | uni2DE6           | uni2DE6                    | uni2DE6                     | uni2DE6           |
+| ⷧ     | uni2DE7           | uni2DE7                    | uni2DE7                     | uni2DE7           |
+| ⷨ     | uni2DE8           | uni2DE8                    | uni2DE8                     | uni2DE8           |
+| ⷩ     | uni2DE9           | uni2DE9                    | uni2DE9                     | uni2DE9           |
+| ⷪ     | uni2DEA           | uni2DEA                    | uni2DEA                     | uni2DEA           |
+| ⷫ     | uni2DEB           | uni2DEB                    | uni2DEB                     | uni2DEB           |
+| ⷬ     | uni2DEC           | uni2DEC                    | uni2DEC                     | uni2DEC           |
+| ⷭ     | uni2DED           | uni2DED                    | uni2DED                     | uni2DED           |
+| ⷮ     | uni2DEE           | uni2DEE                    | uni2DEE                     | uni2DEE           |
+| ⷯ     | uni2DEF           | uni2DEF                    | uni2DEF                     | uni2DEF           |
+| ⷰ     | uni2DF0           | uni2DF0                    | uni2DF0                     | uni2DF0           |
+| ⷱ     | uni2DF1           | uni2DF1                    | uni2DF1                     | uni2DF1           |
+| ⷲ     | uni2DF2           | uni2DF2                    | uni2DF2                     | uni2DF2           |
+| ⷳ     | uni2DF3           | uni2DF3                    | uni2DF3                     | uni2DF3           |
+| ⷴ     | uni2DF4           | uni2DF4                    | uni2DF4                     | uni2DF4           |
+| ⷵ     | uni2DF5           | uni2DF5                    | uni2DF5                     | uni2DF5           |
+| ⷶ     | uni2DF6           | uni2DF6                    | uni2DF6                     | uni2DF6           |
+| ⷷ     | uni2DF7           | uni2DF7                    | uni2DF7                     | uni2DF7           |
+| ⷸ     | uni2DF8           | uni2DF8                    | uni2DF8                     | uni2DF8           |
+| ⷹ     | uni2DF9           | uni2DF9                    | uni2DF9                     | uni2DF9           |
+| ⷺ     | uni2DFA           | uni2DFA                    | uni2DFA                     | uni2DFA           |
+| ⷻ     | uni2DFB           | uni2DFB                    | uni2DFB                     | uni2DFB           |
+| ⷼ     | uni2DFC           | uni2DFC                    | uni2DFC                     | uni2DFC           |
+| ⷽ     | uni2DFD           | uni2DFD                    | uni2DFD                     | uni2DFD           |
+| ⷾ     | uni2DFE           | uni2DFE                    | uni2DFE                     | uni2DFE           |
+| ⷿ     | uni2DFF           | uni2DFF                    | uni2DFF                     | uni2DFF           |
+| Ꙁ     | uniA640           | Zemlya-cy                  | Zemlya-cy                   | uniA640           |
+| ꙁ     | uniA641           | zemlya-cy                  | zemlya-cy                   | uniA641           |
+| Ꙃ     | uniA642           | Dzelo-cy                   | Dzelo-cy                    | uniA642           |
+| ꙃ     | uniA643           | dzelo-cy                   | dzelo-cy                    | uniA643           |
+| Ꙅ     | uniA644           | DzeReversed-cy             | DzeReversed-cy              | uniA644           |
+| ꙅ     | uniA645           | dzeReversed-cy             | dzeReversed-cy              | uniA645           |
+| Ꙇ     | uniA646           | Iota-cy                    | Iota-cy                     | uniA646           |
+| ꙇ     | uniA647           | iota-cy                    | iota-cy                     | uniA647           |
+| Ꙉ     | uniA648           | Djerv-cy                   | Djerv-cy                    | uniA648           |
+| ꙉ     | uniA649           | djerv-cy                   | djerv-cy                    | uniA649           |
+| Ꙋ     | uniA64A           | UkMonograph-cy             | UkMonograph-cy              | uniA64A           |
+| ꙋ     | uniA64B           | ukMonograph-cy             | ukMonograph-cy              | uniA64B           |
+| Ꙍ     | uniA64C           | OmegaBroad-cy              | OmegaBroad-cy               | uniA64C           |
+| ꙍ     | uniA64D           | omegaBroad-cy              | omegaBroad-cy               | uniA64D           |
+| Ꙏ     | uniA64E           | YerNeutral-cy              | YerNeutral-cy               | uniA64E           |
+| ꙏ     | uniA64F           | yerNeutral-cy              | yerNeutral-cy               | uniA64F           |
+| Ꙑ     | uniA650           | YeruBackYer-cy             | YeruBackYer-cy              | uniA650           |
+| ꙑ     | uniA651           | yeruBackyer-cy             | yeruBackyer-cy              | uniA651           |
+| Ꙓ     | uniA652           | YatIotified-cy             | YatIotified-cy              | uniA652           |
+| ꙓ     | uniA653           | yatIotified-cy             | yatIotified-cy              | uniA653           |
+| Ꙕ     | uniA654           | YuReversed-cy              | YuReversed-cy               | uniA654           |
+| ꙕ     | uniA655           | yuReversed-cy              | yuReversed-cy               | uniA655           |
+| Ꙗ     | uniA656           | IotifiedA-cy               | IotifiedA-cy                | uniA656           |
+| ꙗ     | uniA657           | iotifieda-cy               | iotifieda-cy                | uniA657           |
+| Ꙙ     | uniA658           | YusClosedlittle-cy         | YusClosedlittle-cy          | uniA658           |
+| ꙙ     | uniA659           | yusClosedlittle-cy         | yusClosedlittle-cy          | uniA659           |
+| Ꙛ     | uniA65A           | YusBlended-cy              | YusBlended-cy               | uniA65A           |
+| ꙛ     | uniA65B           | yusBlended-cy              | yusBlended-cy               | uniA65B           |
+| Ꙝ     | uniA65C           | YusiotifiedClosedLittle-cy | YusiotifiedClosedLittle-cy  | uniA65C           |
+| ꙝ     | uniA65D           | yusiotifiedClosedLittle-cy | yusiotifiedClosedLittle-cy  | uniA65D           |
+| Ꙟ     | uniA65E           | Yn-cy                      | Yn-cy                       | uniA65E           |
+| ꙟ     | uniA65F           | yn-cy                      | yn-cy                       | uniA65F           |
+| Ꙡ     | uniA660           | TseReversed-cy             | TseReversed-cy              | uniA660           |
+| ꙡ     | uniA661           | tseReversed-cy             | tseReversed-cy              | uniA661           |
+| Ꙣ     | uniA662           | DeSoft-cy                  | DeSoft-cy                   | uniA662           |
+| ꙣ     | uniA663           | deSoft-cy                  | deSoft-cy                   | uniA663           |
+| Ꙥ     | uniA664           | ElSoft-cy                  | ElSoft-cy                   | uniA664           |
+| ꙥ     | uniA665           | elSoft-cy                  | elSoft-cy                   | uniA665           |
+| Ꙧ     | uniA666           | EmSoft-cy                  | EmSoft-cy                   | uniA666           |
+| ꙧ     | uniA667           | emSoft-cy                  | emSoft-cy                   | uniA667           |
+| Ꙩ     | uniA668           | OMonocular-cy              | OMonocular-cy               | uniA668           |
+| ꙩ     | uniA669           | oMonocular-cy              | oMonocular-cy               | uniA669           |
+| Ꙫ     | uniA66A           | OBinocular-cy              | OBinocular-cy               | uniA66A           |
+| ꙫ     | uniA66B           | oBinocular-cy              | oBinocular-cy               | uniA66B           |
+| Ꙭ     | uniA66C           | ODoubleMonocular-cy        | ODoubleMonocular-cy         | uniA66C           |
+| ꙭ     | uniA66D           | oDoubleMonocular-cy        | oDoubleMonocular-cy         | uniA66D           |
+| ꙮ     | uniA66E           | omultiocular-cy            | omultiocular-cy             | uniA66E           |
+| ꙯     | uniA66F           | vzmetcomb-cy               | vzmetcomb-cy                | uniA66F           |
+| ꙰     | uniA670           | tenmillionscomb-cy         | tenmillionscomb-cy          | uniA670           |
+| ꙱     | uniA671           | hundredmillionscomb-cy     | hundredmillionscomb-cy      | uniA671           |
+| ꙲     | uniA672           | thousandmillionscomb-cy    | thousandmillionscomb-cy     | uniA672           |
+| ꙳     | uniA673           | asterisk-cy                | asterisk-cy                 | uniA673           |
+| ꙴ     | uniA674           | ieukrainiancomb-cy         | ieukrainiancomb-cy          | uniA674           |
+| ꙵ     | uniA675           | icomb-cy                   | icomb-cy                    | uniA675           |
+| ꙶ     | uniA676           | yicomb-cy                  | yicomb-cy                   | uniA676           |
+| ꙷ     | uniA677           | ucomb-cy                   | ucomb-cy                    | uniA677           |
+| ꙸ     | uniA678           | hardsigncomb-cy            | hardsigncomb-cy             | uniA678           |
+| ꙹ     | uniA679           | yerucomb-cy                | yerucomb-cy                 | uniA679           |
+| ꙺ     | uniA67A           | softsigncomb-cy            | softsigncomb-cy             | uniA67A           |
+| ꙻ     | uniA67B           | omegacomb-cy               | omegacomb-cy                | uniA67B           |
+| ꙼     | uniA67C           | kavykacomb-cy              | kavykacomb-cy               | uniA67C           |
+| ꙽     | uniA67D           | payerokcomb-cy             | payerokcomb-cy              | uniA67D           |
+| ꙾     | uniA67E           | kavyka-cy                  | kavyka-cy                   | uniA67E           |
+| ꙿ     | uniA67F           | payerok-cy                 | payerok-cy                  | uniA67F           |
+| Ꚁ     | uniA680           | Dwe-cy                     | Dwe-cy                      | uniA680           |
+| ꚁ     | uniA681           | dwe-cy                     | dwe-cy                      | uniA681           |
+| Ꚃ     | uniA682           | Dzwe-cy                    | Dzwe-cy                     | uniA682           |
+| ꚃ     | uniA683           | dzwe-cy                    | dzwe-cy                     | uniA683           |
+| Ꚅ     | uniA684           | Zhwe-cy                    | Zhwe-cy                     | uniA684           |
+| ꚅ     | uniA685           | zhwe-cy                    | zhwe-cy                     | uniA685           |
+| Ꚇ     | uniA686           | Cche-cy                    | Cche-cy                     | uniA686           |
+| ꚇ     | uniA687           | cche-cy                    | cche-cy                     | uniA687           |
+| Ꚉ     | uniA688           | Dzze-cy                    | Dzze-cy                     | uniA688           |
+| ꚉ     | uniA689           | dzze-cy                    | dzze-cy                     | uniA689           |
+| Ꚋ     | uniA68A           | TeWithMiddleHook-cy        | TeWithMiddleHook-cy         | uniA68A           |
+| ꚋ     | uniA68B           | tewithmiddlehook-cy        | tewithmiddlehook-cy         | uniA68B           |
+| Ꚍ     | uniA68C           | Twe-cy                     | Twe-cy                      | uniA68C           |
+| ꚍ     | uniA68D           | twe-cy                     | twe-cy                      | uniA68D           |
+| Ꚏ     | uniA68E           | Tswe-cy                    | Tswe-cy                     | uniA68E           |
+| ꚏ     | uniA68F           | tswe-cy                    | tswe-cy                     | uniA68F           |
+| Ꚑ     | uniA690           | Tsse-cy                    | Tsse-cy                     | uniA690           |
+| ꚑ     | uniA691           | tsse-cy                    | tsse-cy                     | uniA691           |
+| Ꚓ     | uniA692           | Tche-cy                    | Tche-cy                     | uniA692           |
+| ꚓ     | uniA693           | tche-cy                    | tche-cy                     | uniA693           |
+| Ꚕ     | uniA694           | Hwe-cy                     | Hwe-cy                      | uniA694           |
+| ꚕ     | uniA695           | hwe-cy                     | hwe-cy                      | uniA695           |
+| Ꚗ     | uniA696           | Shwe-cy                    | Shwe-cy                     | uniA696           |
+| ꚗ     | uniA697           | shwe-cy                    | shwe-cy                     | uniA697           |
+| Ꚙ     | uniA698           | DoubleO-cy                 | DoubleO-cy                  | uniA698           |
+| ꚙ     | uniA699           | doubleo-cy                 | doubleo-cy                  | uniA699           |
+| Ꚛ     | uniA69A           | CrossedO-cy                | CrossedO-cy                 | uniA69A           |
+| ꚛ     | uniA69B           | crossedo-cy                | crossedo-cy                 | uniA69B           |
+| ꚜ     | uniA69C           | modifierhardsign-cy        | modifierhardsign-cy         | uniA69C           |
+| ꚝ     | uniA69D           | modifiersoftsign-cy        | modifiersoftsign-cy         | uniA69D           |
+| ꚞ     | uniA69E           | efcomb-cy                  | efcomb-cy                   | uniA69E           |
+| ꚟ     | uniA69F           | iotifiedecomb-cy           | iotifiedecomb-cy            | uniA69F           |
+| ︮     | uniFE2E           | titlolefthalfcomb-cy       | titlolefthalfcomb-cy        | uniFE2E           |
+| ︯     | uniFE2F           | titlorighthalfcomb-cy      | titlorighthalfcomb-cy       | uniFE2F           |
+| 𞀰    | u1E030            | u1E030                     | u1E030                      | u1E030            |
+| 𞀱    | u1E031            | u1E031                     | u1E031                      | u1E031            |
+| 𞀲    | u1E032            | u1E032                     | u1E032                      | u1E032            |
+| 𞀳    | u1E033            | u1E033                     | u1E033                      | u1E033            |
+| 𞀴    | u1E034            | u1E034                     | u1E034                      | u1E034            |
+| 𞀵    | u1E035            | u1E035                     | u1E035                      | u1E035            |
+| 𞀶    | u1E036            | u1E036                     | u1E036                      | u1E036            |
+| 𞀷    | u1E037            | u1E037                     | u1E037                      | u1E037            |
+| 𞀸    | u1E038            | u1E038                     | u1E038                      | u1E038            |
+| 𞀹    | u1E039            | u1E039                     | u1E039                      | u1E039            |
+| 𞀺    | u1E03A            | u1E03A                     | u1E03A                      | u1E03A            |
+| 𞀻    | u1E03B            | u1E03B                     | u1E03B                      | u1E03B            |
+| 𞀼    | u1E03C            | u1E03C                     | u1E03C                      | u1E03C            |
+| 𞀽    | u1E03D            | u1E03D                     | u1E03D                      | u1E03D            |
+| 𞀾    | u1E03E            | u1E03E                     | u1E03E                      | u1E03E            |
+| 𞀿    | u1E03F            | u1E03F                     | u1E03F                      | u1E03F            |
+| 𞁀    | u1E040            | u1E040                     | u1E040                      | u1E040            |
+| 𞁁    | u1E041            | u1E041                     | u1E041                      | u1E041            |
+| 𞁂    | u1E042            | u1E042                     | u1E042                      | u1E042            |
+| 𞁃    | u1E043            | u1E043                     | u1E043                      | u1E043            |
+| 𞁄    | u1E044            | u1E044                     | u1E044                      | u1E044            |
+| 𞁅    | u1E045            | u1E045                     | u1E045                      | u1E045            |
+| 𞁆    | u1E046            | u1E046                     | u1E046                      | u1E046            |
+| 𞁇    | u1E047            | u1E047                     | u1E047                      | u1E047            |
+| 𞁈    | u1E048            | u1E048                     | u1E048                      | u1E048            |
+| 𞁉    | u1E049            | u1E049                     | u1E049                      | u1E049            |
+| 𞁊    | u1E04A            | u1E04A                     | u1E04A                      | u1E04A            |
+| 𞁋    | u1E04B            | u1E04B                     | u1E04B                      | u1E04B            |
+| 𞁌    | u1E04C            | u1E04C                     | u1E04C                      | u1E04C            |
+| 𞁍    | u1E04D            | u1E04D                     | u1E04D                      | u1E04D            |
+| 𞁎    | u1E04E            | u1E04E                     | u1E04E                      | u1E04E            |
+| 𞁏    | u1E04F            | u1E04F                     | u1E04F                      | u1E04F            |
+| 𞁐    | u1E050            | u1E050                     | u1E050                      | u1E050            |
+| 𞁑    | u1E051            | u1E051                     | u1E051                      | u1E051            |
+| 𞁒    | u1E052            | u1E052                     | u1E052                      | u1E052            |
+| 𞁓    | u1E053            | u1E053                     | u1E053                      | u1E053            |
+| 𞁔    | u1E054            | u1E054                     | u1E054                      | u1E054            |
+| 𞁕    | u1E055            | u1E055                     | u1E055                      | u1E055            |
+| 𞁖    | u1E056            | u1E056                     | u1E056                      | u1E056            |
+| 𞁗    | u1E057            | u1E057                     | u1E057                      | u1E057            |
+| 𞁘    | u1E058            | u1E058                     | u1E058                      | u1E058            |
+| 𞁙    | u1E059            | u1E059                     | u1E059                      | u1E059            |
+| 𞁚    | u1E05A            | u1E05A                     | u1E05A                      | u1E05A            |
+| 𞁛    | u1E05B            | u1E05B                     | u1E05B                      | u1E05B            |
+| 𞁜    | u1E05C            | u1E05C                     | u1E05C                      | u1E05C            |
+| 𞁝    | u1E05D            | u1E05D                     | u1E05D                      | u1E05D            |
+| 𞁞    | u1E05E            | u1E05E                     | u1E05E                      | u1E05E            |
+| 𞁟    | u1E05F            | u1E05F                     | u1E05F                      | u1E05F            |
+| 𞁠    | u1E060            | u1E060                     | u1E060                      | u1E060            |
+| 𞁡    | u1E061            | u1E061                     | u1E061                      | u1E061            |
+| 𞁢    | u1E062            | u1E062                     | u1E062                      | u1E062            |
+| 𞁣    | u1E063            | u1E063                     | u1E063                      | u1E063            |
+| 𞁤    | u1E064            | u1E064                     | u1E064                      | u1E064            |
+|       | u1E065            | u1E065                     | u1E065                      | u1E065            |
+|       | u1E066            | u1E066                     | u1E066                      | u1E066            |
+|       | u1E067            | u1E067                     | u1E067                      | u1E067            |
+|       | u1E068            | u1E068                     | u1E068                      | u1E068            |
+|       | u1E069            | u1E069                     | u1E069                      | u1E069            |
+|       | u1E06A            | u1E06A                     | u1E06A                      | u1E06A            |
+|       | u1E06B            | u1E06B                     | u1E06B                      | u1E06B            |
+|       | u1E06C            | u1E06C                     | u1E06C                      | u1E06C            |
+|       | u1E06D            | u1E06D                     | u1E06D                      | u1E06D            |
+|       | u1E08F            | u1E08F                     | u1E08F                      | u1E08F            |
+|       | Decyr.loclBGR     | Decyr.loclBGR              | Decyr.loclBGR               | Decyr.loclBGR     |
+|       | Zhecyr.loclBGR    | Zhecyr.loclBGR             | Zhecyr.loclBGR              | Zhecyr.loclBGR    |
+|       | Kacyr.loclBGR     | Kacyr.loclBGR              | Kacyr.loclBGR               | Kacyr.loclBGR     |
+|       | Elcyr.loclBGR     | Elcyr.loclBGR              | Elcyr.loclBGR               | Elcyr.loclBGR     |
+|       | vecyr.loclBGR     | vecyr.loclBGR              | vecyr.loclBGR               | vecyr.loclBGR     |
+|       | gecyr.loclBGR     | gecyr.loclBGR              | gecyr.loclBGR               | gecyr.loclBGR     |
+|       | decyr.loclBGR     | decyr.loclBGR              | decyr.loclBGR               | decyr.loclBGR     |
+|       | zhecyr.loclBGR    | zhecyr.loclBGR             | zhecyr.loclBGR              | zhecyr.loclBGR    |
+|       | zecyr.loclBGR     | zecyr.loclBGR              | zecyr.loclBGR               | zecyr.loclBGR     |
+|       | icyr.loclBGR      | icyr.loclBGR               | icyr.loclBGR                | icyr.loclBGR      |
+|       | ishortcyr.loclBGR | ishortcyr.loclBGR          | ishortcyr.loclBGR           | ishortcyr.loclBGR |
+|       | kacyr.loclBGR     | kacyr.loclBGR              | kacyr.loclBGR               | kacyr.loclBGR     |
+|       | elcyr.loclBGR     | elcyr.loclBGR              | elcyr.loclBGR               | elcyr.loclBGR     |
+|       | encyr.loclBGR     | encyr.loclBGR              | encyr.loclBGR               | encyr.loclBGR     |
+|       | pecyr.loclBGR     | pecyr.loclBGR              | pecyr.loclBGR               | pecyr.loclBGR     |
+|       | tecyr.loclBGR     | tecyr.loclBGR              | tecyr.loclBGR               | tecyr.loclBGR     |
+|       | efcyr.loclBGR     | efcyr.loclBGR              | efcyr.loclBGR               | efcyr.loclBGR     |
+|       | tsecyr.loclBGR    | tsecyr.loclBGR             | tsecyr.loclBGR              | tsecyr.loclBGR    |
+|       | checyr.loclBGR    | checyr.loclBGR             | checyr.loclBGR              | checyr.loclBGR    |
+|       | shacyr.loclBGR    | shacyr.loclBGR             | shacyr.loclBGR              | shacyr.loclBGR    |
+|       | shchacyr.loclBGR  | shchacyr.loclBGR           | shchacyr.loclBGR            | shchacyr.loclBGR  |
+|       | hardcyr.loclBGR   | hardcyr.loclBGR            | hardcyr.loclBGR             | hardcyr.loclBGR   |
+|       | softcyr.loclBGR   | softcyr.loclBGR            | softcyr.loclBGR             | softcyr.loclBGR   |
+|       | yucyr.loclBGR     | yucyr.loclBGR              | yucyr.loclBGR               | yucyr.loclBGR     |
+|       | igravecyr.loclBGR | igravecyr.loclBGR          | igravecyr.loclBGR           | igravecyr.loclBGR |
