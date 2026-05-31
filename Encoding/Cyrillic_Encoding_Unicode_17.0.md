@@ -1,5 +1,5 @@
-| Glyph | Unicode name | FontLab name | Alternative name |
-| ----- | ------------ | ------------ | ---------------- |
+| Glyph  | Unicode name  | FontLab name  | Alternative name  |
+| :----- | :------------ | :------------ | :---------------- |
 | Ѐ     | uni0400      | Iegravecyr   | Iegrave-cy       |
 | Ё     | uni0401      | Iocyr        | Io-cy            |
 | Ђ     | uni0402      | Djecyr       | Dje-cy           |
