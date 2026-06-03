@@ -21,7 +21,7 @@ If you make modifications to the project, be sure to add your details below, inc
 License
 -------
 
-MIT
+MIT License
 
 
 Examples
