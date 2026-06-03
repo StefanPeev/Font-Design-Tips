@@ -21,7 +21,7 @@ If you make modifications to the project, be sure to add your details below, inc
 License
 -------
 
-GPL-3.0 license
+MIT
 
 
 Examples
