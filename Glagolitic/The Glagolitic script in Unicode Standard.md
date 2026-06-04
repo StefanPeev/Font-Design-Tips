@@ -128,7 +128,7 @@ These 38 characters act as combining diacritic-style marks used to reconstruct h
 | ◌𞀄 | uni1E004 | Combining Glagolitic Letter Dobro |  
 | ◌𞀅 | uni1E005 | Combining Glagolitic Letter Yestu |  
 | ◌𞀆 | uni1E006 | Combining Glagolitic Letter Zhivete |  
-| ◌ | uni1E007 | Reserved Unassigned |  
+| | uni1E007 | Reserved Unassigned |  
 | ◌𞀈 | uni1E008 | Combining Glagolitic Letter Izhe |  
 | ◌𞀉 | uni1E009 | Combining Glagolitic Letter Initial Izhe |  
 | ◌𞀊 | uni1E00A | Combining Glagolitic Letter I |  
@@ -146,8 +146,8 @@ These 38 characters act as combining diacritic-style marks used to reconstruct h
 | ◌𞀖 | uni1E016 | Combining Glagolitic Letter Fritu |  
 | ◌𞀗 | uni1E017 | Combining Glagolitic Letter Heru |  
 | ◌𞀘 | uni1E018 | Combining Glagolitic Letter Otu |  
-| ◌ | uni1E019 | Reserved Unassigned |  
-| ◌ | uni1E01A | Reserved Unassigned |  
+| | uni1E019 | Reserved Unassigned |  
+| | uni1E01A | Reserved Unassigned |  
 | ◌𞀛 | uni1E01B | Combining Glagolitic Letter Shta |  
 | ◌𞀜 | uni1E01C | Combining Glagolitic Letter Tsi |  
 | ◌𞀝 | uni1E01D | Combining Glagolitic Letter Chrivi |  
@@ -155,10 +155,10 @@ These 38 characters act as combining diacritic-style marks used to reconstruct h
 | ◌𞀟 | uni1E01F | Combining Glagolitic Letter Yeru |  
 | ◌𞀠 | uni1E020 | Combining Glagolitic Letter Yeri |  
 | ◌𞀡 | uni1E021 | Combining Glagolitic Letter Yati |  
-| ◌ | uni1E022 | Reserved Unassigned |  
+| | uni1E022 | Reserved Unassigned |  
 | ◌𞀣 | uni1E023 | Combining Glagolitic Letter Yu |  
 | ◌𞀤 | uni1E024 | Combining Glagolitic Letter Small Yus |  
-| ◌ | uni1E025 | Reserved Unassigned |  
+| | uni1E025 | Reserved Unassigned |  
 | ◌𞀦 | uni1E026 | Combining Glagolitic Letter Yo |  
 | ◌𞀧 | uni1E027 | Combining Glagolitic Letter Iotated Small Yus |  
 | ◌𞀨 | uni1E028 | Combining Glagolitic Letter Big Yus |  
