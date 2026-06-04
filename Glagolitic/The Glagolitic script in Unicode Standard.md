@@ -184,6 +184,7 @@ These 38 characters act as combining diacritic-style marks used to reconstruct h
   <summary>Click me to open the list of Sources</summary>  
   
 + The Unicode Standard, Version 17.0. [Glagolitic. Range: 2C00–2C5F. Number of assigned Characters: 96](https://www.unicode.org/charts/PDF/U2C00.pdf)  
-+ The Unicode Standard, Version 17.0. [Glagolitic Supplement. Range: 0500–052F. Number of assigned Characters: 38](https://www.unicode.org/charts/PDF/U1E000.pdf)  
++ The Unicode Standard, Version 17.0. [Glagolitic Supplement. Range: 1E000–1E02F. Number of assigned Characters: 38](https://www.unicode.org/charts/PDF/U1E000.pdf)  
++ Wikipedia. [Glagolitic Supplement](https://en.wikipedia.org/wiki/Glagolitic_Supplement)  
   
 </details>  
