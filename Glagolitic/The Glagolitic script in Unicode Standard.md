@@ -3,10 +3,22 @@
 
 The Glagolitic script is split into two formal Unicode blocks: the main Glagolitic block (containing standard uppercase and lowercase text characters) and the Glagolitic Supplement block (containing combining superscript letters used for historical text formatting and abbreviations).  
 
+## Table of content
+<details>
+  <summary>Click me to open the Table of Content</summary>  
+    
++ <a id=tc_glagomain_1></a>The Main Glagolitic block (2C00 – 2C5F) [:arrows_counterclockwise:](#glagomain)  
++ <a id=tc_glagouc></a>Capital Letters (2C00 – 2C2F) [:arrows_counterclockwise:](#glagouc)  
++ <a id=tc_glagolc></uca>Small Letters (2C30 – 2C5F) [:arrows_counterclockwise:](#glagolc)  
++ <a id=tc_glagosb></a>Glagolitic Supplement Block (1E000 – 1E02F) [:arrows_counterclockwise:](#glagosb)  
++ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
+</details>  
 
-## The Main Glagolitic block (uni2C00 – uni2C5F)
 
-### Capital Letters (uni2C00 – uni2C2F)
+
+## <a id=glagomain></a>The Main Glagolitic block (2C00 – 2C5F) [:arrows_counterclockwise:](#tc_glagomain)  
+
+### <a id=glagouc></a>Capital Letters (2C00 – 2C2F) [:arrows_counterclockwise:](#tc_glagouc)  
 
 | Glyph | Codepoint in Unicode | Description |  
 |:-----|:-----|:-----|  
@@ -57,11 +69,11 @@ The Glagolitic script is split into two formal Unicode blocks: the main Glagolit
 | Ⱜ | uni2C2C | Glagolitic Capital Letter Left-Tailed Yavu |  
 | Ⱝ | uni2C2D | Glagolitic Capital Letter Right-Tailed Yavu |  
 | Ⱞ | uni2C2E | Glagolitic Capital Letter Latinate Myslite |  
-|  | uni2C2F | Reserved (Unassigned) |  
+| ⱟ | uni2C2F | Glagolitic Capital Letter Caudate Chrivi |  
 
 
 
-### Small Letters (uni2C30 – uni2C5F)
+### <a id=glagolc></a>Small Letters (2C30 – 2C5F) [:arrows_counterclockwise:](#tc_glagolc)  
 
 | Glyph | Codepoint in Unicode | Description |  
 |:-----|:-----|:-----|  
@@ -115,7 +127,7 @@ The Glagolitic script is split into two formal Unicode blocks: the main Glagolit
 | ⱟ | uni2C5F | Glagolitic Small Letter Caudate Chrivi |  
 
 
-### Glagolitic Supplement Block (uni1E000 – uni1E02F)
+### <a id=glagosb></a> Glagolitic Supplement Block (1E000 – 1E02F) [:arrows_counterclockwise:](#tc_glagosb)  
 
 These 38 characters act as combining diacritic-style marks used to reconstruct historical abbreviations or nomina sacra over base text lines.
 
@@ -164,3 +176,14 @@ These 38 characters act as combining diacritic-style marks used to reconstruct h
 | ◌𞀨 | uni1E028 | Combining Glagolitic Letter Big Yus |  
 | ◌𞀩 | uni1E029 | Combining Glagolitic Letter Iotated Big Yus |  
 | | uni1E02A to uni1E02F | Reserved Unassigned |  
+  
+  
+  ## <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+    
+<details>
+  <summary>Click me to open the list of Sources</summary>  
+  
++ The Unicode Standard, Version 17.0. [Glagolitic. Range: 2C00–2C5F. Number of assigned Characters: 96](https://www.unicode.org/charts/PDF/U2C00.pdf)  
++ The Unicode Standard, Version 17.0. [Glagolitic Supplement. Range: 0500–052F. Number of assigned Characters: 38](https://www.unicode.org/charts/PDF/U1E000.pdf)  
+  
+</details>  
