@@ -49,10 +49,10 @@ Recommended kerning class ranges for multilingual Cyrillic font
   
 <details>
   <summary>Click here for a table of details</summary>  
-      
+  
 | Kerning left. Class uni0413_ and class uni0433_ | Kerning right. Class _uni041B and class _uni043B |  
 |:---- |:---- |  
-| ## **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** </br> uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** </br> uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
+| **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** </br> uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** </br> uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
 </details>  
   
 <details>
@@ -73,16 +73,16 @@ Recommended kerning class ranges for multilingual Cyrillic font
   
 + **Kerning:** RIGHT < **Uppercase glyphs** [О Ѳ Ӧ Ө Ӫ]: `**@_uni041E**` = [uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E]   
 + **Kerning:** RIGHT < **Lowercase glyphs** [о ѳ ӧ ө ӫ]: `**@_uni043E**` = [uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F]  
-   
+  
   
 <details>
   <summary>Click here for a table of details</summary>  
-      
+  
 | Kerning left. Class uni041A_ and class uni043A_ | Kerning right. Class _uni041E and class _uni043E |  
 |:---- |:---- |  
-| **Ќ К Қ Ҝ Ҟ Ҡ Ӄ Ԟ Ԫ Ꚅ ќ к қ ҝ ҟ ҡ ӄ ԟ ԫ ꚅ** uni040C uni041A uni049A uni049C uni049E uni04A0 uni04C3 uni051E uni052A uniA684 uni045C uni043A uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685 | **О Ѳ Ӧ Ө Ӫ о ѳ ӧ ө ӫ** uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
+| **Ќ К Қ Ҝ Ҟ Ҡ Ӄ Ԟ Ԫ Ꚅ ќ к қ ҝ ҟ ҡ ӄ ԟ ԫ ꚅ** </br> uni040C uni041A uni049A uni049C uni049E uni04A0 uni04C3 uni051E uni052A uniA684 uni045C uni043A uni049B uni049D uni049F uni04A1 uni04C4 uni051F uni052B uniA685 | **О Ѳ Ӧ Ө Ӫ о ѳ ӧ ө ӫ** </br> uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
 </details>  
-    
+  
   
 ## аӑӓ. Kerning left class uni0430_  
 ## уўӳӯӱ. Kerning left class uni0443_  
