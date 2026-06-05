@@ -28,3 +28,8 @@ Examples
 --------
 
 See [images](/images/), [Gallery](/images/Gallery.md).
+  
+Donations  
+---------  
+  
+If you apreciate the project, please feel free to support us through [sponsorship button](https://github.com/sponsors/StefanPeev).  
