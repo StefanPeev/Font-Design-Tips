@@ -52,7 +52,7 @@ Recommended kerning class ranges for multilingual Cyrillic font
       
 | Kerning left. Class uni0413_ and class uni0433_ | Kerning right. Class _uni041B and class _uni043B |  
 |:---- |:---- |  
-| **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
+| ## **Г Ѓ Ґ Ӷ Ғ Ӻ г ѓ ґ ӷ ғ ӻ** </br> uni0413 uni0403 uni0490 uni0492 uni04F6 uni04FA uni0433 uni0453 uni0491 uni0493 uni04F7 uni04FB | **Л Љ Ӆ Ԉ Ԓ Ԕ Ԡ Ԯ л љ ӆ ԉ ԓ ԕ ԡ ԯ** </br> uni041B uni0409 uni04C5 uni0508 uni0512 uni0514 uni0520 uni052E uni043B uni0459 uni04C6 uni0509 uni0513 uni0515 uni0521 uni052F |   
 </details>  
   
 <details>
