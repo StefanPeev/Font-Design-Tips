@@ -7,9 +7,18 @@
 + <a id=tc_terminals></a>Comparing Terminals [:arrows_counterclockwise:](#terminals)  
 </details>    
   
-## <a id=terminals></a>Comparing Terminals [:arrows_counterclockwise:](#tc_terminals)  
+## <a id=terminals></a>Comparing terminals [:arrows_counterclockwise:](#tc_terminals)  
   
 <img src="https://github.com/StefanPeev/Font-Design-Tips/blob/main/images/Comparing_Terminals_01.svg" />  
+  
+  
+## <a id=terminals></a>Comparing lowercase bottom hook terminals [:arrows_counterclockwise:](#tc_terminals)  
+  ȷ j ĳ ɉ ɟ ĵ ǰ ƒ ɲ ɱ ŋ ɧ ʧ ʃ ʄ ј ӈ ϗ ђ ӄ  
+l ĺ ľ ŀ ł ɫ ӏ ļ ḷ ḹ ḻ ɭ ɳ ɻ ɽ ʅ ʂ  
+t ṫ ṭ ṯ ʈ ƚ ʧ ꭧ ﬂ ﬄ  
+ι ί ϊ ἰ ἱ ἲ ἳ ἴ ἵ ἶ ἷ ὶ ί π τ  
+  
+<img src="https://github.com/StefanPeev/Font-Design-Tips/blob/main/images/Terminals_BottomLowercaseHooks_01.jpg" />  
   
   
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
