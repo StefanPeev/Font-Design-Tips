@@ -1,4 +1,18 @@
-# Gallery
+# Gallery  
+  
+##  Table of content  
+<details open>  
+  <summary>Click me</summary>  
+  
++ <a id=tc_cyrLCve></a>Introduction [:arrows_counterclockwise:](#cyrLCve)      
+А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ѣ Ѥ Ѧ Ѩ Ѫ Ѭ Ѯ Ѱ Ѳ Ѵ Ѷ Ѹ Ѻ Ѽ Ѿ Ҁ ҂ ҃ ҄ ҅ ҆ ҇ ҈ ҉  
+а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я ѣ ѥ ѧ ѩ ѫ ѭ ѯ ѱ ѳ ѵ ѷ ѹ ѻ ѽ ѿ ҁ  
+</details>   
+  
+## <a id=cyrLCve></a>Cyrillic lowercase letter В [:arrows_counterclockwise:](#tc_cyrLCve)  
+  
+<details open>  
+  <summary>Click me</summary>  
   
 <img src="https://localfonts.eu/wp-content/uploads/2021/01/Bulgarian_Cyrillic_Letter_ve_950x475_50.jpg" />  
   
@@ -99,4 +113,6 @@
 <img src="https://localfonts.eu/wp-content/uploads/2021/01/Bulgarian_Cyrillic_Letter_ve_950x475_02.jpg" />  
   
 <img src="https://localfonts.eu/wp-content/uploads/2021/01/Bulgarian_Cyrillic_Letter_ve_950x475_01.jpg" />  
-      
+    
+</details>   
+  	
