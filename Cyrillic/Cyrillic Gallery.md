@@ -12,7 +12,7 @@
 |U+040x|Ѐ|Ё|Ђ|Ѓ|Є|Ѕ|І|Ї|Ј|Љ|Њ|Ћ|Ќ|Ѝ|Ў|Џ|
 |U+041x|А|Б|В|Г|Д|Е|Ж|З|И|Й|К|Л|М|Н|О|П|
 |U+042x|Р|С|Т|У|Ф|Х|Ц|Ч|Ш|Щ|Ъ|Ы|Ь|Э|Ю|Я|
-|U+043x|а|б|<a id=tc_cyrLCve></a>в[:arrows_counterclockwise:](#cyrLCve) |г|д|е|ж|з|и|й|к|л|м|н|о|п|
+|U+043x|а|б|<a id=tc_cyrLCve></a>в[:arrows_counterclockwise:](#cyrLCve)|г|д|е|ж|з|и|й|к|<a id=tc_cyrLCel></a>л[:arrows_counterclockwise:](#cyrLCel)|м|н|о|п|
 |U+044x|р|с|т|у|ф|х|ц|ч|ш|щ|ъ|ы|ь|э|ю|я|
 |U+045x|ѐ|ё|ђ|ѓ|є|ѕ|і|ї|ј|љ|њ|ћ|ќ|ѝ|ў|џ|
 |U+046x|Ѡ|ѡ|Ѣ|ѣ|Ѥ|ѥ|Ѧ|ѧ|Ѩ|ѩ|Ѫ|ѫ|Ѭ|ѭ|Ѯ|ѯ|
@@ -50,7 +50,7 @@
   
 </details>   
   
-## <a id=cyrLCve></a>Cyrillic lowercase letter В [:arrows_counterclockwise:](#tc_cyrLCve)  
+## <a id=cyrLCve></a>Cyrillic lowercase letter В (U+0432) [:arrows_counterclockwise:](#tc_cyrLCve)  
   
 <details open>  
   <summary>Click me</summary>  
@@ -157,3 +157,13 @@
     
 </details>   
   	
+## <a id=cyrLCel></a>Cyrillic lowercase letter Л (U+043B) [:arrows_counterclockwise:](#tc_cyrLCel)  
+  
+<details open>  
+  <summary>Click me</summary>  
+  
+<img src="https://localfonts.eu/wp-content/uploads/2021/02/Bulgarian_Cyrillic_Letter_l_950x475_02.jpg" />  
+  
+<img src="https://localfonts.eu/wp-content/uploads/2021/02/Bulgarian_Cyrillic_Letter_l_950x475_01.jpg" />
+  	
+</details>	
