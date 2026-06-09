@@ -27,7 +27,7 @@ MIT License
 Examples
 --------
 
-See [images](/images/), [Gallery](/images/Gallery.md).
+See [images](/images/), [Gallery](/images/Gallery.md). [Cyrillic Gallery](/Cyrillic/Cyrillic%20Gallery.md).
   
 Donations  
 ---------  
