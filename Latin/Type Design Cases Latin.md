@@ -7,6 +7,13 @@
 + <a id=tc_terminals></a>Comparing Terminals [:arrows_counterclockwise:](#terminals)  
 </details>    
   
+  
+## <a id=terminals></a>Latin alphabet [:arrows_counterclockwise:](#tc_terminals)  
+  
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+  
+  
 ## <a id=terminals></a>Comparing terminals [:arrows_counterclockwise:](#tc_terminals)  
   
 <img src="https://github.com/StefanPeev/Font-Design-Tips/blob/main/images/Comparing_Terminals_01.svg" />  
