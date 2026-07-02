@@ -13,20 +13,22 @@
 </details>    
   
 # Main Latin kerning classes  
-## AU AV AW  
+## AO AU AV AW  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
+OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ  
 UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ  
 VWŴṼẀẂẄẆṾẈ  
 | Kerning Class A <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
-| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ | UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ |  
-| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ | VWŴṼẀẂẄẆṾẈ |  
+| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ <br> UC_lat_A_kern | OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ <br> kern_ UC_lat_O |  
+| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ <br> UC_lat_A_kern | UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ <br> kern_ UC_lat_U |  
+| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ <br> UC_lat_A_kern | VWŴṼẀẂẄẆṾẈ <br> kern_ UC_lat_VW |  
   
 + **Kerning:** LEFT > **Uppercase glyphs** [A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ]: `**A_kern**` = [A Acyr Agrave Aacute Acircumflex Adieresis Acaron Abreve Atilde Amacron Aring Aogonek Adotaccent Adblgrave Adieresiscyr Abrevecyr Ainvertedbreve Adotbelow Abrevedotbelow Aringbelow Adieresismacron Aringacute]   
 + **Kerning:** RIGHT < **Uppercase glyphs** [U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ]: `**kern_U**` = [U Ugrave Uacute Ucircumflex Udieresis Ucaron Ubreve Umacron Utilde Utildebelow Uring Uogonek Udblgrave Uhungarumlaut Uinvertedbreve Udotbelow Ucircumflexbelow Udieresisbelow Udieresismacron Udieresisacute]   
 + **Kerning:** RIGHT < **Uppercase glyphs** [V W Ŵ Ṽ Ẁ Ẃ Ẅ Ẇ Ṿ Ẉ]: `**kern_VW**` = [V W Wcircumflex Vtilde Wgrave Wacute Wdieresis Wdot Vdotbelow Wdotbelow]  
   
-## T    
+## TA TO    
 TŤṪṬṮṰŢȚŦȾ  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ  
