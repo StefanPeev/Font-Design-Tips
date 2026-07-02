@@ -17,12 +17,12 @@
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ  
 UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ  
-VWŴṼẀẂẄẆṾẈ  
+VṼṾWŴẀẂẄẆẈ  
 | Kerning Class A <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
-| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ <br> UC_lat_A_kern | OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ <br> kern_ UC_lat_O |  
-| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ <br> UC_lat_A_kern | UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ <br> kern_ UC_lat_U |  
-| AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ <br> UC_lat_A_kern | VWŴṼẀẂẄẆṾẈ <br> kern_ UC_lat_VW |  
+| A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_ UC_lat_O |  
+| A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ <br> kern_ UC_lat_U |  
+| A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | V Ṽ Ṿ W Ŵ Ẁ Ẃ Ẅ Ẇ Ẉ <br> kern_ UC_lat_VW |  
   
 + **Kerning:** LEFT > **Uppercase glyphs** [A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ]: `**A_kern**` = [A Acyr Agrave Aacute Acircumflex Adieresis Acaron Abreve Atilde Amacron Aring Aogonek Adotaccent Adblgrave Adieresiscyr Abrevecyr Ainvertedbreve Adotbelow Abrevedotbelow Aringbelow Adieresismacron Aringacute]   
 + **Kerning:** RIGHT < **Uppercase glyphs** [U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ]: `**kern_U**` = [U Ugrave Uacute Ucircumflex Udieresis Ucaron Ubreve Umacron Utilde Utildebelow Uring Uogonek Udblgrave Uhungarumlaut Uinvertedbreve Udotbelow Ucircumflexbelow Udieresisbelow Udieresismacron Udieresisacute]   
