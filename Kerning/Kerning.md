@@ -36,24 +36,9 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 <details>
   <summary>Click me to open the list of Sources</summary>  
   
-+ Jonathan Hoefler. [Proofs](https://github.com/hoeflerco/proofs)  
-+ Jonathan Hoefler. [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)  
-+ Jonathan Hoefler. [How to Proof a Typeface](https://jonathanhoefler.com/articles/how-to-proof-a-typeface)  
-+ Kostas Bartsokas. [Basic Latin minimum kerning pairs](https://github.com/kosbarts/Basic_Latin_minimum_kerning_pairs)  
-+ Kostas Bartsokas. [Global Tests](https://github.com/kosbarts/Commissioner/tree/master/documentation/proofs/Global%20Tests)  
-+ Kostas Bartsokas. [Style Tests](https://github.com/kosbarts/Commissioner/tree/master/documentation/proofs/Style%20Tests)  
-+ Wikipedia. [Diacritic](https://en.wikipedia.org/wiki/Diacritic)  
-+ J.C. Wells. [Orthographic diacritics and multilingual computing](https://www.phon.ucl.ac.uk/home/wells/dia/diacritics-revised.htm) 
-+ Filip Blažek. [Diacritics](http://diacritics.typo.cz/index.php?id=1) 
-+ Type.Today. [Cyrillic on Google Fonts: transitional serifs](https://type.today/en/journal/transitional)  
-+ Type.Today. [Cyrillic on Google Fonts: Old-Style Serifs](https://type.today/en/journal/old-style)  
-+ Type.Today. [Cyrillic on Google Fonts: Geometric Sans](https://type.today/en/journal/geo)  
-+ Type.Today. [Cyrillic on Google Fonts: Humanist Sans](https://type.today/en/journal/humanist)  
-+ Type.Today. [Cyrillic on Google Fonts: Neo-Grotesques](https://type.today/en/journal/neo)  
-+ Christoph Koeberlin. [Designing Latin S](https://github.com/koeberlin/Designing-Latin-S)  
-+ r12a. [Latin. Script links](https://r12a.github.io/scripts/links.html?iso=Latn)  
-+ r12a. [Latin & Diacritic](https://r12a.github.io/pickers/latn-all/)  
-+ Eymen Efe Altun. [All words in all languages](https://github.com/eymenefealtun/all-words-in-all-languages)  
-+ Hermit Dave. [Frequency Words](https://github.com/hermitdave/FrequencyWords)  
++ André Fuchs. [The Ultimate List of Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)   
++ Kostas Bartsokas. [Basic Latin Minimum Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)   
++ [Cyrillic Kerning Pairs](https://localfonts.eu/typography-basics/working-with-texts/cyrillic-kerning-pairs/)  
++ [Cyrillic Kerning Pairs with „Г“ / „г“](https://localfonts.eu/typography-basics/working-with-texts/cyrillic-kerning-pairs/cyrillic-kerning-pairs-with-%d0%b3-%d0%b3/)  
 </details>  
   
