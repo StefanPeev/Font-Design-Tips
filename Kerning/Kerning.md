@@ -11,8 +11,8 @@
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
-# Main Latin kerning classes  
-## <a id=kerning_A></a>AC AG AO AU AV AW [:arrows_counterclockwise:](#tc_kerning_A)  
+## Kerning classes  
+### <a id=kerning_A></a>AC AG AO AU AV AW [:arrows_counterclockwise:](#tc_kerning_A)  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 CĆČÇĈĊḈȻ  
 GǴĜǦĞḠĠĢǤƓ  
@@ -27,7 +27,7 @@ VṼṾWŴẀẂẄẆẈ
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ <br> kern_UC_lat_U |  
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | V Ṽ Ṿ W Ŵ Ẁ Ẃ Ẅ Ẇ Ẉ <br> kern_UC_lat_VW |  
   
-## <a id=kerning_T></a>TA TC TG TJ TO [:arrows_counterclockwise:](#tc_kerning_T)    
+### <a id=kerning_T></a>TA TC TG TJ TO [:arrows_counterclockwise:](#tc_kerning_T)    
 TŤṪṬṮṰŢȚŦȾ  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 CĆČÇĈĊḈȻ  
@@ -42,7 +42,7 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | J Ĵ Ɉ <br> kern_UC_lat_J |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
 	
-## <a id=kerning_V></a>VA VC VG VO [:arrows_counterclockwise:](#tc_kerning_V)    
+### <a id=kerning_V></a>VA VC VG VO [:arrows_counterclockwise:](#tc_kerning_V)    
 VṾṼ  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 CĆČÇĈĊḈȻ  
@@ -56,7 +56,7 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | V Ṿ Ṽ <br> UC_lat_V_kern | G Ǵ Ĝ Ǧ Ğ Ḡ Ġ Ģ Ǥ Ɠ <br> kern_UC_lat_G |  
 | V Ṿ Ṽ <br> UC_lat_V_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
 	
-## <a id=kerning_Ta></a>Ta Tc Td Te Tj To Tv Tw Ty [:arrows_counterclockwise:](#tc_kerning_Ta)    
+### <a id=kerning_Ta></a>Ta Tc Td Te Tj To Tv Tw Ty [:arrows_counterclockwise:](#tc_kerning_Ta)    
 TŤṪṬṮṰŢȚŦȾ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
@@ -79,7 +79,7 @@ yýŷÿỳỹỷȳẏỵɏ
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | v ṿ ṽ <br> kern_LC_lat_v |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |    
-### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+## <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
 <details>
   <summary>Click me to open the list of Sources</summary>  
