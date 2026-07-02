@@ -7,7 +7,7 @@
 + <a id=tc_kerning_A></a>Kerning classes AC AG AO AU AV AW [:arrows_counterclockwise:](#kerning_A)  
 + <a id=tc_kerning_T></a>Kerning classes TA TC TG TO [:arrows_counterclockwise:](#kerning_T)  
 + <a id=tc_kerning_V></a>Kerning classes VA VC VG VO [:arrows_counterclockwise:](#kerning_V)  
-+ <a id=tc_kerning_Ta></a>Kerning classes Ta Tc To [:arrows_counterclockwise:](#kerning_Ta)  
++ <a id=tc_kerning_Ta></a>Kerning classes Ta Tc Td Te To Tv Tw Ty [:arrows_counterclockwise:](#kerning_Ta)  
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
@@ -55,13 +55,16 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | V Ṿ Ṽ <br> UC_lat_V_kern | G Ǵ Ĝ Ǧ Ğ Ḡ Ġ Ģ Ǥ Ɠ <br> kern_UC_lat_G |  
 | V Ṿ Ṽ <br> UC_lat_V_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
 	
-## <a id=kerning_Ta></a>Ta Tc To [:arrows_counterclockwise:](#tc_kerning_Ta)    
+## <a id=kerning_Ta></a>Ta Tc Td Te To Tv Tw Ty [:arrows_counterclockwise:](#tc_kerning_Ta)    
 TŤṪṬṮṰŢȚŦȾ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
 dḋḍḏḑḓďðđ  
 eèéȅĕȇěêệëėēẽẻếềḙḛȩḝęẹḕḗểễɇ  
 oóŏǒôöòőōọỏǫȍõǭȏȯốồộȫȭȱổỗṍṏṑṓơớờởỡợøǿœ  
+vṿṽ  
+wẃŵẅẁẇẉ  
+yýŷÿỳỹỷȳẏỵɏ  
 
 | Kerning Class T <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
@@ -70,7 +73,9 @@ oóŏǒôöòőōọỏǫȍõǭȏȯốồộȫȭȱổỗṍṏṑṓơớờở�
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | d ḋ ḍ ḏ ḑ ḓ ď ð đ <br> kern_LC_lat_d |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | e è é ȅ ĕ ȇ ě ê ệ ë ė ē ẽ ẻ ế ề ḙ ḛ ȩ ḝ ę ẹ ḕ ḗ ể ễ ɇ <br> kern_LC_lat_e |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
-	
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | v ṿ ṽ <br> kern_LC_lat_v |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |    
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
 <details>
