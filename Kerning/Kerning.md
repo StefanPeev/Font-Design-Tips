@@ -17,7 +17,7 @@
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ  
 VWŴṼẀẂẄẆṾẈ  
-| Kerning Class A <br> Left | Kerning Classes |  
+| Kerning Class A <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
 | AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ | UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ |  
 | AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ | VWŴṼẀẂẄẆṾẈ |  
@@ -31,7 +31,7 @@ TŤṪṬṮṰŢȚŦȾ
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ  
 
-| Kerning Class T | Kerning Classes |  
+| Kerning Class T <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
 | TŤṪṬṮṰŢȚŦȾ | AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ |  
 | TŤṪṬṮṰŢȚŦȾ | OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ |  
