@@ -4,16 +4,14 @@
 <details>
   <summary>Click me to open the Table of Content</summary>  
     
-+ <a id=tc_numbers></a>0123456789. Numbers [:arrows_counterclockwise:](#numbers)  
++ <a id=tc_kerning_A></a>Kerning classes AO AU AV AW [:arrows_counterclockwise:](#kerning_A)  
 + <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
-+ <a id=tc_dotabove></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#dotabove)  
-+ <a id=tc_breve></a>ĂĔĞĬŎŬ ăĕğĭŏŭ. Glyphs with breve [:arrows_counterclockwise:](#breve)  
-+ <a id=tc_cedilla></a>ÇḈȨḜḨŞŢ ḐĢĶĻŅŖȘȚ çḉȩḝḩşţ ḑģķļņŗșț. Glyphs with cedilla and comma below [:arrows_counterclockwise:](#cedilla)  
++ <a id=tc_kerning_T></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#kerning_T)  
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
 # Main Latin kerning classes  
-## AO AU AV AW  
+## <a id=kerning_A></a>AO AU AV AW [:arrows_counterclockwise:](#tc_kerning_A)  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ  
 UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ  
@@ -24,19 +22,15 @@ VṼṾWŴẀẂẄẆẈ
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ <br> kern_ UC_lat_U |  
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | V Ṽ Ṿ W Ŵ Ẁ Ẃ Ẅ Ẇ Ẉ <br> kern_ UC_lat_VW |  
   
-+ **Kerning:** LEFT > **Uppercase glyphs** [A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ]: `**A_kern**` = [A Acyr Agrave Aacute Acircumflex Adieresis Acaron Abreve Atilde Amacron Aring Aogonek Adotaccent Adblgrave Adieresiscyr Abrevecyr Ainvertedbreve Adotbelow Abrevedotbelow Aringbelow Adieresismacron Aringacute]   
-+ **Kerning:** RIGHT < **Uppercase glyphs** [U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ]: `**kern_U**` = [U Ugrave Uacute Ucircumflex Udieresis Ucaron Ubreve Umacron Utilde Utildebelow Uring Uogonek Udblgrave Uhungarumlaut Uinvertedbreve Udotbelow Ucircumflexbelow Udieresisbelow Udieresismacron Udieresisacute]   
-+ **Kerning:** RIGHT < **Uppercase glyphs** [V W Ŵ Ṽ Ẁ Ẃ Ẅ Ẇ Ṿ Ẉ]: `**kern_VW**` = [V W Wcircumflex Vtilde Wgrave Wacute Wdieresis Wdot Vdotbelow Wdotbelow]  
-  
-## TA TO    
+## <a id=kerning_T></a>TA TO [:arrows_counterclockwise:](#tc_kerning_T)    
 TŤṪṬṮṰŢȚŦȾ  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ  
 
 | Kerning Class T <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
-| TŤṪṬṮṰŢȚŦȾ | AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ |  
-| TŤṪṬṮṰŢȚŦȾ | OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞỠỢØǾŒ |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> kern_ UC_lat_A |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_ UC_lat_O |  
 	
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
