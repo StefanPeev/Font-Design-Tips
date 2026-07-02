@@ -5,8 +5,7 @@
   <summary>Click me to open the Table of Content</summary>  
     
 + <a id=tc_kerning_A></a>Kerning classes AO AU AV AW [:arrows_counterclockwise:](#kerning_A)  
-+ <a id=tc_graveabove></a>ÀÈÌǸÒỜÙỪỲẀ àèìǹòờùừỳẁ. Glyphs with grave above [:arrows_counterclockwise:](#graveabove)  
-+ <a id=tc_kerning_T></a>ĊĖĠİŻȦȮ˙ḂḊḞḢṀṄṖṘṠṤṦṨṪẆẊẎ ċėġżȧȯḃḋḟḣiṁṅṗṙṡṥṧṩṫẇẋẏ. Glyphs with dot above [:arrows_counterclockwise:](#kerning_T)  
++ <a id=tc_kerning_T></a>Kerning classes TA TO [:arrows_counterclockwise:](#kerning_T)  
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
