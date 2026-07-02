@@ -59,12 +59,16 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 TŤṪṬṮṰŢȚŦȾ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
+dḋḍḏḑḓďðđ  
+eèéȅĕȇěêệëėēẽẻếềḙḛȩḝęẹḕḗểễɇ  
 oóŏǒôöòőōọỏǫȍõǭȏȯốồộȫȭȱổỗṍṏṑṓơớờởỡợøǿœ  
 
 | Kerning Class T <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | a à á ă ȃ ǎ â ä ā ą å ǻ ḁ ã ầ ấ ậ ặ ạ ȧ ả ȁ ǟ ǡ ắ ằ ẩ ẫ ẳ ẵ ⱥ æ ǣ ǽ <br> kern_LC_lat_a |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | c ć č ç ĉ ċ ḉ ȼ <br> kern_LC_lat_c |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | d ḋ ḍ ḏ ḑ ḓ ď ð đ <br> kern_LC_lat_d |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | e è é ȅ ĕ ȇ ě ê ệ ë ė ē ẽ ẻ ế ề ḙ ḛ ȩ ḝ ę ẹ ḕ ḗ ể ễ ɇ <br> kern_LC_lat_e |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
 	
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
