@@ -37,7 +37,7 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
   <summary>Click me to open the list of Sources</summary>  
   
 + André Fuchs. [The Ultimate List of Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)   
-+ Kostas Bartsokas. [Basic Latin Minimum Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)   
++ Kostas Bartsokas. [Basic Latin Minimum Kerning Pairs](https://github.com/kosbarts/Basic_Latin_minimum_kerning_pairs)   
 + [Cyrillic Kerning Pairs](https://localfonts.eu/typography-basics/working-with-texts/cyrillic-kerning-pairs/)  
 + [Cyrillic Kerning Pairs with „Г“ / „г“](https://localfonts.eu/typography-basics/working-with-texts/cyrillic-kerning-pairs/cyrillic-kerning-pairs-with-%d0%b3-%d0%b3/)  
 </details>  
