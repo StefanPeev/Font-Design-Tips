@@ -17,7 +17,7 @@
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ  
 VWŴṼẀẂẄẆṾẈ  
-| Kerning Class A < br > Left | Kerning Classes |  
+| Kerning Class A <br> Left | Kerning Classes |  
 |:---- |:---- |  
 | AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ | UÙÚÛÜǓŬŪŨṴŮŲȔŰȖỤṶṲǕǗ |  
 | AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ | VWŴṼẀẂẄẆṾẈ |  
