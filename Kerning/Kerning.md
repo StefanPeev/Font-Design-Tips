@@ -7,6 +7,7 @@
 + <a id=tc_kerning_A></a>Kerning classes AC AG AO AU AV AW [:arrows_counterclockwise:](#kerning_A)  
 + <a id=tc_kerning_T></a>Kerning classes TA TC TG TO [:arrows_counterclockwise:](#kerning_T)  
 + <a id=tc_kerning_V></a>Kerning classes VA VC VG VO [:arrows_counterclockwise:](#kerning_V)  
++ <a id=tc_kerning_Ta></a>Kerning classes Ta Tc To [:arrows_counterclockwise:](#kerning_Ta)  
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
@@ -54,11 +55,24 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | V Ṿ Ṽ <br> UC_lat_V_kern | G Ǵ Ĝ Ǧ Ğ Ḡ Ġ Ģ Ǥ Ɠ <br> kern_UC_lat_G |  
 | V Ṿ Ṽ <br> UC_lat_V_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
 	
+## <a id=kerning_Ta></a>Ta Tc To [:arrows_counterclockwise:](#tc_kerning_Ta)    
+TŤṪṬṮṰŢȚŦȾ  
+aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
+cćčçĉċḉȼ  
+oóŏǒôöòőōọỏǫȍõǭȏȯốồộȫȭȱổỗṍṏṑṓơớờởỡợøǿœ  
+
+| Kerning Class T <br> Left | Kerning Classes <br> Right |  
+|:---- |:---- |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | a à á ă ȃ ǎ â ä ā ą å ǻ ḁ ã ầ ấ ậ ặ ạ ȧ ả ȁ ǟ ǡ ắ ằ ẩ ẫ ẳ ẵ ⱥ æ ǣ ǽ <br> kern_LC_lat_a |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | c ć č ç ĉ ċ ḉ ȼ <br> kern_LC_lat_c |  
+| T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
+	
 ### <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
 <details>
   <summary>Click me to open the list of Sources</summary>  
   
++ Wikipedia. [Kerning](https://en.wikipedia.org/wiki/Kerning)   
 + André Fuchs. [The Ultimate List of Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs)   
 + Kostas Bartsokas. [Basic Latin Minimum Kerning Pairs](https://github.com/kosbarts/Basic_Latin_minimum_kerning_pairs)   
 + [Cyrillic Kerning Pairs](https://localfonts.eu/typography-basics/working-with-texts/cyrillic-kerning-pairs/)  
