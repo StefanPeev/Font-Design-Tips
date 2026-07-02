@@ -9,6 +9,7 @@
 + <a id=tc_kerning_V></a>Kerning classes VA VC VG VO [:arrows_counterclockwise:](#kerning_V)  
 + <a id=tc_kerning_Aa></a>Kerning classes Aa Ac Ad Ae Ag Av Aw Ay [:arrows_counterclockwise:](#kerning_Aa)  
 + <a id=tc_kerning_Ta></a>Kerning classes Ta Tc Td Te Tj To Tv Tw Ty [:arrows_counterclockwise:](#kerning_Ta)  
++ <a id=tc_kerning_Va></a>Kerning classes Va Vc Vd Ve Vg Vj Vo Vy [:arrows_counterclockwise:](#kerning_Va)  
 + <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
 </details>    
   
@@ -105,8 +106,32 @@ yýŷÿỳỹỷȳẏỵɏ
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | v ṿ ṽ <br> kern_LC_lat_v |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |    
-## <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
     
+### <a id=kerning_Va></a>Va Vc Vd Ve Vg Vj Vo Vy [:arrows_counterclockwise:](#tc_kerning_Va)    
+VṾṼ  Vc 
+aаàáâäǎăãāåąȧȁӓӑȃạặḁǟǻ  
+cćčçĉċḉȼ  
+dḋḍḏḑḓďðđ  
+eèéȅĕȇěêệëėēẽẻếềḙḛȩḝęẹḕḗểễɇ  
+gǵĝǧğḡġģǥɠ  
+jĵɉ  
+oóŏǒôöòőōọỏǫȍõǭȏȯốồộȫȭȱổỗṍṏṑṓơớờởỡợøǿœ  
+yýŷÿỳỹỷȳẏỵɏ  
+
+| Kerning Class V <br> Left | Kerning Classes <br> Right |  
+|:---- |:---- |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | a à á ă ȃ ǎ â ä ā ą å ǻ ḁ ã ầ ấ ậ ặ ạ ȧ ả ȁ ǟ ǡ ắ ằ ẩ ẫ ẳ ẵ ⱥ æ ǣ ǽ <br> kern_LC_lat_a |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | c ć č ç ĉ ċ ḉ ȼ <br> kern_LC_lat_c |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | d ḋ ḍ ḏ ḑ ḓ ď ð đ <br> kern_LC_lat_d |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | e è é ȅ ĕ ȇ ě ê ệ ë ė ē ẽ ẻ ế ề ḙ ḛ ȩ ḝ ę ẹ ḕ ḗ ể ễ ɇ <br> kern_LC_lat_e |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | g ğ ģ ĝ ġ ḡ ǧ ǵ ǥ <br> kern_LC_lat_g |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | j ĵ ɉ <br> kern_LC_lat_j |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
+| V Ṿ Ṽ <br> UC_lat_V_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
+	
+	
+## <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+  
 <details>
   <summary>Click me to open the list of Sources</summary>  
   
