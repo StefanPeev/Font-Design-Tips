@@ -4,19 +4,19 @@
 <details>
   <summary>Click me to open the Table of Content</summary>  
     
-+ <a id=tc_kerning_A></a>Kerning classes AC AG AO AT AU AV AW AY [:arrows_counterclockwise:](#kerning_A)  
-+ <a id=tc_kerning_K></a>Kerning classes KC KG KO [:arrows_counterclockwise:](#kerning_K)  
-+ <a id=tc_kerning_T></a>Kerning classes TA TC TG TJ TO [:arrows_counterclockwise:](#kerning_T)  
-+ <a id=tc_kerning_V></a>Kerning classes VA VC VG VO [:arrows_counterclockwise:](#kerning_V)  
-+ <a id=tc_kerning_Aa></a>Kerning classes Aa Ac Ad Ae Ag Av Aw Ay [:arrows_counterclockwise:](#kerning_Aa)  
-+ <a id=tc_kerning_Ka></a>Kerning classes Ka Kc Kd Ke Kg Kj Ko Kv Kw Ky [:arrows_counterclockwise:](#kerning_Ka)  
-+ <a id=tc_kerning_Ta></a>Kerning classes Ta Tc Td Te Tj To Tv Tw Ty [:arrows_counterclockwise:](#kerning_Ta)  
-+ <a id=tc_kerning_Va></a>Kerning classes Va Vc Vd Ve Vg Vj Vo Vy [:arrows_counterclockwise:](#kerning_Va)  
-+ <a id=tc_src></a>Sources [:arrows_counterclockwise:](#src)  
++ Kerning classes AC AG AO AT AU AV AW AY  
++ Kerning classes KC KG KO  
++ Kerning classes TA TC TG TJ TO  
++ Kerning classes VA VC VG VO  
++ Kerning classes Aa Ac Ad Ae Ag Av Aw Ay  
++ Kerning classes Ka Kc Kd Ke Kg Kj Ko Kv Kw Ky  
++ Kerning classes Ta Tc Td Te Tj To Tv Tw Ty  
++ Kerning classes Va Vc Vd Ve Vg Vj Vo Vy  
++ Sources  
 </details>    
   
 ## Kerning classes  
-### <a id=kerning_A></a>AC AG AO AT AU AV AW AY [:arrows_counterclockwise:](#tc_kerning_A)  
+### AC AG AO AT AU AV AW AY  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 CĆČÇĈĊḈȻ  
 GǴĜǦĞḠĠĢǤƓ  
@@ -34,7 +34,7 @@ YÝŶŸỲỸỶȲẎỴɎ
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | V Ṽ Ṿ W Ŵ Ẁ Ẃ Ẅ Ẇ Ẉ <br> kern_UC_lat_VW |  
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | Y Ý Ŷ Ÿ Ỳ Ỹ Ỷ Ȳ Ẏ Ỵ Ɏ <br> kern_UC_lat_Y |  
   
-### <a id=kerning_K></a>KC KG KO [:arrows_counterclockwise:](#tc_kerning_K)  
+### KC KG KO  
 KḰǨĶḲḴ  
 CĆČÇĈĊḈȻ  
 GǴĜǦĞḠĠĢǤƓ  
@@ -45,7 +45,7 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern | G Ǵ Ĝ Ǧ Ğ Ḡ Ġ Ģ Ǥ Ɠ <br> kern_UC_lat_G |  
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
   
-### <a id=kerning_T></a>TA TC TG TJ TO [:arrows_counterclockwise:](#tc_kerning_T)    
+### TA TC TG TJ TO    
 TŤṪṬṮṰŢȚŦȾ  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 CĆČÇĈĊḈȻ  
@@ -61,7 +61,7 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | J Ĵ Ɉ <br> kern_UC_lat_J |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
 	
-### <a id=kerning_V></a>VA VC VG VO [:arrows_counterclockwise:](#tc_kerning_V)    
+### VA VC VG VO    
 VṾṼ  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 CĆČÇĈĊḈȻ  
@@ -75,7 +75,7 @@ OÓŎǑÔÖÒŐŌỌỎǪȌÕǬȎȮỐỒỘȪȬȰỔỖṌṎṐṒƠỚỜỞ�
 | V Ṿ Ṽ <br> UC_lat_V_kern | G Ǵ Ĝ Ǧ Ğ Ḡ Ġ Ģ Ǥ Ɠ <br> kern_UC_lat_G |  
 | V Ṿ Ṽ <br> UC_lat_V_kern | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> kern_UC_lat_O |  
 	
-### <a id=kerning_Aa></a>Aa Ac Ad Ae Ag Av Aw Ay [:arrows_counterclockwise:](#tc_kerning_Aa)  
+### Aa Ac Ad Ae Ag Av Aw Ay  
 AАÀÁÂÄǍĂÃĀÅĄȦȀӒӐȂẠẶḀǞǺ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
@@ -96,7 +96,7 @@ yýŷÿỳỹỷȳẏỵɏ
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | A А À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
   
-### <a id=kerning_Ka></a>Ka Kc Kd Ke Kg Kj Ko Kv Kw Ky [:arrows_counterclockwise:](#tc_kerning_Ka)  
+### Ka Kc Kd Ke Kg Kj Ko Kv Kw Ky  
 KḰǨĶḲḴ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
@@ -121,7 +121,7 @@ yýŷÿỳỹỷȳẏỵɏ
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
     
-### <a id=kerning_Ta></a>Ta Tc Td Te Tj To Tv Tw Ty [:arrows_counterclockwise:](#tc_kerning_Ta)    
+### Ta Tc Td Te Tj To Tv Tw Ty    
 TŤṪṬṮṰŢȚŦȾ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
@@ -145,8 +145,8 @@ yýŷÿỳỹỷȳẏỵɏ
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |    
     
-### <a id=kerning_Va></a>Va Vc Vd Ve Vg Vj Vo Vy [:arrows_counterclockwise:](#tc_kerning_Va)    
-VṾṼ  Vc 
+### Va Vc Vd Ve Vg Vj Vo Vy    
+VṾṼ 
 aаàáâäǎăãāåąȧȁӓӑȃạặḁǟǻ  
 cćčçĉċḉȼ  
 dḋḍḏḑḓďðđ  
@@ -167,7 +167,7 @@ yýŷÿỳỹỷȳẏỵɏ
 | V Ṿ Ṽ <br> UC_lat_V_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
 | V Ṿ Ṽ <br> UC_lat_V_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
 	
-### <a id=kerning_ka></a>ka kc kd ke kg kj ko kv kw ky [:arrows_counterclockwise:](#tc_kerning_ka)  
+### ka kc kd ke kg kj ko kv kw ky  
 kḱǩķḳḵ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
 cćčçĉċḉȼ  
@@ -192,7 +192,7 @@ yýŷÿỳỹỷȳẏỵɏ
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
 	
-## <a id=src></a>Sources [:arrows_counterclockwise:](#tc_src)  
+## Sources  
   
 <details>
   <summary>Click me to open the list of Sources</summary>  
