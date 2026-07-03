@@ -1,9 +1,6 @@
 # Kerning  
   
-##  Table of content
-<details>
-  <summary>Click me to open the Table of Content</summary>  
-    
+##  Table of content  
 + Kerning classes AC AG AO AT AU AV AW AY  
 + Kerning classes KC KG KO  
 + Kerning classes TA TC TG TJ TO  
@@ -13,7 +10,6 @@
 + Kerning classes Ta Tc Td Te Tj To Tv Tw Ty  
 + Kerning classes Va Vc Vd Ve Vg Vj Vo Vy  
 + Sources  
-</details>    
   
 ## Kerning classes  
 ### AC AG AO AT AU AV AW AY  
