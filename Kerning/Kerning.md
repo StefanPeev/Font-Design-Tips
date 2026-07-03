@@ -170,6 +170,9 @@ yýŷÿỳỹỷȳẏỵɏ
 | V Ṿ Ṽ <br> UC_lat_V_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
 | V Ṿ Ṽ <br> UC_lat_V_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
 	
+### Examples  
+Valley Vague Value Vacant Vamos Vaca Vaso Vacaciones Valiente Vasca Valigia Vangelo Vache Valise Vapeur Vaisselle Vater Vase Variante Valuta Vagabund Vale Validus Vadus Vanitas Vanish Vapor Valkyrie Včela Včera Vchod Včera Vdova Vďaka Vdych Vdovec Veloce Very Seven Vehicle Venture Vglyad Vgon Vgib Vgonka Vjazd Vjosa Vjeverica Vjetar Voice Volcano Avoid Novel Ivy Navy Vyžla Výměna	
+	
 ### ka kc kd ke kg kj ko kv kw ky  
 kḱǩķḳḵ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
