@@ -121,6 +121,9 @@ yýŷÿỳỹỷȳẏỵɏ
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
     
+### Examples  
+Kyiv 	
+	
 ### Ta Tc Td Te Tj To Tv Tw Ty    
 TŤṪṬṮṰŢȚŦȾ  
 aàáăȃǎâäāąåǻḁãầấậặạȧảȁǟǡắằẩẫẳẵⱥæǣǽ  
@@ -191,6 +194,9 @@ yýŷÿỳỹỷȳẏỵɏ
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | v ṿ ṽ <br> kern_LC_lat_v |  
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
 | K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
+  
+### Examples  
+kangaroo vodka karate skate backchat stockcar backcheck brickkiln lockdown breakdown inkdrop bookdeal keep baker keyboard token background workgroup blackguard packgear blackjack lockjaw kjeldahl kjole koala Tokyo gecko lookout kvass moskvich kvinna kvadrát awkward clockwise backward workweek sky Tokyo Valkyrie  
 	
 ## Sources  
   
