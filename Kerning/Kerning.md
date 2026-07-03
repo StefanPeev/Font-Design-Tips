@@ -184,16 +184,16 @@ wẃŵẅẁẇẉ
 yýŷÿỳỹỷȳẏỵɏ  
 | Kerning Class k <br> Left | Kerning Classes <br> Right |  
 |:---- |:---- |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | a à á ă ȃ ǎ â ä ā ą å ǻ ḁ ã ầ ấ ậ ặ ạ ȧ ả ȁ ǟ ǡ ắ ằ ẩ ẫ ẳ ẵ ⱥ æ ǣ ǽ <br> kern_LC_lat_a |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | c ć č ç ĉ ċ ḉ ȼ <br> kern_LC_lat_c |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | d ḋ ḍ ḏ ḑ ḓ ď ð đ <br> kern_LC_lat_d |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | e è é ȅ ĕ ȇ ě ê ệ ë ė ē ẽ ẻ ế ề ḙ ḛ ȩ ḝ ę ẹ ḕ ḗ ể ễ ɇ <br> kern_LC_lat_e |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | g ğ ģ ĝ ġ ḡ ǧ ǵ ǥ <br> kern_LC_lat_g |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | j ĵ ɉ <br> kern_LC_lat_j |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | v ṿ ṽ <br> kern_LC_lat_v |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
-| K Ḱ Ǩ Ķ Ḳ Ḵ <br> LC_lat_k_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | a à á ă ȃ ǎ â ä ā ą å ǻ ḁ ã ầ ấ ậ ặ ạ ȧ ả ȁ ǟ ǡ ắ ằ ẩ ẫ ẳ ẵ ⱥ æ ǣ ǽ <br> kern_LC_lat_a |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | c ć č ç ĉ ċ ḉ ȼ <br> kern_LC_lat_c |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | d ḋ ḍ ḏ ḑ ḓ ď ð đ <br> kern_LC_lat_d |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | e è é ȅ ĕ ȇ ě ê ệ ë ė ē ẽ ẻ ế ề ḙ ḛ ȩ ḝ ę ẹ ḕ ḗ ể ễ ɇ <br> kern_LC_lat_e |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | g ğ ģ ĝ ġ ḡ ǧ ǵ ǥ <br> kern_LC_lat_g |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | j ĵ ɉ <br> kern_LC_lat_j |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | o ó ŏ ǒ ô ö ò ő ō ọ ỏ ǫ ȍ õ ǭ ȏ ȯ ố ồ ộ ȫ ȭ ȱ ổ ỗ ṍ ṏ ṑ ṓ ơ ớ ờ ở ỡ ợ ø ǿ œ <br> kern_LC_lat_o |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | v ṿ ṽ <br> kern_LC_lat_v |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | w ẃ ŵ ẅ ẁ ẇ ẉ <br> kern_LC_lat_w |  
+| k ḱ ǩ ķ ḳ ḵ <br> LC_lat_k_kern | y ý ŷ ÿ ỳ ỹ ỷ ȳ ẏ ỵ ɏ <br> kern_LC_lat_y |  
   
 ### Examples  
 kangaroo vodka karate skate backchat stockcar backcheck brickkiln lockdown breakdown inkdrop bookdeal keep baker keyboard token background workgroup blackguard packgear blackjack lockjaw kjeldahl kjole koala Tokyo gecko lookout kvass moskvich kvinna kvadrát awkward clockwise backward workweek sky Tokyo Valkyrie  
