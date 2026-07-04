@@ -1,6 +1,6 @@
 # A-Z  
   
-| First Letter | Second Letters |  
+| First Letter <br> Uppercase | Second Letters <br> Uppercase |  
 |:---- |:---- |  
 | A | AABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA |  
 | B | BABBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB |  
@@ -31,7 +31,7 @@
   
 # a-z  
   
-| First Letter | Second Letters |  
+| First Letter <br> Lowercase | Second Letters <br> Lowercase |  
 |:---- |:---- |  
 | a | aabacadaeafagahaiajakalamanaoapaqarasatauavawaxayaza |  
 | b | babbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzb |  
