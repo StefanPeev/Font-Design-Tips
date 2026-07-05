@@ -29,6 +29,35 @@
 | Y | YAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYYZY |  
 | Z | ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZ |  
   
+| Left Kerning Class <br> | Glyphs in the Class <br> |  
+|:---- |:---- |  
+| A | A À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> UC_lat_A_kern |  
+| B | B Ḃ Ḅ Ḇ Ƀ <br> UC_lat_B_kern |  
+| C | C Ć Č Ç Ĉ Ċ Ḉ Ȼ <br> UC_lat_C_kern|  
+| D | D Ḋ Ḍ Ḏ Ḑ Ḓ Ď Ð Đ <br> UC_lat_D_kern|  
+| E | E È É Ȅ Ĕ Ȇ Ě Ê Ệ Ë Ė Ē Ẽ Ẻ Ế Ề Ḙ Ḛ Ȩ Ḝ Ę Ẹ Ḕ Ḗ Ể Ễ Ɇ <br> UC_lat_E_kern|  
+| F | F Ḟ <br> UC_lat_F_kern|  
+| F | F Ḟ <br> UC_lat_F_kern|  
+| G | G Ǵ Ĝ Ǧ Ğ Ḡ Ġ Ģ Ǥ Ɠ <br> UC_lat_G_kern |  
+| H | H Ħ Ȟ Ĥ Ḣ Ḥ Ḧ Ḩ Ḫ <br> UC_lat_H_kern |  
+| I | I Í Ĭ Ȋ Ǐ Î Ï Ḯ İ Ì Ī Į Ĩ Ḭ Ỉ Ị Ȉ <br> UC_lat_I_kern |  
+| J | J Ĳ Ĵ Ɉ <br> UC_lat_J_kern |  
+| K | K Ḱ Ǩ Ķ Ḳ Ḵ <br> UC_lat_K_kern |  
+| L | L Ĺ Ľ Ļ Ŀ Ł Ḷ Ḹ Ḻ Ḽ Ƚ <br> UC_lat_L_kern |  
+| M | M Ḿ Ṁ Ṃ <br> UC_lat_M_kern |  
+| N | N Ń Ǹ Ṅ Ň Ņ Ñ Ṇ Ṉ Ṋ <br> UC_lat_N_kern |  
+| O | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ <br> UC_lat_O_kern |  
+| P | P Ṕ Ṗ <br> UC_lat_P_kern |  
+| Q | Q <br> UC_lat_Q_kern |  
+| R | R Ŕ Ř Ȓ Ŗ Ṙ Ṛ Ṝ Ṟ Ȑ Ɍ <br> UC_lat_R_kern |  
+| S | S Ś Š Ŝ Ṧ Ṡ Ṣ Ş Ș Ṥ Ṩ <br> UC_lat_S_kern |  
+| T | T Ť Ṫ Ṭ Ṯ Ṱ Ţ Ț Ŧ Ⱦ <br> UC_lat_T_kern |  
+| U | U Ù Ú Û Ü Ǔ Ŭ Ū Ũ Ṵ Ů Ų Ȕ Ű Ȗ Ụ Ṷ Ṳ Ǖ Ǘ <br> UC_lat_U_kern |  
+| V | V Ṽ Ṿ <br> UC_lat_V_kern |  
+| W | W Ŵ Ẁ Ẃ Ẅ Ẇ Ẉ <br> UC_lat_W_kern |  
+| Y | Y Ý Ŷ Ÿ Ỳ Ỹ Ỷ Ȳ Ẏ Ỵ Ɏ <br> UC_lat_Y_kern |    
+| Z | Z Ź Ž Ż Ẑ Ẓ Ẕ <br> UC_lat_Z_kern |    
+  
 # a-z  
   
 | First Letter <br> Lowercase | Second Letters <br> Lowercase |  
