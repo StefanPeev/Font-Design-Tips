@@ -64,8 +64,9 @@
 ## Right (Second) Classes  
 | Right Class | Glyphs in the Class | Class Name |  
 |:---- |:---- |:---- |  
-| A | A À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ | kern_UC_lat_A |  
-| B | B Ḃ Ḅ Ḇ Ƀ | kern_UC_lat_B |  
+| A | A À Á Â Ǎ Ă Ȃ Ã Ā Ȁ Ä Ȧ Ả Å Ǻ Ǟ Ǡ Ấ Ầ Ẩ Ẫ Ắ Ằ Ẳ Ẵ Ặ Ậ Ạ Ḁ Ą Ⱥ | kern_UC_lat_A |  
+| AЕ | Æ Ǣ Ǽ | kern_UC_lat_AE |  
+| B | B Ḃ Ḅ Ḇ Ƀ ฿ | kern_UC_lat_B |  
 | C | C Ć Č Ç Ĉ Ċ Ḉ Ȼ | kern_UC_lat_C |  
 | D | D Ḋ Ḍ Ḏ Ḑ Ḓ Ď Ð Đ | kern_UC_lat_D |  
 | E | E È É Ȅ Ĕ Ȇ Ě Ê Ệ Ë Ė Ē Ẽ Ẻ Ế Ề Ḙ Ḛ Ȩ Ḝ Ę Ẹ Ḕ Ḗ Ể Ễ Ɇ | kern_UC_lat_E |  
