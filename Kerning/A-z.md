@@ -1,4 +1,4 @@
-# A-Z  
+# Uppercases A-Z  
   
 | First Letter <br> Uppercase | Second Letters <br> Uppercase |  
 |:---- |:---- |  
@@ -33,7 +33,7 @@
 ## Left (First) Classes  
 | Left Class | Glyphs in the Class | Class Name |  
 |:---- |:---- |:---- |  
-| A | A À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ | UC_lat_A_kern |  
+| A | A À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> A À Á Â Ã Ä Å Æ Ă Ą Ǟ Ǡ Ǣ Ǻ Ǽ Ȁ Ȃ Ȧ Ⱥ Ḁ Ạ Ả Ấ Ầ Ẩ Ẫ Ậ Ắ Ằ Ẳ Ẵ Ặ | UC_lat_A_kern |  
 | B | B Ḃ Ḅ Ḇ Ƀ | UC_lat_B_kern |  
 | C | C Ć Č Ç Ĉ Ċ Ḉ Ȼ | UC_lat_C_kern |  
 | D | D Ḋ Ḍ Ḏ Ḑ Ḓ Ď Ð Đ | UC_lat_D_kern |  
@@ -90,7 +90,7 @@
 | Y | Y Ý Ŷ Ÿ Ỳ Ỹ Ỷ Ȳ Ẏ Ỵ Ɏ | kern_UC_lat_Y |    
 | Z | Z Ź Ž Ż Ẑ Ẓ Ẕ | kern_UC_lat_Z |    
   
-# a-z  
+# Lowercases a-z  
   
 | First Letter <br> Lowercase | Second Letters <br> Lowercase |  
 |:---- |:---- |  
