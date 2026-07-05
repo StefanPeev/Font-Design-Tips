@@ -33,8 +33,9 @@
 ## Left (First) Classes  
 | Left Class | Glyphs in the Class | Class Name |  
 |:---- |:---- |:---- |  
-| A | A À Á Â Ä Ǎ Ă Ã Ā Å Ą Ȧ Ȁ Ӓ Ӑ Ȃ Ạ Ặ Ḁ Ǟ Ǻ <br> A À Á Â Ã Ä Å Æ Ă Ą Ǟ Ǡ Ǣ Ǻ Ǽ Ȁ Ȃ Ȧ Ⱥ Ḁ Ạ Ả Ấ Ầ Ẩ Ẫ Ậ Ắ Ằ Ẳ Ẵ Ặ | UC_lat_A_kern |  
-| B | B Ḃ Ḅ Ḇ Ƀ | UC_lat_B_kern |  
+| A | A À Á Â Ǎ Ă Ȃ Ã Ā Ȁ Ä Ȧ Ả Å Ǻ Ǟ Ǡ Ấ Ầ Ẩ Ẫ Ắ Ằ Ẳ Ẵ Ặ Ậ Ạ Ḁ Ą Ⱥ | UC_lat_A_kern |  
+| AЕ | Æ Ǣ Ǽ | UC_lat_AЕ_kern |  
+| B | B Ḃ Ḅ Ḇ Ƀ ฿ | UC_lat_B_kern |  
 | C | C Ć Č Ç Ĉ Ċ Ḉ Ȼ | UC_lat_C_kern |  
 | D | D Ḋ Ḍ Ḏ Ḑ Ḓ Ď Ð Đ | UC_lat_D_kern |  
 | E | E È É Ȅ Ĕ Ȇ Ě Ê Ệ Ë Ė Ē Ẽ Ẻ Ế Ề Ḙ Ḛ Ȩ Ḝ Ę Ẹ Ḕ Ḗ Ể Ễ Ɇ | UC_lat_E_kern |  
@@ -47,7 +48,7 @@
 | L | L Ĺ Ľ Ļ Ŀ Ł Ḷ Ḹ Ḻ Ḽ Ƚ | UC_lat_L_kern |  
 | M | M Ḿ Ṁ Ṃ | UC_lat_M_kern |  
 | N | N Ń Ǹ Ṅ Ň Ņ Ñ Ṇ Ṉ Ṋ | UC_lat_N_kern |  
-| O | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ Œ | UC_lat_O_kern |  
+| O | O Ó Ŏ Ǒ Ô Ö Ò Ő Ō Ọ Ỏ Ǫ Ȍ Õ Ǭ Ȏ Ȯ Ố Ồ Ộ Ȫ Ȭ Ȱ Ổ Ỗ Ṍ Ṏ Ṑ Ṓ Ơ Ớ Ờ Ở Ỡ Ợ Ø Ǿ | UC_lat_O_kern |  
 | P | P Ṕ Ṗ | UC_lat_P_kern |  
 | Q | Q | UC_lat_Q_kern |  
 | R | R Ŕ Ř Ȓ Ŗ Ṙ Ṛ Ṝ Ṟ Ȑ Ɍ | UC_lat_R_kern |  
