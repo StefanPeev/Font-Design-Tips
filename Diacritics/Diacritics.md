@@ -161,5 +161,6 @@ In typesetting, the hook or tail is a diacritic mark attached to letters in many
   <details>
 <summary>Click me to open the list of Sources</summary>  
   
++ Wikipedia. [Diacritic](https://en.wikipedia.org/wiki/Diacritic)  
 + Wikipedia. [Hook (diacritic)](https://en.wikipedia.org/wiki/Hook_(diacritic))  
 </details>  
