@@ -1,10 +1,15 @@
 # Kerning  
   
 ##  Table of content  
-+ Kerning classes AC AG AO AT AU AV AW AY  
-+ Kerning classes KC KG KO  
++ Kerning classes AC AG AO AQ AT AU AV AW AY  
++ Kerning classes FA FJ  
++ Kerning classes KC KG KO KQ KU  
++ Kerning classes LC LG LO LQ LS LT LU LV LW LY  
++ Kerning classes OA OT OY  
++ Kerning classes PA PJ PT  
 + Kerning classes TA TC TG TJ TO  
 + Kerning classes VA VC VG VO  
++ Kerning classes YO  
 + Kerning classes Aa Ac Ad Ae Ag Av Aw Ay  
 + Kerning classes Ka Kc Kd Ke Kg Kj Ko Kv Kw Ky  
 + Kerning classes Ta Tc Td Te Tj To Tv Tw Ty  
