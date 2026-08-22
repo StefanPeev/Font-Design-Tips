@@ -2,10 +2,11 @@
 
 ## Introduction  
   
-From v.1.032 onwards, special attention is paid to both Polytonic and Monotonic Greek in Common Serif. Major sources for glyph editing decisions are: 
+From v.1.032 onwards, special attention is paid to both Polytonic and Monotonic Greek in [Common Serif](https://github.com/StefanPeev/Common-Serif). Major sources for glyph editing decisions are: 
   
 + Gerry Leonidas. [Designing Greek typefaces](https://medium.com/@gerryleonidas/designing-greek-typefaces-eac0de7767cc)  
 + Gerry Leonidas. [Greek type and typography](https://youtu.be/jALb3fPLTRk?si=-umDfehWaq2DPJZS)  
++ Gerry Leonidas. [Typophile post: Greek type design standards](https://leonidas.net/greek-type-design/typophile-greek-type-design-standards/)  
 + Yannis Haralambous. [Guidelines and Suggested Amendments to the Greek Unicode Tables. TwentyFirst International Unicode Conference, Unicode Consortium, May 2002, Dublin, Ireland. ffhal02112005](https://hal.science/hal-02112005/document)  
 + Irene Vlachou. [Polytonic Greek: a guide for type designers](https://github.com/irenevlachou/Polytonic-tutorial)  
 + Irene Vlachou. [Greek type Anatomy](https://www.type-together.com/greek-type-anatomy)  
