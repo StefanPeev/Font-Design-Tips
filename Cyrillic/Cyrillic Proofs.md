@@ -2,6 +2,8 @@
   
 Cyrillic texts for evaluating typefaces in development. 
   
+## Glyphs with bowls: ` БВЪЫӸЬЉЊѢҌPҎԖЯԘЗѮӞӠԄԆԐФᲆꙎꙐꙒꚄ ъыьpяљњзфѣѯҍҏӟӡӹԅԇԑԗԙӑӕԀԁԂԃᲀᲆᲇᲈԛᲇᲈꙏꙑꙓꙗꙸꙹꙺꚅꚜꚝꚞ `  
+  
 ## Glyphs with hook: ` ӃԒӇԨӺӼ ӄԓӈԩӻӽ `   
   
 <details>
@@ -12,7 +14,6 @@ Cyrillic texts for evaluating typefaces in development.
 | uni04C3 | Ӄ | <img src="https://github.com/StefanPeev/Common-Serif/blob/main/images/uni04C3_Ka_With_Hook.png" width="100" /> | Chukchi, Koryak, Alyutor, Itelmen, Yukaghir, Yupik, Aleut, Nivkh, Ket, Tofalar, Selkup |   
 </details> 
   
-## Glyphs with bowls: ` БВЪЫЬБPЯЉЊЗФѢѮҌҎӞӠӸԄԆԐԖԘᲆꙎꙐꙒꚄ ъыьpяљњзфѣѯҍҏӟӡӹԅԇԑԗԙӑӕԀԁԂԃᲀᲆᲇᲈԛᲇᲈꙏꙑꙓꙗꙸꙹꙺꚅꚜꚝꚞ `  
 ## Glyphs with middle hook: ` ҔҦӃԠԢӇ ҕҧӄԡԣӈ `   
   
 <details>
