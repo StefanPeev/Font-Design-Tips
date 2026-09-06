@@ -2,7 +2,7 @@
   
 Cyrillic texts for evaluating typefaces in development. 
   
-## Glyphs with bowls: ` БВЪЫӸЬЉЊѢҌPҎԖЯԘЗѮӞӠԄԆԐФᲆꙎꙐꙒꚄ ъыьpяљњзфѣѯҍҏӟӡӹԅԇԑԗԙӑӕԀԁԂԃᲀᲆᲇᲈԛᲇᲈꙏꙑꙓꙗꙸꙹꙺꚅꚜꚝꚞ `  
+## Glyphs with bowls: ` БВЪЫӸЉЊѢҌЬᲆꙎꙐꙒPҎԖЯԘЗѮӞӠꚄԄԆԐФ ъыӹьљњѣҍᲆᲇꙏꙑꙓԛpҏԗяԙзѯӟꚅӡԅԇԑфӑӕԀԁԂԃᲀꙗꙸꙹꙺ ꚜ ꚝꚞ  `  
   
 ## Glyphs with hook: ` ӃԒӇԨӺӼ ӄԓӈԩӻӽ `   
   
