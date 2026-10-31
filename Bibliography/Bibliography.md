@@ -1,4 +1,4 @@
-# Bibliography
+# The typefaces in the history of writing. Bibliography
 
 + **Collections Fonvelles de Lettres Chiffres Armoiries Attributs. 1 cahier. 1868.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/collections-fonvelles-de-lettres/)
 
@@ -18,6 +18,8 @@
 
 + **Акционерное общество „Словолитни О. И. Леман“. С. Петербург и Москва.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/aktsionernoye-obschestvo-slovolitni/)
 
++ **Альбрехт Дюрер о шрифте. Москва, 1981.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/albrekht-dyurer-o-shrifte/)
+
 + **Барышников, Г. M., А. Ю. Бизяев, B. B. Ефимов, A. A. Моисеев, Э. И. Почтарь,  Ю. А. Ярмола. Шрифты. Разработка и использование. Москва. Издательство ЭКОМ, 1997, 288 с.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/shrifty-razrabotka-i-ispolzovaniye/)
 
 + **Богдеско, И. Т. Каллиграфия. Санкт-Петербург, 2005.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/kalligrafiya/)
@@ -28,7 +30,11 @@
 
 + **Вольченко, С. Г. Самоучитель каллиграфии и скорописи для исправления почерка работников первичной сети С. Х. Кооперации. Москва, 1927.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/samouchitel-kalligrafii-i-skoropisi/)
 
++ **Воронецкий, Б. В., Э. Д. Кузнецов. Шрифт. Ленинград, 1975.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/shrift-1975/)
+
 + **Декоративные шрифты. Минск, 1987.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/dekorativnye-shrifty-1987/)
+
++ **Дончева-Панайотова, Невяна. Аджарският книжовен и художествен център през XVII в. – Втори международен конгрес по българистика, София, 23 май - 3 юни 1986 г.** [Централна библиотека на БАН. Дигитална библиотека](https://digital.cl.bas.bg/bg/v/7288)
 
 + **Ефимов, В. Великие шрифты. Шесть из тридцати. Кн. 1. Истоки. Москва, 2006.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/velikiye-shrifty-istoki/)
 
@@ -44,7 +50,17 @@
 
 + **Кауч, М. Творческая каллиграфия. Искусство красивого письма. Москва, 1998.**
 
++ **Кондратов, А. Книга о букве. Москва, 1975.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/kniga-o-bukve/)
+
 + **Кричевский, В. Типографика в терминах и образах. Т. 1. Москва, 2000.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/tipografika-v-terminakh-i-obrazakh-1/)
+
++ **Младенов, Стефан. Кирилица или латиница. Български шрифт. – В: Българска книга. Кн. 3-4. София, 1930.**
+
++ **Обзор графических искусств. Журнал печатного дела. Санкт-Петербург, 1882 год.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/obzor-graficheskikh-iskusstv/)
+
++ **Образцы славяно-русского книгопечатания с 1491 года. 1891.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/obraztsy-slavyano-russkogo-knigopechataniya/)
+
++ **Образцы шрифтов словолитни Флинша.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/obraztsy-shriftov-slovolitni-flinsha/)
 
 + **Образцы шрифтов типографии и словолитни Императорской академии наук. Санкт-Петербург, 1870.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/obraztsy-shriftov-tipografii-imperatorskoy-akademii-nauk/)
 
@@ -74,7 +90,9 @@
 
 + **Флоренская, О. Психология бытового шрифта. Санкт-Петербург, 2001.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/psikhologiya-bytovogo-shrifta/)
 
-+ **Чернихов, Я. Г., Н. А. Соболев. Построение шрифтов. Москва, 1958. Второе издание, 2002.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/postroyeniye-shriftov/)
++ **Чернихов, Я. Г., Н. А. Соболев. Построение шрифтов. Москва, 1958.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/postroyeniye-shriftov/).  [Второе издание, 2002.](https://bibliotekus.artlebedev.ru/books/postroyeniye-shriftov-2005/)
+
++ **Шицгал, А. Г. Русский рисованный книжный шрифт советских художников. Альбом образцов. Москва, 1953.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/russkiy-risovanniy-knizhniy-shrift/)
 
 + **Шицгал, А. Г. Русский гражданский шрифт. 1708–1958. Москва, 1959.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/russkiy-grazhdanskiy-shrift/)
 
@@ -82,5 +100,9 @@
 
 + **Шпаковский, Ю. Ф. Шрифты. Справочное пособие дизайнера. Минск, 2006.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/shrifty-spravochnoye-posobiye-dizaynera/)
 
++ **Шпикерман, Э. О шрифте. Москва, 2005.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/o-shrifte/)
+
 + **Шрифт-конструктор. Дизайнеры о типографике. Москва, 2009.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/shrift-konstruktor/)
+
++ **Шрифты. Минск, 1964.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/shrifty/)
 
