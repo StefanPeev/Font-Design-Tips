@@ -50,54 +50,56 @@
 | Hanunoo | 1720..173F | 32 | 23 | 3.2 |  
 | Buhid | 1740..175F | 32 | 20 | 3.2 |  
 | Tagbanwa | 1760..177F | 32 | 18 | 3.2 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
-| Basic Latin | 0000..007F | 128 | 128 | 1.0.0 |  
+| Khmer | 1780..17FF | 128 | 114 | 3.0 |  
+| Mongolian | 1800..18AF | 176 | 158 | 3.0 |  
+| Unified Canadian Aboriginal Syllabics Extended | 18B0..18FF | 80 | 70 | 5.2 |  
+| Limbu | 1900..194F | 80 | 68 | 4.0 |  
+| Tai Le | 1950..197F | 48 | 35 | 4.0 |  
+| New Tai Lue | 1980..19DF | 96 | 83 | 4.1 |  
+| Khmer Symbols | 19E0..19FF | 32 | 32 | 4.0 |  
+| Buginese | 1A00..1A1F | 32 | 30 | 4.1 |  
+| Tai Tham | 1A20..1AAF | 144 | 127 | 5.2 |  
+| Combining Diacritical Marks Extended | 1AB0..1AFF | 80 | 31 | 7.0 |  
+| Balinese | 1B00..1B7F | 128 | 127 | 5.0 |  
+| Sundanese | 1B80..1BBF | 64 | 64 | 5.1 |  
+| Batak | 1BC0..1BFF | 64 | 56 | 6.0 |  
+| Lepcha | 1C00..1C4F | 80 | 74 | 5.1 |  
+| Ol Chiki | 1C50..1C7F | 48 | 48 | 5.1 |  
+| Cyrillic Extended-C | 1C80..1C8F | 16 | 11 | 9.0 |  
+| Georgian Extended | 1C90..1CBF | 48 | 46 | 11.0 |  
+| Sundanese Supplement | 1CC0..1CCF | 16 | 8 | 6.1 |  
+| Vedic Extensions | 1CD0..1CFF | 48 | 43 | 5.2 |  
+| Phonetic Extensions | 1D00..1D7F | 128 | 128 | 4.0 |  
+| Phonetic Extensions Supplement | 1D80..1DBF | 64 | 64 | 4.1 |  
+| Combining Diacritical Marks Supplement | 1DC0..1DFF | 64 | 64 | 4.1 |  
+| Latin Extended Additional | 1E00..1EFF | 256 | 256 | 1.1 |  
+| Greek Extended | 1F00..1FFF | 256 | 233 | 1.1 |  
+| General Punctuation | 2000..206F | 112 | 111 | 1.0.0 |  
+| Superscripts and Subscripts | 2070..209F | 48 | 42 | 1.0.0 |  
+| Currency Symbols | 20A0..20CF | 48 | 33 | 1.0.0 |  
+| Combining Diacritical Marks for Symbols | 20D0..20FF | 48 | 33 | 1.0.0 |  
+| Letterlike Symbols | 2100..214F | 80 | 80 | 1.0.0 |  
+| Number Forms | 2150..218F | 64 | 60 | 1.0.0 |  
+| Arrows | 2190..21FF | 112 | 112 | 1.0.0 |  
+| Mathematical Operators | 2200..22FF | 256 | 256 | 1.0.0 |  
+| Miscellaneous Technical | 2300..23FF | 256 | 256 | 1.0.0 |  
+| Control Pictures | 2400..243F | 64 | 42 | 1.0.0 |  
+| Optical Character Recognition | 2440..245F | 32 | 11 | 1.0.0 |  
+| Enclosed Alphanumerics | 2460..24FF | 160 | 160 | 1.0.0 |  
+| Box Drawing | 2500..257F | 128 | 128 | 1.0.0 |  
+| Block Elements | 2580..259F | 32 | 32 | 1.0.0 |  
+| Geometric Shapes | 25A0..25FF | 96 | 96 | 1.0.0 |  
+| Miscellaneous Symbols | 2600..26FF | 256 | 256 | 1.0.0 |  
+| Dingbats | 2700..27BF | 192 | 192 | 1.0.0 |  
+| Miscellaneous Mathematical Symbols-A | 27C0..27EF | 48 | 48 | 3.2 |  
+| Supplemental Arrows-A | 27F0..27FF | 16 | 16 | 3.2 |  
+| Braille Patterns | 2800..28FF | 256 | 256 | 3.0 |  
+| Supplemental Arrows-B | 2900..297F | 128 | 128 | 3.2 |  
+| Miscellaneous Mathematical Symbols-B | 2980..29FF | 128 | 128 | 3.2 |  
+| Supplemental Mathematical Operators | 2A00..2AFF | 256 | 256 | 3.2 |  
+| Miscellaneous Symbols and Arrows | 2B00..2BFF | 256 | 253 | 4.0 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+  
   
 + Basic Multilingual Plane 0000 : FFFD (64082)  
 + Basic Latin 0000 : 007F (128)  
