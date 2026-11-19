@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="2">
+  <advance width="586"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="192" y="470" type="line"/>
+      <point x="312" y="770" type="line"/>
+      <point x="102" y="770" type="line"/>
+      <point x="42" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="470" type="line"/>
+      <point x="562" y="770" type="line"/>
+      <point x="352" y="770" type="line"/>
+      <point x="292" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w586m192,470l312,770l102,770l42,470m442,470l562,770l352,770l292,470</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 470 300</string>
+          <string>vstem 42 520</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

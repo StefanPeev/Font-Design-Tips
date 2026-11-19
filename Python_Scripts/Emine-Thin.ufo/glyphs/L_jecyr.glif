@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ljecyr" format="2">
+  <advance width="1025"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="56" y="-10" type="line"/>
+      <point x="111" y="31"/>
+      <point x="137" y="98"/>
+      <point x="153" y="355" type="curve" smooth="yes"/>
+      <point x="175" y="710" type="line"/>
+      <point x="546" y="710" type="line"/>
+      <point x="546" y="730" type="line"/>
+      <point x="155" y="730" type="line"/>
+      <point x="133" y="358" type="line" smooth="yes"/>
+      <point x="120" y="130"/>
+      <point x="101" y="47"/>
+      <point x="55" y="10" type="curve"/>
+    </contour>
+    <contour>
+      <point x="526" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="730" type="line"/>
+      <point x="526" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="536" y="0" type="line"/>
+      <point x="653" y="0" type="line" smooth="yes"/>
+      <point x="812" y="0"/>
+      <point x="933" y="46"/>
+      <point x="933" y="205" type="curve" smooth="yes"/>
+      <point x="933" y="362"/>
+      <point x="778" y="400"/>
+      <point x="633" y="400" type="curve" smooth="yes"/>
+      <point x="536" y="400" type="line"/>
+      <point x="536" y="380" type="line"/>
+      <point x="633" y="380" type="line" smooth="yes"/>
+      <point x="820" y="380"/>
+      <point x="913" y="321"/>
+      <point x="913" y="205" type="curve" smooth="yes"/>
+      <point x="913" y="76"/>
+      <point x="826" y="20"/>
+      <point x="653" y="20" type="curve" smooth="yes"/>
+      <point x="536" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Elcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  <key>com.fontlab.recipe</key>
+  <string>Elcyr_uni042C</string>
+  </dict>
+  </lib>
+</glyph>

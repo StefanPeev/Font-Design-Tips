@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="635"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="20" type="line"/>
+      <point x="130" y="20" type="line"/>
+      <point x="130" y="730" type="line"/>
+      <point x="110" y="730" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="1000" type="line"/>
+      <point x="432" y="1000" type="line"/>
+      <point x="311" y="780" type="line"/>
+      <point x="334" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w635m580,0l580,20l130,20l130,730l110,730l110,0m455,1000l432,1000l311,780l334,780</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 110 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C4" format="2">
+  <advance width="1331"/>
+  <unicode hex="01C4"/>
+  <outline>
+    <contour>
+      <point x="260" y="0" type="line" smooth="yes"/>
+      <point x="515" y="0"/>
+      <point x="650" y="126"/>
+      <point x="650" y="365" type="curve" smooth="yes"/>
+      <point x="650" y="604"/>
+      <point x="515" y="730"/>
+      <point x="260" y="730" type="curve" smooth="yes"/>
+      <point x="110" y="730" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="20" type="line"/>
+      <point x="130" y="710" type="line"/>
+      <point x="260" y="710" type="line" smooth="yes"/>
+      <point x="505" y="710"/>
+      <point x="630" y="592"/>
+      <point x="630" y="365" type="curve" smooth="yes"/>
+      <point x="630" y="138"/>
+      <point x="505" y="20"/>
+      <point x="260" y="20" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1243" y="0" type="line"/>
+      <point x="1243" y="20" type="line"/>
+      <point x="768" y="20" type="line"/>
+      <point x="768" y="22" type="line"/>
+      <point x="1243" y="710" type="line"/>
+      <point x="1243" y="730" type="line"/>
+      <point x="743" y="730" type="line"/>
+      <point x="743" y="710" type="line"/>
+      <point x="1218" y="710" type="line"/>
+      <point x="1218" y="708" type="line"/>
+      <point x="743" y="20" type="line"/>
+      <point x="743" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="825" y="1000" type="line"/>
+      <point x="982" y="780" type="line"/>
+      <point x="1012" y="780" type="line"/>
+      <point x="1169" y="1000" type="line"/>
+      <point x="1144" y="1000" type="line"/>
+      <point x="998" y="794" type="line"/>
+      <point x="996" y="794" type="line"/>
+      <point x="850" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9bd780ad8b386abcbe824db189e30f315e76f714cd042e53bc64668fa2e0264b85dc940dd31ef6d23a67fa38753d9010a15faf1897186796ae404dd6a56f9bde</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 710 20</string>
+          <string>hstem 780 14</string>
+          <string>vstem 110 20</string>
+          <string>vstem 630 20</string>
+          <string>vstem 743 25</string>
+          <string>vstem 1218 25</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

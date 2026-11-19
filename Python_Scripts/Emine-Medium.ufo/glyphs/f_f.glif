@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f" format="2">
+  <advance width="824"/>
+  <outline>
+    <contour>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="410" type="line"/>
+      <point x="520" y="410" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="629" y="0" type="line"/>
+      <point x="629" y="410" type="line"/>
+      <point x="799" y="410" type="line"/>
+      <point x="799" y="500" type="line"/>
+      <point x="629" y="500" type="line"/>
+      <point x="629" y="577" type="line" smooth="yes"/>
+      <point x="629" y="650"/>
+      <point x="653" y="677"/>
+      <point x="718" y="677" type="curve" smooth="yes"/>
+      <point x="742" y="677"/>
+      <point x="765" y="673"/>
+      <point x="789" y="665" type="curve"/>
+      <point x="802" y="755" type="line"/>
+      <point x="774" y="764"/>
+      <point x="738" y="770"/>
+      <point x="701" y="770" type="curve" smooth="yes"/>
+      <point x="581" y="770"/>
+      <point x="520" y="708"/>
+      <point x="520" y="585" type="curve" smooth="yes"/>
+      <point x="520" y="500" type="line"/>
+      <point x="269" y="500" type="line"/>
+      <point x="269" y="577" type="line" smooth="yes"/>
+      <point x="269" y="650"/>
+      <point x="293" y="677"/>
+      <point x="358" y="677" type="curve" smooth="yes"/>
+      <point x="382" y="677"/>
+      <point x="405" y="673"/>
+      <point x="429" y="665" type="curve"/>
+      <point x="442" y="755" type="line"/>
+      <point x="414" y="764"/>
+      <point x="378" y="770"/>
+      <point x="341" y="770" type="curve" smooth="yes"/>
+      <point x="221" y="770"/>
+      <point x="160" y="708"/>
+      <point x="160" y="585" type="curve" smooth="yes"/>
+      <point x="160" y="500" type="line"/>
+      <point x="22" y="500" type="line"/>
+      <point x="22" y="410" type="line"/>
+      <point x="160" y="410" type="line"/>
+      <point x="160" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d0b9a64d052b18623f377bcde10b73a5eeffc2f28d5d336ac395143717decbce6943ef3f8379846e213a6e64f3f74b2cef15ca11cd7a271ba39213c3ab2a69c3</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 410 90</string>
+          <string>hstem 677 93</string>
+          <string>vstem 160 109</string>
+          <string>vstem 520 109</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

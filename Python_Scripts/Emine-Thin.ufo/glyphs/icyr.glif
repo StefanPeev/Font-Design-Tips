@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icyr" format="2">
+  <advance width="630"/>
+  <unicode hex="0438"/>
+  <anchor x="315" y="590" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="518" y="509" type="line"/>
+      <point x="518" y="520" type="line"/>
+      <point x="501" y="520" type="line"/>
+      <point x="112" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="520" type="line"/>
+      <point x="99" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="520" type="line"/>
+      <point x="511" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="315" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|n</string>
+  </dict>
+  </lib>
+</glyph>

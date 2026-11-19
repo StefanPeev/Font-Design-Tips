@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0163" format="2">
+  <advance width="469"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="268" y="-220" type="curve" smooth="yes"/>
+      <point x="379" y="-220"/>
+      <point x="396" y="-167"/>
+      <point x="396" y="-135" type="curve" smooth="yes"/>
+      <point x="396" y="-90"/>
+      <point x="363" y="-47"/>
+      <point x="308" y="-10" type="curve"/>
+      <point x="348" y="-10"/>
+      <point x="383" y="-8"/>
+      <point x="421" y="5" type="curve"/>
+      <point x="415" y="24" type="line"/>
+      <point x="386" y="14"/>
+      <point x="358" y="10"/>
+      <point x="325" y="10" type="curve" smooth="yes"/>
+      <point x="233" y="10"/>
+      <point x="202" y="43"/>
+      <point x="202" y="140" type="curve" smooth="yes"/>
+      <point x="202" y="500" type="line"/>
+      <point x="418" y="500" type="line"/>
+      <point x="418" y="520" type="line"/>
+      <point x="202" y="520" type="line"/>
+      <point x="202" y="690" type="line"/>
+      <point x="182" y="690" type="line"/>
+      <point x="182" y="520" type="line"/>
+      <point x="41" y="520" type="line"/>
+      <point x="41" y="500" type="line"/>
+      <point x="182" y="500" type="line"/>
+      <point x="182" y="140" type="line" smooth="yes"/>
+      <point x="182" y="62"/>
+      <point x="205" y="23"/>
+      <point x="254" y="0" type="curve" smooth="yes"/>
+      <point x="335" y="-38"/>
+      <point x="376" y="-90"/>
+      <point x="376" y="-135" type="curve" smooth="yes"/>
+      <point x="376" y="-189"/>
+      <point x="317" y="-200"/>
+      <point x="268" y="-200" type="curve" smooth="yes"/>
+      <point x="235" y="-200"/>
+      <point x="201" y="-193"/>
+      <point x="175" y="-181" type="curve"/>
+      <point x="167" y="-199" type="line"/>
+      <point x="195" y="-212"/>
+      <point x="232" y="-220"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bc97f7265519fe1be676c8be6d57816474bcdf461380df99e7c1a245cd9335acb8d8bb6bd78e9ccd1f57b2af86a0faf5fce94fa63421c510a73bfb7417542b4b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 20</string>
+          <string>hstem -10 20</string>
+          <string>hstem 500 20</string>
+          <string>vstem 182 20</string>
+          <string>vstem 376 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

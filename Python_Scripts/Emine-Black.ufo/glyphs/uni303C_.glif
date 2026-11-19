@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni303C" format="2">
+  <advance width="1000"/>
+  <unicode hex="303C"/>
+  <outline>
+    <contour>
+      <point x="370" y="110" type="line"/>
+      <point x="750" y="490" type="line"/>
+      <point x="750" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="920" y="780" type="line"/>
+      <point x="80" y="780" type="line"/>
+      <point x="80" y="-60" type="line"/>
+      <point x="920" y="-60" type="line"/>
+    </contour>
+    <contour>
+      <point x="630" y="610" type="line"/>
+      <point x="250" y="230" type="line"/>
+      <point x="250" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m370,110l750,490l750,110m920,780l80,780l80,-60l920,-60m630,610l250,230l250,610</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -60 170</string>
+          <string>hstem 610 170</string>
+          <string>vstem 80 170</string>
+          <string>vstem 750 170</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

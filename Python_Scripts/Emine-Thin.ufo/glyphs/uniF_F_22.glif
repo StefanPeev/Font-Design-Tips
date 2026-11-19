@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF22" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF22"/>
+  <outline>
+    <contour>
+      <point x="455" y="0" type="line" smooth="yes"/>
+      <point x="659" y="0"/>
+      <point x="755" y="63"/>
+      <point x="755" y="200" type="curve" smooth="yes"/>
+      <point x="755" y="308"/>
+      <point x="696" y="369"/>
+      <point x="571" y="390" type="curve"/>
+      <point x="571" y="392" type="line"/>
+      <point x="667" y="414"/>
+      <point x="715" y="467"/>
+      <point x="715" y="555" type="curve" smooth="yes"/>
+      <point x="715" y="673"/>
+      <point x="628" y="730"/>
+      <point x="455" y="730" type="curve" smooth="yes"/>
+      <point x="265" y="730" type="line"/>
+      <point x="265" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="20" type="line"/>
+      <point x="285" y="380" type="line"/>
+      <point x="455" y="380" type="line" smooth="yes"/>
+      <point x="648" y="380"/>
+      <point x="735" y="324"/>
+      <point x="735" y="200" type="curve" smooth="yes"/>
+      <point x="735" y="76"/>
+      <point x="648" y="20"/>
+      <point x="455" y="20" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="285" y="400" type="line"/>
+      <point x="285" y="710" type="line"/>
+      <point x="455" y="710" type="line" smooth="yes"/>
+      <point x="618" y="710"/>
+      <point x="695" y="660"/>
+      <point x="695" y="555" type="curve" smooth="yes"/>
+      <point x="695" y="450"/>
+      <point x="618" y="400"/>
+      <point x="455" y="400" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7881eef264125b9a73c390a7a798e532802dba7f95fc10099f434159da4d3e1d40db9060a67fa2081f38a6d749030149a9c965ca6266dba9b40ec45b0ec4513e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 380 20</string>
+          <string>hstem 710 20</string>
+          <string>vstem 265 20</string>
+          <string>vstem 695 20</string>
+          <string>vstem 735 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

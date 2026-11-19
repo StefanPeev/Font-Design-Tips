@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gecyr" format="2">
+  <advance width="424"/>
+  <unicode hex="0433"/>
+  <anchor x="240" y="590" name="top"/>
+  <outline>
+    <contour>
+      <point x="174" y="380" type="line"/>
+      <point x="444" y="380" type="line"/>
+      <point x="444" y="520" type="line"/>
+      <point x="174" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="520" type="line"/>
+      <point x="54" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="212" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  </dict>
+  </lib>
+</glyph>

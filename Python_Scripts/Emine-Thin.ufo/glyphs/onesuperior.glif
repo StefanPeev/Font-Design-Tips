@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+  <advance width="360"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="222" y="292" type="line"/>
+      <point x="222" y="730" type="line"/>
+      <point x="202" y="730" type="line"/>
+      <point x="10" y="600" type="line"/>
+      <point x="22" y="584" type="line"/>
+      <point x="200" y="709" type="line"/>
+      <point x="202" y="709" type="line"/>
+      <point x="202" y="292" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w360m222,292l222,730l202,730l10,600l22,584l200,709l202,709l202,292</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 709 21</string>
+          <string>vstem 202 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

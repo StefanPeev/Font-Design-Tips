@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3032" format="2">
+  <advance width="1000"/>
+  <unicode hex="3032"/>
+  <outline>
+    <contour>
+      <point x="591" y="-70" type="line"/>
+      <point x="449" y="224"/>
+      <point x="342" y="320"/>
+      <point x="342" y="380" type="curve" smooth="yes"/>
+      <point x="342" y="440"/>
+      <point x="441" y="518"/>
+      <point x="578" y="791" type="curve"/>
+      <point x="484" y="832" type="line"/>
+      <point x="339" y="543"/>
+      <point x="230" y="464"/>
+      <point x="230" y="380" type="curve" smooth="yes"/>
+      <point x="230" y="297"/>
+      <point x="351" y="192"/>
+      <point x="497" y="-112" type="curve"/>
+    </contour>
+    <contour>
+      <point x="740" y="306" type="line"/>
+      <point x="702" y="392"/>
+      <point x="666" y="458"/>
+      <point x="615" y="526" type="curve"/>
+      <point x="537" y="481" type="line"/>
+      <point x="586" y="413"/>
+      <point x="622" y="348"/>
+      <point x="660" y="265" type="curve"/>
+    </contour>
+    <contour>
+      <point x="885" y="363" type="line"/>
+      <point x="848" y="448"/>
+      <point x="813" y="516"/>
+      <point x="764" y="585" type="curve"/>
+      <point x="686" y="544" type="line"/>
+      <point x="734" y="474"/>
+      <point x="769" y="409"/>
+      <point x="805" y="326" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>40fb54883592e33c9b9ad7c699cefc1c1f059dce5c0c2ab200ba1a1c2305b5c11e65cb9c51b111d7aafb4b5bdf9c4fe4ae26d4ceb3f175e1ae0cc0e8aab956cb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 526 -20</string>
+          <string>vstem 230 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

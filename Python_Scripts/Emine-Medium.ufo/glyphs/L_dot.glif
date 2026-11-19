@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="630"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="595" y="0" type="line"/>
+      <point x="595" y="100" type="line"/>
+      <point x="198" y="100" type="line"/>
+      <point x="198" y="730" type="line"/>
+      <point x="85" y="730" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="310" type="line"/>
+      <point x="570" y="440" type="line"/>
+      <point x="440" y="440" type="line"/>
+      <point x="440" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w630m595,0l595,100l198,100l198,730l85,730l85,0m570,310l570,440l440,440l440,310</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 100</string>
+          <string>hstem 310 130</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 85 113</string>
+          <string>vstem 440 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

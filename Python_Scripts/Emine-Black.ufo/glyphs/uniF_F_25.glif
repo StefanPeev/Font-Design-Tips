@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF25" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF25"/>
+  <outline>
+    <contour>
+      <point x="765" y="0" type="line"/>
+      <point x="765" y="160" type="line"/>
+      <point x="435" y="160" type="line"/>
+      <point x="435" y="298" type="line"/>
+      <point x="745" y="298" type="line"/>
+      <point x="745" y="452" type="line"/>
+      <point x="435" y="452" type="line"/>
+      <point x="435" y="570" type="line"/>
+      <point x="765" y="570" type="line"/>
+      <point x="765" y="730" type="line"/>
+      <point x="235" y="730" type="line"/>
+      <point x="235" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m765,0l765,160l435,160l435,298l745,298l745,452l435,452l435,570l765,570l765,730l235,730l235,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 160</string>
+          <string>hstem 298 154</string>
+          <string>hstem 570 160</string>
+          <string>vstem 235 200</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

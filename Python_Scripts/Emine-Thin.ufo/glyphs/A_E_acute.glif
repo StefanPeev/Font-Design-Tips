@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="2">
+  <advance width="915"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="184" y="237" type="line"/>
+      <point x="472" y="237" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="832" y="0" type="line"/>
+      <point x="832" y="20" type="line"/>
+      <point x="492" y="20" type="line"/>
+      <point x="492" y="380" type="line"/>
+      <point x="809" y="380" type="line"/>
+      <point x="809" y="400" type="line"/>
+      <point x="492" y="400" type="line"/>
+      <point x="492" y="710" type="line"/>
+      <point x="832" y="710" type="line"/>
+      <point x="832" y="730" type="line"/>
+      <point x="449" y="730" type="line"/>
+      <point x="22" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="257" type="line"/>
+      <point x="460" y="710" type="line"/>
+      <point x="472" y="710" type="line"/>
+      <point x="472" y="257" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="1000" type="line"/>
+      <point x="601" y="1000" type="line"/>
+      <point x="480" y="780" type="line"/>
+      <point x="503" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>2022941a60914d571549789ac1c3bf972549cd8802470fd09d8ddee1e7689eb5baa95a6d2c96906aa729867f6a2f410c766fa03d9e364157a5ad5d2766b469de</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 20</string>
+          <string>hstem 237 20</string>
+          <string>hstem 380 20</string>
+          <string>hstem 710 20</string>
+          <string>vstem 472 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

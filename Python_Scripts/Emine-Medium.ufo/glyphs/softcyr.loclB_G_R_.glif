@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="softcyr.loclBGR" format="2">
+  <advance width="541"/>
+  <outline>
+    <contour>
+      <point x="61" y="180" type="line"/>
+      <point x="61" y="70"/>
+      <point x="137" y="0"/>
+      <point x="256" y="0" type="curve" smooth="yes"/>
+      <point x="378" y="0"/>
+      <point x="481" y="41"/>
+      <point x="481" y="186" type="curve" smooth="yes"/>
+      <point x="481" y="324"/>
+      <point x="368" y="370"/>
+      <point x="245" y="370" type="curve" smooth="yes"/>
+      <point x="141" y="370" type="line"/>
+      <point x="141" y="290" type="line"/>
+      <point x="231" y="290" type="line" smooth="yes"/>
+      <point x="330" y="290"/>
+      <point x="381" y="257"/>
+      <point x="381" y="186" type="curve" smooth="yes"/>
+      <point x="381" y="115"/>
+      <point x="333" y="80"/>
+      <point x="273" y="80" type="curve" smooth="yes"/>
+      <point x="211" y="80"/>
+      <point x="171" y="119"/>
+      <point x="171" y="180" type="curve"/>
+    </contour>
+    <contour>
+      <point x="61" y="180" type="line"/>
+      <point x="171" y="180" type="line"/>
+      <point x="171" y="520" type="line"/>
+      <point x="61" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="328"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="-45" y="570" type="line"/>
+      <point x="63" y="790" type="line"/>
+      <point x="-144" y="790" type="line"/>
+      <point x="-198" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="570" type="line"/>
+      <point x="303" y="790" type="line"/>
+      <point x="96" y="790" type="line"/>
+      <point x="42" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w328m-45,570l63,790l-144,790l-198,570m195,570l303,790l96,790l42,570</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 220</string>
+          <string>vstem -198 501</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

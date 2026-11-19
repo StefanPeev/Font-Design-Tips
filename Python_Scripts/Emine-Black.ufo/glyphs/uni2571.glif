@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2571" format="2">
+  <advance width="1000"/>
+  <unicode hex="2571"/>
+  <outline>
+    <contour>
+      <point x="70" y="-140" type="line"/>
+      <point x="1000" y="790" type="line"/>
+      <point x="1000" y="860" type="line"/>
+      <point x="930" y="860" type="line"/>
+      <point x="0" y="-70" type="line"/>
+      <point x="0" y="-140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m70,-140l1000,790l1000,860l930,860l0,-70l0,-140</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -140 70</string>
+          <string>hstem -119 -21</string>
+          <string>hstem 790 70</string>
+          <string>hstem 860 -20</string>
+          <string>vstem 0 1000</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

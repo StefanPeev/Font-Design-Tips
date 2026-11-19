@@ -62,6 +62,8 @@
 
 + **Szántó, Tibor. Abetű. Budapest, 1982.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/abetu/)
 
++ **The International Typebook. London: Studio Editions, 1992.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/the-international-typebook/)
+
 + **Toots, Villu. 300 Burtu veidi. Riga, 1960.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/300-burtu-veidi/)
 
 + **Tracy, Walter. Letters of Credit. 2003.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/letters-of-credit/)
@@ -279,6 +281,8 @@
 + **Тоотс, В. Современный шрифт. Москва, 1966.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/sovremenniy-shrift/)
 
 + **Труды НИИПолиграфмаш. Выпуск. 13. Новые шрифты и орнаменты. Москва, 1961.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/novye-shrifty-i-ornamenty/)
+
++ **Флоренская, О. Психология бытового шрифта. Санкт-Петербург, 2001.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/psikhologiya-bytovogo-shrifta/)
 
 + **Флоренская, О. Психология бытового шрифта. Санкт-Петербург, 2001.** [Библиотекус](https://bibliotekus.artlebedev.ru/books/psikhologiya-bytovogo-shrifta/)
 

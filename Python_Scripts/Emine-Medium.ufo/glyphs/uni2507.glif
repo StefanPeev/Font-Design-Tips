@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2507" format="2">
+  <advance width="1000"/>
+  <unicode hex="2507"/>
+  <outline>
+    <contour>
+      <point x="590" y="-46" type="line"/>
+      <point x="590" y="193" type="line"/>
+      <point x="410" y="193" type="line"/>
+      <point x="410" y="-46" type="line"/>
+    </contour>
+    <contour>
+      <point x="590" y="287" type="line"/>
+      <point x="590" y="527" type="line"/>
+      <point x="410" y="527" type="line"/>
+      <point x="410" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="590" y="621" type="line"/>
+      <point x="590" y="860" type="line"/>
+      <point x="410" y="860" type="line"/>
+      <point x="410" y="621" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m590,-46l590,193l410,193l410,-46m590,287l590,527l410,527l410,287m590,621l590,860l410,860l410,621</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -46 239</string>
+          <string>hstem 287 240</string>
+          <string>hstem 621 239</string>
+          <string>vstem 410 180</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

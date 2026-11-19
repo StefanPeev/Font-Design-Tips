@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF27" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF27"/>
+  <outline>
+    <contour>
+      <point x="558" y="-10" type="curve" smooth="yes"/>
+      <point x="658" y="-10"/>
+      <point x="757" y="11"/>
+      <point x="830" y="50" type="curve"/>
+      <point x="830" y="446" type="line"/>
+      <point x="470" y="446" type="line"/>
+      <point x="470" y="281" type="line"/>
+      <point x="630" y="281" type="line"/>
+      <point x="630" y="167" type="line"/>
+      <point x="608" y="158"/>
+      <point x="587" y="155"/>
+      <point x="558" y="155" type="curve" smooth="yes"/>
+      <point x="426" y="155"/>
+      <point x="360" y="225"/>
+      <point x="360" y="365" type="curve" smooth="yes"/>
+      <point x="360" y="503"/>
+      <point x="425" y="575"/>
+      <point x="547" y="575" type="curve" smooth="yes"/>
+      <point x="613" y="575"/>
+      <point x="691" y="554"/>
+      <point x="741" y="524" type="curve"/>
+      <point x="783" y="684" type="line"/>
+      <point x="719" y="721"/>
+      <point x="639" y="740"/>
+      <point x="547" y="740" type="curve" smooth="yes"/>
+      <point x="298" y="740"/>
+      <point x="150" y="600"/>
+      <point x="150" y="365" type="curve" smooth="yes"/>
+      <point x="150" y="128"/>
+      <point x="301" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0e0b0323ca3f7705e68e37d541c416f49dc20ae347f2eef51d90c5f3f8f23e2821d06e6a2a56d0d3cf15e16c12f45d040f7384c54a29cc6c6f3a95f5f381a011</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 165</string>
+          <string>hstem 281 165</string>
+          <string>hstem 575 165</string>
+          <string>vstem 150 210</string>
+          <string>vstem 630 200</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

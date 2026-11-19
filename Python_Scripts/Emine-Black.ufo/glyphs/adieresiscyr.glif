@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adieresiscyr" format="2">
+  <advance width="574"/>
+  <unicode hex="04D3"/>
+  <anchor x="287" y="590" name="t.ring"/>
+  <anchor x="287" y="-50" name="bottom"/>
+  <anchor x="287" y="-50" name="b.ring"/>
+  <outline>
+    <component base="uni0430"/>
+    <component base="uni0308" xOffset="287" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0430+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="715"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="637" y="0" type="line"/>
+      <point x="637" y="97" type="line"/>
+      <point x="57" y="97" type="line"/>
+      <point x="57" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="288" type="line"/>
+      <point x="144" y="458" type="line"/>
+      <point x="144" y="460" type="line"/>
+      <point x="640" y="630" type="line"/>
+      <point x="640" y="740" type="line"/>
+      <point x="60" y="521" type="line"/>
+      <point x="60" y="397" type="line"/>
+      <point x="640" y="178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w715m637,0l637,97l57,97l57,0m640,288l144,458l144,460l640,630l640,740l60,521l60,397l640,178</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 97</string>
+          <string>hstem 521 -20</string>
+          <string>hstem 740 -20</string>
+          <string>vstem 60 84</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

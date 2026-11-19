@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="354"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="262" y="-210" type="line"/>
+      <point x="262" y="810" type="line"/>
+      <point x="92" y="810" type="line"/>
+      <point x="92" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w354m262,-210l262,810l92,810l92,-210</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -210 1020</string>
+          <string>vstem 92 170</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

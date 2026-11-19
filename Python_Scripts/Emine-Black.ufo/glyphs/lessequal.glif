@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="686"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="632" y="0" type="line"/>
+      <point x="632" y="165" type="line"/>
+      <point x="52" y="165" type="line"/>
+      <point x="52" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="352" type="line"/>
+      <point x="199" y="471" type="line"/>
+      <point x="199" y="473" type="line"/>
+      <point x="628" y="592" type="line"/>
+      <point x="628" y="772" type="line"/>
+      <point x="48" y="582" type="line"/>
+      <point x="48" y="362" type="line"/>
+      <point x="628" y="172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w686m632,0l632,165l52,165l52,0m628,352l199,471l199,473l628,592l628,772l48,582l48,362l628,172</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 165</string>
+          <string>vstem 48 151</string>
+          <string>vstem 48 584</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

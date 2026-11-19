@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr.loclBGR" format="2">
+  <advance width="824"/>
+  <outline>
+    <contour>
+      <point x="467" y="0" type="line"/>
+      <point x="467" y="730" type="line"/>
+      <point x="357" y="730" type="line"/>
+      <point x="357" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="228" type="line"/>
+      <point x="555" y="228" type="line"/>
+      <point x="532" y="236" type="line"/>
+      <point x="679" y="0" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="629" y="281" type="line"/>
+      <point x="629" y="260" type="line"/>
+      <point x="800" y="520" type="line"/>
+      <point x="675" y="520" type="line"/>
+      <point x="532" y="299" type="line"/>
+      <point x="555" y="308" type="line"/>
+      <point x="467" y="308" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="308" type="line"/>
+      <point x="269" y="308" type="line"/>
+      <point x="292" y="299" type="line"/>
+      <point x="149" y="520" type="line"/>
+      <point x="24" y="520" type="line"/>
+      <point x="195" y="260" type="line"/>
+      <point x="195" y="281" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="292" y="236" type="line"/>
+      <point x="269" y="228" type="line"/>
+      <point x="357" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=zhecyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>zhecyr</string>
+  </dict>
+  </lib>
+</glyph>

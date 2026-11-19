@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ltshade" format="2">
+  <advance width="1000"/>
+  <unicode hex="2591"/>
+  <outline>
+    <contour>
+      <point x="750" y="-140" type="line"/>
+      <point x="875" y="-140" type="line"/>
+      <point x="875" y="-15" type="line"/>
+      <point x="750" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="110" type="line"/>
+      <point x="875" y="110" type="line"/>
+      <point x="875" y="235" type="line"/>
+      <point x="750" y="235" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="360" type="line"/>
+      <point x="875" y="360" type="line"/>
+      <point x="875" y="485" type="line"/>
+      <point x="750" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="610" type="line"/>
+      <point x="875" y="610" type="line"/>
+      <point x="875" y="735" type="line"/>
+      <point x="750" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="-15" type="line"/>
+      <point x="625" y="-15" type="line"/>
+      <point x="625" y="110" type="line"/>
+      <point x="500" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="235" type="line"/>
+      <point x="625" y="235" type="line"/>
+      <point x="625" y="360" type="line"/>
+      <point x="500" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="485" type="line"/>
+      <point x="625" y="485" type="line"/>
+      <point x="625" y="610" type="line"/>
+      <point x="500" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="735" type="line"/>
+      <point x="625" y="735" type="line"/>
+      <point x="625" y="860" type="line"/>
+      <point x="500" y="860" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="-140" type="line"/>
+      <point x="375" y="-140" type="line"/>
+      <point x="375" y="-15" type="line"/>
+      <point x="250" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="110" type="line"/>
+      <point x="375" y="110" type="line"/>
+      <point x="375" y="235" type="line"/>
+      <point x="250" y="235" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="360" type="line"/>
+      <point x="375" y="360" type="line"/>
+      <point x="375" y="485" type="line"/>
+      <point x="250" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="610" type="line"/>
+      <point x="375" y="610" type="line"/>
+      <point x="375" y="735" type="line"/>
+      <point x="250" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-15" type="line"/>
+      <point x="125" y="-15" type="line"/>
+      <point x="125" y="110" type="line"/>
+      <point x="0" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="235" type="line"/>
+      <point x="125" y="235" type="line"/>
+      <point x="125" y="360" type="line"/>
+      <point x="0" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="485" type="line"/>
+      <point x="125" y="485" type="line"/>
+      <point x="125" y="610" type="line"/>
+      <point x="0" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="735" type="line"/>
+      <point x="125" y="735" type="line"/>
+      <point x="125" y="860" type="line"/>
+      <point x="0" y="860" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c5b85311c58d9165e5f5d175d931f72a034de9ecf928c3d070d57237d027be05df2a8a0fb0758c1f62a443f8f916a9e92624d9d43d0ed2e1a26c700d1ea9654c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -140 125</string>
+          <string>hstem -15 125</string>
+          <string>hstem 110 125</string>
+          <string>hstem 235 125</string>
+          <string>hstem 360 125</string>
+          <string>hstem 485 125</string>
+          <string>hstem 610 125</string>
+          <string>hstem 735 125</string>
+          <string>vstem 0 125</string>
+          <string>vstem 250 125</string>
+          <string>vstem 500 125</string>
+          <string>vstem 750 125</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

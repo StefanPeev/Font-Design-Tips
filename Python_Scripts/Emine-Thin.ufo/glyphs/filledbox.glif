@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="filledbox" format="2">
+  <advance width="1000"/>
+  <unicode hex="25A0"/>
+  <outline>
+    <contour>
+      <point x="880" y="-20" type="line"/>
+      <point x="880" y="740" type="line"/>
+      <point x="120" y="740" type="line"/>
+      <point x="120" y="-20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m880,-20l880,740l120,740l120,-20</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 740 -20</string>
+          <string>vstem 120 760</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

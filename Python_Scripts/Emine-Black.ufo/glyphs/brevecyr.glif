@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecyr" format="2">
+  <anchor x="0" y="570" name="_top"/>
+  <outline>
+    <contour>
+      <point x="0" y="550" type="curve" smooth="yes"/>
+      <point x="144" y="550"/>
+      <point x="220" y="620"/>
+      <point x="220" y="735" type="curve"/>
+      <point x="46" y="735" type="line"/>
+      <point x="39" y="706"/>
+      <point x="24" y="680"/>
+      <point x="-1" y="680" type="curve" smooth="yes"/>
+      <point x="-27" y="680"/>
+      <point x="-42" y="706"/>
+      <point x="-46" y="735" type="curve"/>
+      <point x="-220" y="735" type="line"/>
+      <point x="-220" y="620"/>
+      <point x="-143" y="550"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m0,550c144,550 220,620 220,735l46,735c39,706 24,680 -1,680c-27,680 -42,706 -46,735l-220,735c-220,620 -143,550 0,550</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 550 205</string>
+          <string>vstem 14 520</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr" format="2">
+  <advance width="617"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="318" y="-10" type="curve" smooth="yes"/>
+      <point x="488" y="-10"/>
+      <point x="590" y="86"/>
+      <point x="590" y="249" type="curve" smooth="yes"/>
+      <point x="590" y="376"/>
+      <point x="527" y="508"/>
+      <point x="376" y="508" type="curve" smooth="yes"/>
+      <point x="309" y="508"/>
+      <point x="249" y="480"/>
+      <point x="208" y="425" type="curve"/>
+      <point x="218" y="430" type="line"/>
+      <point x="218" y="456" type="line" smooth="yes"/>
+      <point x="218" y="597"/>
+      <point x="320" y="599"/>
+      <point x="431" y="599" type="curve" smooth="yes"/>
+      <point x="466" y="599"/>
+      <point x="502" y="600"/>
+      <point x="536" y="605" type="curve"/>
+      <point x="536" y="750" type="line"/>
+      <point x="491" y="744"/>
+      <point x="444" y="741"/>
+      <point x="398" y="739" type="curve" smooth="yes"/>
+      <point x="211" y="729"/>
+      <point x="27" y="719"/>
+      <point x="27" y="460" type="curve" smooth="yes"/>
+      <point x="27" y="280" type="line" smooth="yes"/>
+      <point x="27" y="99"/>
+      <point x="125" y="-10"/>
+    </contour>
+    <contour>
+      <point x="308" y="130" type="curve" smooth="yes"/>
+      <point x="237" y="130"/>
+      <point x="223" y="194"/>
+      <point x="223" y="254" type="curve" smooth="yes"/>
+      <point x="223" y="314"/>
+      <point x="244" y="368"/>
+      <point x="308" y="368" type="curve" smooth="yes"/>
+      <point x="372" y="368"/>
+      <point x="394" y="308"/>
+      <point x="394" y="248" type="curve" smooth="yes"/>
+      <point x="394" y="188"/>
+      <point x="376" y="130"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

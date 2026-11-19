@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscoredbl" format="2">
+  <advance width="560"/>
+  <unicode hex="2017"/>
+  <outline>
+    <contour>
+      <point x="560" y="-90" type="line"/>
+      <point x="0" y="-90" type="line"/>
+      <point x="0" y="-110" type="line"/>
+      <point x="560" y="-110" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="-270" type="line"/>
+      <point x="0" y="-270" type="line"/>
+      <point x="0" y="-290" type="line"/>
+      <point x="560" y="-290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w560m560,-90l0,-90l0,-110l560,-110m560,-270l0,-270l0,-290l560,-290</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -290 20</string>
+          <string>hstem -110 20</string>
+          <string>vstem 0 560</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

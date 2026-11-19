@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3030" format="2">
+  <advance width="1000"/>
+  <unicode hex="3030"/>
+  <outline>
+    <contour>
+      <point x="1000" y="530" type="line"/>
+      <point x="830" y="530"/>
+      <point x="810" y="370"/>
+      <point x="750" y="370" type="curve" smooth="yes"/>
+      <point x="690" y="370"/>
+      <point x="670" y="530"/>
+      <point x="500" y="530" type="curve" smooth="yes"/>
+      <point x="330" y="530"/>
+      <point x="310" y="370"/>
+      <point x="250" y="370" type="curve" smooth="yes"/>
+      <point x="190" y="370"/>
+      <point x="170" y="530"/>
+      <point x="0" y="530" type="curve"/>
+      <point x="0" y="350" type="line"/>
+      <point x="60" y="350"/>
+      <point x="80" y="190"/>
+      <point x="250" y="190" type="curve" smooth="yes"/>
+      <point x="420" y="190"/>
+      <point x="440" y="350"/>
+      <point x="500" y="350" type="curve" smooth="yes"/>
+      <point x="560" y="350"/>
+      <point x="580" y="190"/>
+      <point x="750" y="190" type="curve" smooth="yes"/>
+      <point x="920" y="190"/>
+      <point x="940" y="350"/>
+      <point x="1000" y="350" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>4622f077f97325cbac596e39d62cca9c4e64b19d0b2a5bcd5e361192da48f06ec84db900ab550eee5007f54d180dd4f4a6cc1b852d53fdb3c2b6184dd4a0259d</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 350 180</string>
+          <string>vstem 0 1000</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

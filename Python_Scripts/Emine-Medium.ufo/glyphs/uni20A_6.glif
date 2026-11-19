@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20A6" format="2">
+  <advance width="874"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="137" y="0" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="247" y="550" type="line"/>
+      <point x="249" y="550" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="717" y="730" type="line"/>
+      <point x="607" y="730" type="line"/>
+      <point x="607" y="180" type="line"/>
+      <point x="605" y="180" type="line"/>
+      <point x="257" y="730" type="line"/>
+      <point x="137" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="495" type="line"/>
+      <point x="27" y="405" type="line"/>
+      <point x="847" y="405" type="line"/>
+      <point x="847" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="325" type="line"/>
+      <point x="27" y="235" type="line"/>
+      <point x="847" y="235" type="line"/>
+      <point x="847" y="325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0c63cfe4889bb29ccfe92a53ecc980b25e5536fc0d364dc149679c5215e747782da95bf933cf8270e2510b477a5dbfcdf32b35002e902301277ee4c6333aeb26</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 235 90</string>
+          <string>hstem 405 90</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 137 110</string>
+          <string>vstem 607 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

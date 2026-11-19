@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="624"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="610" y="0" type="line"/>
+      <point x="610" y="170" type="line"/>
+      <point x="265" y="170" type="line"/>
+      <point x="265" y="730" type="line"/>
+      <point x="60" y="730" type="line"/>
+      <point x="60" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="470" type="line"/>
+      <point x="612" y="770" type="line"/>
+      <point x="402" y="770" type="line"/>
+      <point x="342" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w624m610,0l610,170l265,170l265,730l60,730l60,0m492,470l612,770l402,770l342,470</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 170</string>
+          <string>hstem 470 260</string>
+          <string>hstem 470 300</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 60 205</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF4B" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF4B"/>
+  <outline>
+    <contour>
+      <point x="394" y="0" type="line"/>
+      <point x="394" y="235" type="line"/>
+      <point x="396" y="235" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="489" y="270" type="line"/>
+      <point x="764" y="520" type="line"/>
+      <point x="625" y="520" type="line"/>
+      <point x="396" y="306" type="line"/>
+      <point x="394" y="306" type="line"/>
+      <point x="394" y="730" type="line"/>
+      <point x="285" y="730" type="line"/>
+      <point x="285" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m394,0l394,235l396,235l636,0l775,0l489,270l764,520l625,520l396,306l394,306l394,730l285,730l285,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 520 -20</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 285 109</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shchacyr" format="2">
+  <advance width="793"/>
+  <unicode hex="0449"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="669" y="0" type="line"/>
+      <point x="669" y="-120" type="line"/>
+      <point x="764" y="-120" type="line"/>
+      <point x="764" y="73" type="line"/>
+      <point x="679" y="73" type="line"/>
+      <point x="679" y="520" type="line"/>
+      <point x="574" y="520" type="line"/>
+      <point x="574" y="73" type="line"/>
+      <point x="429" y="73" type="line"/>
+      <point x="429" y="520" type="line"/>
+      <point x="327" y="520" type="line"/>
+      <point x="327" y="73" type="line"/>
+      <point x="181" y="73" type="line"/>
+      <point x="181" y="520" type="line"/>
+      <point x="76" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=tsecyr</string>
+  </dict>
+  </lib>
+</glyph>

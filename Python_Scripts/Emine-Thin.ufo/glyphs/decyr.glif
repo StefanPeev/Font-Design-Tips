@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="decyr" format="2">
+  <advance width="600"/>
+  <unicode hex="0434"/>
+  <outline>
+    <contour>
+      <point x="56" y="7" type="curve"/>
+      <point x="79" y="7" type="line"/>
+      <point x="125" y="107"/>
+      <point x="148" y="208"/>
+      <point x="155" y="323" type="curve" smooth="yes"/>
+      <point x="166" y="515" type="line"/>
+      <point x="150" y="500" type="line"/>
+      <point x="465" y="500" type="line"/>
+      <point x="450" y="515" type="line"/>
+      <point x="450" y="5" type="line"/>
+      <point x="470" y="5" type="line"/>
+      <point x="470" y="520" type="line"/>
+      <point x="145" y="520" type="line"/>
+      <point x="135" y="320" type="line" smooth="yes"/>
+      <point x="129" y="198"/>
+      <point x="109" y="117"/>
+    </contour>
+    <contour>
+      <point x="10" y="20" type="line"/>
+      <point x="10" y="-120" type="line"/>
+      <point x="30" y="-120" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="-120" type="line"/>
+      <point x="540" y="-120" type="line"/>
+      <point x="540" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="2">
+  <advance width="328"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <contour>
+      <point x="229" y="-220" type="curve" smooth="yes"/>
+      <point x="257" y="-220"/>
+      <point x="281" y="-217"/>
+      <point x="304" y="-210" type="curve"/>
+      <point x="289" y="-75" type="line"/>
+      <point x="274" y="-81"/>
+      <point x="255" y="-85"/>
+      <point x="241" y="-85" type="curve" smooth="yes"/>
+      <point x="214" y="-85"/>
+      <point x="200" y="-75"/>
+      <point x="200" y="-57" type="curve" smooth="yes"/>
+      <point x="200" y="-37"/>
+      <point x="233" y="-19"/>
+      <point x="302" y="0" type="curve"/>
+      <point x="119" y="52" type="line"/>
+      <point x="53" y="4"/>
+      <point x="24" y="-34"/>
+      <point x="24" y="-82" type="curve" smooth="yes"/>
+      <point x="24" y="-170"/>
+      <point x="97" y="-220"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fc587c36f502ca6ee117501750cf92d34e03fe133df9bdfdb16c296fadd81630ed0d3861ea263aa5138bd348678ed2d79ba8716b21d1a905337a4ae08b514fee</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 135</string>
+          <string>hstem 21 -21</string>
+          <string>vstem 24 176</string>
+          <string>vstem 24 280</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

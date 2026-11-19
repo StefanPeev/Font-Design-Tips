@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="499"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="332" y="0" type="line"/>
+      <point x="489" y="260" type="line"/>
+      <point x="332" y="520" type="line"/>
+      <point x="231" y="520" type="line"/>
+      <point x="391" y="260" type="line"/>
+      <point x="231" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="289" y="260" type="line"/>
+      <point x="132" y="520" type="line"/>
+      <point x="31" y="520" type="line"/>
+      <point x="191" y="260" type="line"/>
+      <point x="31" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w499m332,0l489,260l332,520l231,520l391,260l231,0m132,0l289,260l132,520l31,520l191,260l31,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 260</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 520 -20</string>
+          <string>vstem 31 458</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

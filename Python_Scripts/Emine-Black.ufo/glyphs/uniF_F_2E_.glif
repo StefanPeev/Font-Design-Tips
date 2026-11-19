@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF2E" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF2E"/>
+  <outline>
+    <contour>
+      <point x="390" y="0" type="line"/>
+      <point x="390" y="390" type="line"/>
+      <point x="392" y="390" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="810" y="0" type="line"/>
+      <point x="810" y="730" type="line"/>
+      <point x="610" y="730" type="line"/>
+      <point x="610" y="340" type="line"/>
+      <point x="608" y="340" type="line"/>
+      <point x="390" y="730" type="line"/>
+      <point x="190" y="730" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m390,0l390,390l392,390l610,0l810,0l810,730l610,730l610,340l608,340l390,730l190,730l190,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 190 200</string>
+          <string>vstem 610 200</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

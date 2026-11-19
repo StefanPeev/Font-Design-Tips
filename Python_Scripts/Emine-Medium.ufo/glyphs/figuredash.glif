@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash" format="2">
+  <advance width="680"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="545" y="415" type="line"/>
+      <point x="135" y="415" type="line"/>
+      <point x="135" y="315" type="line"/>
+      <point x="545" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w680m545,415l135,415l135,315l545,315</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 315 100</string>
+          <string>vstem 135 410</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

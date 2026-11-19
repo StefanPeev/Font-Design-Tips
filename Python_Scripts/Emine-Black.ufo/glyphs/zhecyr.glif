@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhecyr" format="2">
+  <advance width="960"/>
+  <unicode hex="0436"/>
+  <outline>
+    <component base="dotlessi" xOffset="321"/>
+    <contour>
+      <point x="580" y="195" type="line"/>
+      <point x="597" y="195" type="line"/>
+      <point x="583" y="202" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="950" y="0" type="line"/>
+      <point x="741" y="282" type="line"/>
+      <point x="741" y="258" type="line"/>
+      <point x="950" y="520" type="line"/>
+      <point x="725" y="520" type="line"/>
+      <point x="583" y="328" type="line"/>
+      <point x="597" y="335" type="line"/>
+      <point x="580" y="335" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="335" type="line"/>
+      <point x="363" y="335" type="line"/>
+      <point x="377" y="328" type="line"/>
+      <point x="235" y="520" type="line"/>
+      <point x="10" y="520" type="line"/>
+      <point x="219" y="258" type="line"/>
+      <point x="219" y="282" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="377" y="202" type="line"/>
+      <point x="363" y="195" type="line"/>
+      <point x="380" y="195" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|k</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=k</string>
+  <key>com.fontlab.recipe</key>
+  <string>k_k%</string>
+  </dict>
+  </lib>
+</glyph>

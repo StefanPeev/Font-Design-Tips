@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="588"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="234" y="570" type="line"/>
+      <point x="293" y="670" type="line"/>
+      <point x="295" y="670" type="line"/>
+      <point x="354" y="570" type="line"/>
+      <point x="564" y="570" type="line"/>
+      <point x="404" y="790" type="line"/>
+      <point x="184" y="790" type="line"/>
+      <point x="24" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w588m234,570l293,670l295,670l354,570l564,570l404,790l184,790l24,570</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 220</string>
+          <string>vstem 24 540</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

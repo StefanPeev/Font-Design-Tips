@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF47" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF47"/>
+  <outline>
+    <contour>
+      <point x="473" y="-220" type="curve" smooth="yes"/>
+      <point x="656" y="-220"/>
+      <point x="740" y="-133"/>
+      <point x="740" y="55" type="curve" smooth="yes"/>
+      <point x="740" y="520" type="line"/>
+      <point x="637" y="520" type="line"/>
+      <point x="636" y="462" type="line"/>
+      <point x="634" y="462" type="line"/>
+      <point x="596" y="505"/>
+      <point x="533" y="530"/>
+      <point x="462" y="530" type="curve" smooth="yes"/>
+      <point x="323" y="530"/>
+      <point x="240" y="435"/>
+      <point x="240" y="275" type="curve" smooth="yes"/>
+      <point x="240" y="115"/>
+      <point x="323" y="20"/>
+      <point x="462" y="20" type="curve" smooth="yes"/>
+      <point x="531" y="20"/>
+      <point x="592" y="44"/>
+      <point x="630" y="88" type="curve"/>
+      <point x="632" y="88" type="line"/>
+      <point x="632" y="55" type="line" smooth="yes"/>
+      <point x="632" y="-77"/>
+      <point x="584" y="-130"/>
+      <point x="463" y="-130" type="curve" smooth="yes"/>
+      <point x="396" y="-130"/>
+      <point x="328" y="-114"/>
+      <point x="280" y="-86" type="curve"/>
+      <point x="265" y="-174" type="line"/>
+      <point x="314" y="-203"/>
+      <point x="391" y="-220"/>
+    </contour>
+    <contour>
+      <point x="487" y="110" type="curve" smooth="yes"/>
+      <point x="397" y="110"/>
+      <point x="346" y="170"/>
+      <point x="346" y="275" type="curve" smooth="yes"/>
+      <point x="346" y="380"/>
+      <point x="397" y="440"/>
+      <point x="487" y="440" type="curve" smooth="yes"/>
+      <point x="570" y="440"/>
+      <point x="632" y="391"/>
+      <point x="632" y="325" type="curve" smooth="yes"/>
+      <point x="632" y="225" type="line" smooth="yes"/>
+      <point x="632" y="159"/>
+      <point x="570" y="110"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>fd5558e41941d2145c028afd08fab256e58bcd967d5e82d6e719f3b415ad5d1e2af88b0bee2e0478e93c6fc61f9c105143e01a8fd2eb00b2fd058d4397e1e956</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 90</string>
+          <string>hstem 20 90</string>
+          <string>hstem 440 90</string>
+          <string>hstem 520 -20</string>
+          <string>vstem 240 106</string>
+          <string>vstem 632 108</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

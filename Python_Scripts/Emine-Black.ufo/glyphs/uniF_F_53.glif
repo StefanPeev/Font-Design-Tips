@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF53" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF53"/>
+  <outline>
+    <contour>
+      <point x="498" y="-10" type="curve" smooth="yes"/>
+      <point x="640" y="-10"/>
+      <point x="735" y="56"/>
+      <point x="735" y="155" type="curve" smooth="yes"/>
+      <point x="735" y="240"/>
+      <point x="664" y="298"/>
+      <point x="520" y="331" type="curve" smooth="yes"/>
+      <point x="477" y="341"/>
+      <point x="465" y="348"/>
+      <point x="465" y="365" type="curve" smooth="yes"/>
+      <point x="465" y="383"/>
+      <point x="482" y="390"/>
+      <point x="525" y="390" type="curve" smooth="yes"/>
+      <point x="574" y="390"/>
+      <point x="626" y="381"/>
+      <point x="697" y="359" type="curve"/>
+      <point x="717" y="499" type="line"/>
+      <point x="644" y="519"/>
+      <point x="565" y="530"/>
+      <point x="498" y="530" type="curve" smooth="yes"/>
+      <point x="345" y="530"/>
+      <point x="265" y="475"/>
+      <point x="265" y="370" type="curve" smooth="yes"/>
+      <point x="265" y="281"/>
+      <point x="334" y="227"/>
+      <point x="481" y="191" type="curve"/>
+      <point x="526" y="181"/>
+      <point x="535" y="175"/>
+      <point x="535" y="159" type="curve" smooth="yes"/>
+      <point x="535" y="137"/>
+      <point x="521" y="130"/>
+      <point x="476" y="130" type="curve" smooth="yes"/>
+      <point x="419" y="130"/>
+      <point x="362" y="141"/>
+      <point x="289" y="167" type="curve"/>
+      <point x="269" y="27" type="line"/>
+      <point x="326" y="6"/>
+      <point x="427" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>962d5e235dc26f7fc7b5a09cc887d5b2e25c463f896cefd64a8ac516321c75d737132624f71ad65dc6a4ad373c1a514bba70443b760c78fc3876dd31b288a12e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 140</string>
+          <string>hstem 390 140</string>
+          <string>vstem 265 200</string>
+          <string>vstem 535 200</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

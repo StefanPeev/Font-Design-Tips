@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="2">
+  <advance width="820"/>
+  <unicode hex="01A0"/>
+  <anchor x="410" y="790" name="top"/>
+  <anchor x="410" y="-50" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="741" y="538" type="line"/>
+      <point x="834" y="553"/>
+      <point x="884" y="613"/>
+      <point x="884" y="715" type="curve" smooth="yes"/>
+      <point x="884" y="739"/>
+      <point x="880" y="765"/>
+      <point x="872" y="785" type="curve"/>
+      <point x="697" y="785" type="line"/>
+      <point x="702" y="771"/>
+      <point x="707" y="746"/>
+      <point x="707" y="733" type="curve" smooth="yes"/>
+      <point x="707" y="700"/>
+      <point x="686" y="680"/>
+      <point x="652" y="680" type="curve" smooth="yes"/>
+      <point x="637" y="680" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="410" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=O</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w820m741,538c834,553 884,613 884,715c884,739 880,765 872,785l697,785c702,771 707,746 707,733c707,700 686,680 652,680l637,680</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 170</string>
+          <string>hstem 570 170</string>
+          <string>vstem 30 205</string>
+          <string>vstem 585 205</string>
+          <string>vstem 707 177</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

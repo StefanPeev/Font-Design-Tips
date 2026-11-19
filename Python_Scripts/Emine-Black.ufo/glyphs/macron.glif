@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="2">
+  <advance width="468"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="444" y="595" type="line"/>
+      <point x="444" y="735" type="line"/>
+      <point x="24" y="735" type="line"/>
+      <point x="24" y="595" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w468m444,595l444,735l24,735l24,595</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 595 140</string>
+          <string>vstem 24 420</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

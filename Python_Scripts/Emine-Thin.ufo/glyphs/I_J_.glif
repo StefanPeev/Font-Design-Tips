@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="754"/>
+  <unicode hex="0132"/>
+  <anchor x="131" y="790" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="142"/>
+  </outline>
+  <guideline angle="90" x="377" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=J</string>
+  <key>com.fontlab.recipe</key>
+  <string>I_J</string>
+  </dict>
+  </lib>
+</glyph>

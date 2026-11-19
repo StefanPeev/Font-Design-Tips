@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="2">
+  <advance width="597"/>
+  <unicode hex="01B0"/>
+  <anchor x="298" y="590" name="top"/>
+  <anchor x="299" y="-50" name="bottom"/>
+  <outline>
+    <component base="u"/>
+    <contour>
+      <point x="453" y="424" type="line"/>
+      <point x="502" y="424" type="line" smooth="yes"/>
+      <point x="598" y="424"/>
+      <point x="653" y="472"/>
+      <point x="653" y="550" type="curve" smooth="yes"/>
+      <point x="653" y="574"/>
+      <point x="653" y="603"/>
+      <point x="643" y="630" type="curve"/>
+      <point x="530" y="630" type="line"/>
+      <point x="536" y="614"/>
+      <point x="541" y="583"/>
+      <point x="541" y="564" type="curve" smooth="yes"/>
+      <point x="541" y="536"/>
+      <point x="521" y="520"/>
+      <point x="486" y="520" type="curve" smooth="yes"/>
+      <point x="453" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="298.5" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=u</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=u</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5be043f526ee65ade82575e92899d52ac92b5c0a7c52ec6ecbc3dc1f770086a45714aeb15604f9a3b0f0ef70818f9030ee7fe449f0ecc9c624f087a3797b2129</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 90</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 425 95</string>
+          <string>vstem 61 108</string>
+          <string>vstem 413 108</string>
+          <string>vstem 541 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

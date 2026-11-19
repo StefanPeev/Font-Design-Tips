@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni031B" format="2">
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="-36" y="635" type="line" smooth="yes"/>
+      <point x="25" y="635"/>
+      <point x="59" y="668"/>
+      <point x="59" y="728" type="curve" smooth="yes"/>
+      <point x="59" y="742"/>
+      <point x="56" y="758"/>
+      <point x="51" y="770" type="curve"/>
+      <point x="30" y="770" type="line"/>
+      <point x="35" y="759"/>
+      <point x="39" y="742"/>
+      <point x="39" y="728" type="curve" smooth="yes"/>
+      <point x="39" y="679"/>
+      <point x="15" y="655"/>
+      <point x="-36" y="655" type="curve" smooth="yes"/>
+      <point x="-56" y="655" type="line"/>
+      <point x="-59" y="635" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-36,635c25,635 59,668 59,728c59,742 56,758 51,770l30,770c35,759 39,742 39,728c39,679 15,655 -36,655l-56,655l-59,635</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 20</string>
+          <string>vstem 208 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

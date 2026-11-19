@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsecyr.loclBGR" format="2">
+  <advance width="627"/>
+  <outline>
+    <contour>
+      <point x="243" y="-10" type="curve" smooth="yes"/>
+      <point x="319" y="-10"/>
+      <point x="374" y="14"/>
+      <point x="415" y="62" type="curve"/>
+      <point x="417" y="62" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="520" type="line"/>
+      <point x="413" y="520" type="line"/>
+      <point x="413" y="210" type="line" smooth="yes"/>
+      <point x="413" y="135"/>
+      <point x="354" y="80"/>
+      <point x="273" y="80" type="curve" smooth="yes"/>
+      <point x="201" y="80"/>
+      <point x="169" y="124"/>
+      <point x="169" y="220" type="curve" smooth="yes"/>
+      <point x="169" y="520" type="line"/>
+      <point x="61" y="520" type="line"/>
+      <point x="61" y="200" type="line" smooth="yes"/>
+      <point x="61" y="56"/>
+      <point x="118" y="-10"/>
+    </contour>
+    <contour>
+      <point x="468" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="-120" type="line"/>
+      <point x="607" y="-120" type="line"/>
+      <point x="607" y="80" type="line"/>
+      <point x="468" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=20</string>
+  <key>com.fontlab.recipe</key>
+  <string>tsecyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni300F" format="2">
+  <advance width="1000"/>
+  <unicode hex="300F"/>
+  <outline>
+    <contour>
+      <point x="340" y="680" type="line"/>
+      <point x="340" y="10" type="line"/>
+      <point x="70" y="10" type="line"/>
+      <point x="70" y="-100" type="line"/>
+      <point x="450" y="-100" type="line"/>
+      <point x="450" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="-80" type="line"/>
+      <point x="90" y="-80" type="line"/>
+      <point x="90" y="-10" type="line"/>
+      <point x="360" y="-10" type="line"/>
+      <point x="360" y="660" type="line"/>
+      <point x="430" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m340,680l340,10l70,10l70,-100l450,-100l450,680m430,-80l90,-80l90,-10l360,-10l360,660l430,660</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -100 20</string>
+          <string>hstem -10 20</string>
+          <string>hstem 660 20</string>
+          <string>vstem 70 20</string>
+          <string>vstem 340 20</string>
+          <string>vstem 430 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

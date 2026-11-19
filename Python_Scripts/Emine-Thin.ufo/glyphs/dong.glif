@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="2">
+  <advance width="622"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="50" y="260" type="curve" smooth="yes"/>
+      <point x="50" y="90"/>
+      <point x="131" y="-10"/>
+      <point x="269" y="-10" type="curve" smooth="yes"/>
+      <point x="360" y="-10"/>
+      <point x="434" y="34"/>
+      <point x="468" y="108" type="curve"/>
+      <point x="470" y="108" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="605" type="line"/>
+      <point x="587" y="605" type="line"/>
+      <point x="587" y="625" type="line"/>
+      <point x="490" y="625" type="line"/>
+      <point x="490" y="730" type="line"/>
+      <point x="470" y="730" type="line"/>
+      <point x="470" y="625" type="line"/>
+      <point x="167" y="625" type="line"/>
+      <point x="167" y="605" type="line"/>
+      <point x="470" y="605" type="line"/>
+      <point x="470" y="412" type="line"/>
+      <point x="468" y="412" type="line"/>
+      <point x="434" y="486"/>
+      <point x="360" y="530"/>
+      <point x="269" y="530" type="curve" smooth="yes"/>
+      <point x="131" y="530"/>
+      <point x="50" y="430"/>
+    </contour>
+    <contour>
+      <point x="70" y="260" type="curve" smooth="yes"/>
+      <point x="70" y="420"/>
+      <point x="143" y="510"/>
+      <point x="269" y="510" type="curve" smooth="yes"/>
+      <point x="387" y="510"/>
+      <point x="470" y="432"/>
+      <point x="470" y="320" type="curve" smooth="yes"/>
+      <point x="470" y="200" type="line" smooth="yes"/>
+      <point x="470" y="88"/>
+      <point x="387" y="10"/>
+      <point x="269" y="10" type="curve" smooth="yes"/>
+      <point x="143" y="10"/>
+      <point x="70" y="100"/>
+    </contour>
+    <contour>
+      <point x="93" y="-80" type="line"/>
+      <point x="563" y="-80" type="line"/>
+      <point x="563" y="-60" type="line"/>
+      <point x="93" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>241398d7b0f8f218bd6ca32a14f685e34ccd276922b146548061c63a017aa6c58fe0067416812de44d105a18f99d2361146adf1e7ab794c3ad8aba14a2b4b003</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -80 20</string>
+          <string>hstem -10 20</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 510 20</string>
+          <string>hstem 605 20</string>
+          <string>hstem 605 125</string>
+          <string>vstem 50 20</string>
+          <string>vstem 470 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

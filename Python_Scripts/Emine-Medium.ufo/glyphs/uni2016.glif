@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2016" format="2">
+  <advance width="542"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="421" y="810" type="line"/>
+      <point x="323" y="810" type="line"/>
+      <point x="323" y="-210" type="line"/>
+      <point x="421" y="-210" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="810" type="line"/>
+      <point x="121" y="810" type="line"/>
+      <point x="121" y="-210" type="line"/>
+      <point x="219" y="-210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w542m421,810l323,810l323,-210l421,-210m219,810l121,810l121,-210l219,-210</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -210 1020</string>
+          <string>vstem 121 98</string>
+          <string>vstem 323 98</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

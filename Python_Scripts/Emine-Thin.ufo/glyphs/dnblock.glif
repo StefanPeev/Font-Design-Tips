@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dnblock" format="2">
+  <advance width="1000"/>
+  <unicode hex="2584"/>
+  <outline>
+    <contour>
+      <point x="1000" y="-140" type="line"/>
+      <point x="1000" y="360" type="line"/>
+      <point x="0" y="360" type="line"/>
+      <point x="0" y="-140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m1000,-140l1000,360l0,360l0,-140</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -140 500</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="508"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="484" y="570" type="line"/>
+      <point x="484" y="760" type="line"/>
+      <point x="294" y="760" type="line"/>
+      <point x="294" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="570" type="line"/>
+      <point x="214" y="760" type="line"/>
+      <point x="24" y="760" type="line"/>
+      <point x="24" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w508m484,570l484,760l294,760l294,570m214,570l214,760l24,760l24,570</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 190</string>
+          <string>vstem 24 190</string>
+          <string>vstem 294 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="2">
+  <advance width="486"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="253" y="-110" type="line"/>
+      <point x="253" y="500" type="line"/>
+      <point x="453" y="500" type="line"/>
+      <point x="453" y="520" type="line"/>
+      <point x="253" y="520" type="line"/>
+      <point x="253" y="730" type="line"/>
+      <point x="233" y="730" type="line"/>
+      <point x="233" y="520" type="line"/>
+      <point x="33" y="520" type="line"/>
+      <point x="33" y="500" type="line"/>
+      <point x="233" y="500" type="line"/>
+      <point x="233" y="-110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w486m253,-110l253,500l453,500l453,520l253,520l253,730l233,730l233,520l33,520l33,500l233,500l233,-110</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 500 20</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 233 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

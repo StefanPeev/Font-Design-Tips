@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="2">
+  <advance width="498"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="367" y="579" type="curve" smooth="yes"/>
+      <point x="434" y="579"/>
+      <point x="469" y="640"/>
+      <point x="469" y="757" type="curve"/>
+      <point x="369" y="757" type="line"/>
+      <point x="369" y="703"/>
+      <point x="360" y="677"/>
+      <point x="341" y="677" type="curve" smooth="yes"/>
+      <point x="326" y="677"/>
+      <point x="293" y="693"/>
+      <point x="255" y="717" type="curve" smooth="yes"/>
+      <point x="201" y="752"/>
+      <point x="164" y="767"/>
+      <point x="131" y="767" type="curve" smooth="yes"/>
+      <point x="64" y="767"/>
+      <point x="29" y="706"/>
+      <point x="29" y="589" type="curve"/>
+      <point x="129" y="589" type="line"/>
+      <point x="129" y="643"/>
+      <point x="138" y="669"/>
+      <point x="157" y="669" type="curve" smooth="yes"/>
+      <point x="172" y="669"/>
+      <point x="205" y="653"/>
+      <point x="243" y="629" type="curve" smooth="yes"/>
+      <point x="297" y="594"/>
+      <point x="334" y="579"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>ca8b1d893bdc94bedf442def5aff0df7a1557de263d92194751f9d701f3a4a906d1351bc654708b7de4aa64ed64365e8b1f4a978ba719a4935b5ae6d030ac0f6</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 579 178</string>
+          <string>hstem 589 178</string>
+          <string>vstem 29 100</string>
+          <string>vstem 369 100</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

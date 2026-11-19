@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF31" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF31"/>
+  <outline>
+    <contour>
+      <point x="876" y="-71" type="line"/>
+      <point x="832" y="-24"/>
+      <point x="773" y="13"/>
+      <point x="702" y="37" type="curve"/>
+      <point x="702" y="39" type="line"/>
+      <point x="813" y="100"/>
+      <point x="874" y="216"/>
+      <point x="874" y="365" type="curve" smooth="yes"/>
+      <point x="874" y="594"/>
+      <point x="728" y="740"/>
+      <point x="499" y="740" type="curve" smooth="yes"/>
+      <point x="270" y="740"/>
+      <point x="124" y="594"/>
+      <point x="124" y="365" type="curve" smooth="yes"/>
+      <point x="124" y="136"/>
+      <point x="270" y="-10"/>
+      <point x="499" y="-10" type="curve" smooth="yes"/>
+      <point x="623" y="-10"/>
+      <point x="727" y="-54"/>
+      <point x="789" y="-133" type="curve"/>
+    </contour>
+    <contour>
+      <point x="499" y="90" type="curve" smooth="yes"/>
+      <point x="336" y="90"/>
+      <point x="237" y="195"/>
+      <point x="237" y="365" type="curve" smooth="yes"/>
+      <point x="237" y="535"/>
+      <point x="336" y="640"/>
+      <point x="499" y="640" type="curve" smooth="yes"/>
+      <point x="661" y="640"/>
+      <point x="761" y="535"/>
+      <point x="761" y="365" type="curve" smooth="yes"/>
+      <point x="761" y="195"/>
+      <point x="661" y="90"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>5f17bc17e1fc5dc8eca3bddf1d0ad94e2ec922f190a1c36fd003ac44ee3f0c4cec6d0030c9aae88c569ba9807bdc3d92e63ca561c8e05a7e30c812d57d0ddd88</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 100</string>
+          <string>hstem 640 100</string>
+          <string>vstem 124 113</string>
+          <string>vstem 761 113</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

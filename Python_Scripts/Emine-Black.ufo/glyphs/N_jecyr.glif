@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Njecyr" format="2">
+  <advance width="1051"/>
+  <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="245" y="290" type="line"/>
+      <point x="465" y="290" type="line"/>
+      <point x="465" y="460" type="line"/>
+      <point x="245" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="730" type="line"/>
+      <point x="60" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="0" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="650" y="730" type="line"/>
+      <point x="450" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="0" type="line"/>
+      <point x="690" y="0" type="line" smooth="yes"/>
+      <point x="872" y="0"/>
+      <point x="999" y="36"/>
+      <point x="999" y="235" type="curve" smooth="yes"/>
+      <point x="999" y="396"/>
+      <point x="873" y="460"/>
+      <point x="723" y="460" type="curve" smooth="yes"/>
+      <point x="620" y="460" type="line"/>
+      <point x="620" y="290" type="line"/>
+      <point x="704" y="290" type="line" smooth="yes"/>
+      <point x="762" y="290"/>
+      <point x="793" y="275"/>
+      <point x="793" y="235" type="curve" smooth="yes"/>
+      <point x="793" y="193"/>
+      <point x="776" y="176"/>
+      <point x="703" y="176" type="curve" smooth="yes"/>
+      <point x="620" y="176" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  <key>com.fontlab.recipe</key>
+  <string>H_uni042C</string>
+  </dict>
+  </lib>
+</glyph>

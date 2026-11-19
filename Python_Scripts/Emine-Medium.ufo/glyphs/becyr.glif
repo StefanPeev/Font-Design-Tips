@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="becyr" format="2">
+  <advance width="556"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="282" y="-11" type="curve" smooth="yes"/>
+      <point x="437" y="-11"/>
+      <point x="518" y="102"/>
+      <point x="518" y="249" type="curve" smooth="yes"/>
+      <point x="518" y="380"/>
+      <point x="457" y="509"/>
+      <point x="309" y="509" type="curve" smooth="yes"/>
+      <point x="230" y="509"/>
+      <point x="172" y="475"/>
+      <point x="135" y="406" type="curve"/>
+      <point x="139" y="409" type="line"/>
+      <point x="139" y="474" type="line" smooth="yes"/>
+      <point x="139" y="621"/>
+      <point x="206" y="661"/>
+      <point x="346" y="661" type="curve" smooth="yes"/>
+      <point x="393" y="661"/>
+      <point x="439" y="664"/>
+      <point x="483" y="671" type="curve" name=".hr01"/>
+      <point x="483" y="750" type="line"/>
+      <point x="439" y="743"/>
+      <point x="392" y="740"/>
+      <point x="342" y="740" type="curve" smooth="yes" name=".hr02"/>
+      <point x="155" y="740"/>
+      <point x="38" y="676"/>
+      <point x="38" y="475" type="curve" smooth="yes"/>
+      <point x="38" y="265" type="line" smooth="yes"/>
+      <point x="38" y="108"/>
+      <point x="115" y="-11"/>
+    </contour>
+    <contour>
+      <point x="279" y="70" type="curve" smooth="yes"/>
+      <point x="167" y="70"/>
+      <point x="142" y="171"/>
+      <point x="142" y="261" type="curve" smooth="yes"/>
+      <point x="142" y="351"/>
+      <point x="180" y="428"/>
+      <point x="279" y="428" type="curve" smooth="yes"/>
+      <point x="378" y="428"/>
+      <point x="417" y="335"/>
+      <point x="417" y="249" type="curve" smooth="yes"/>
+      <point x="417" y="162"/>
+      <point x="380" y="70"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

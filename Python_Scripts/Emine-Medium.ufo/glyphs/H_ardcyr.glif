@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardcyr" format="2">
+  <advance width="724"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="-15" y="630" type="line"/>
+      <point x="216" y="630" type="line"/>
+      <point x="216" y="730" type="line"/>
+      <point x="-15" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="730" type="line"/>
+      <point x="165" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="0" type="line"/>
+      <point x="395" y="0" type="line" smooth="yes"/>
+      <point x="567" y="0"/>
+      <point x="676" y="91"/>
+      <point x="676" y="233" type="curve" smooth="yes"/>
+      <point x="676" y="375"/>
+      <point x="573" y="466"/>
+      <point x="410" y="466" type="curve" smooth="yes"/>
+      <point x="255" y="466" type="line"/>
+      <point x="255" y="366" type="line"/>
+      <point x="397" y="366" type="line" smooth="yes"/>
+      <point x="498" y="366"/>
+      <point x="563" y="314"/>
+      <point x="563" y="233" type="curve" smooth="yes"/>
+      <point x="563" y="152"/>
+      <point x="498" y="100"/>
+      <point x="397" y="100" type="curve" smooth="yes"/>
+      <point x="255" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H+80</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  </dict>
+  </lib>
+</glyph>

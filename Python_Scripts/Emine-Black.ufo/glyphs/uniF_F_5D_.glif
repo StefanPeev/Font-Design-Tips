@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF5D" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF5D"/>
+  <outline>
+    <contour>
+      <point x="315" y="-125" type="line" smooth="yes"/>
+      <point x="436" y="-125"/>
+      <point x="485" y="-76"/>
+      <point x="485" y="45" type="curve" smooth="yes"/>
+      <point x="485" y="170" type="line" smooth="yes"/>
+      <point x="485" y="252"/>
+      <point x="508" y="280"/>
+      <point x="575" y="280" type="curve" smooth="yes"/>
+      <point x="645" y="280" type="line"/>
+      <point x="645" y="440" type="line"/>
+      <point x="575" y="440" type="line" smooth="yes"/>
+      <point x="508" y="440"/>
+      <point x="485" y="468"/>
+      <point x="485" y="550" type="curve" smooth="yes"/>
+      <point x="485" y="675" type="line" smooth="yes"/>
+      <point x="485" y="796"/>
+      <point x="436" y="845"/>
+      <point x="315" y="845" type="curve" smooth="yes"/>
+      <point x="115" y="845" type="line"/>
+      <point x="115" y="695" type="line"/>
+      <point x="205" y="695" type="line" smooth="yes"/>
+      <point x="289" y="695"/>
+      <point x="295" y="689"/>
+      <point x="295" y="611" type="curve" smooth="yes"/>
+      <point x="295" y="524" type="line" smooth="yes"/>
+      <point x="295" y="432"/>
+      <point x="328" y="387"/>
+      <point x="415" y="361" type="curve"/>
+      <point x="415" y="359" type="line"/>
+      <point x="328" y="333"/>
+      <point x="295" y="288"/>
+      <point x="295" y="196" type="curve" smooth="yes"/>
+      <point x="295" y="109" type="line" smooth="yes"/>
+      <point x="295" y="31"/>
+      <point x="289" y="25"/>
+      <point x="205" y="25" type="curve" smooth="yes"/>
+      <point x="115" y="25" type="line"/>
+      <point x="115" y="-125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d25f2902f19abe88b60439080a27d483cdc14dfbd2a5840eb6547d4eca85535ae026f5f85b7d62abe8c834cb8c597b9331ea2faae37c0074520e5bb30e00fefc</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -125 150</string>
+          <string>hstem 280 160</string>
+          <string>hstem 695 150</string>
+          <string>vstem 295 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

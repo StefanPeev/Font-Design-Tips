@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringbelow" format="2">
+  <advance width="684"/>
+  <unicode hex="1E00"/>
+  <anchor x="342" y="790" name="top"/>
+  <anchor x="342" y="700" name="t.ring"/>
+  <anchor x="341" y="-50" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0325" xOffset="341"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni0325</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni3008" format="2">
+  <advance width="1000"/>
+  <unicode hex="3008"/>
+  <outline>
+    <contour>
+      <point x="880" y="-100" type="line"/>
+      <point x="587" y="360" type="line"/>
+      <point x="880" y="820" type="line"/>
+      <point x="856" y="820" type="line"/>
+      <point x="563" y="360" type="line"/>
+      <point x="856" y="-100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m880,-100l587,360l880,820l856,820l563,360l856,-100</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -100 920</string>
+          <string>vstem 563 317</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

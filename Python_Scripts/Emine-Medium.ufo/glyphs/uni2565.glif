@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2565" format="2">
+  <advance width="1000"/>
+  <unicode hex="2565"/>
+  <outline>
+    <contour>
+      <point x="470" y="-140" type="line"/>
+      <point x="470" y="330" type="line"/>
+      <point x="530" y="330" type="line"/>
+      <point x="530" y="-140" type="line"/>
+      <point x="590" y="-140" type="line"/>
+      <point x="590" y="330" type="line"/>
+      <point x="1000" y="330" type="line"/>
+      <point x="1000" y="390" type="line"/>
+      <point x="0" y="390" type="line"/>
+      <point x="0" y="330" type="line"/>
+      <point x="410" y="330" type="line"/>
+      <point x="410" y="-140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m470,-140l470,330l530,330l530,-140l590,-140l590,330l1000,330l1000,390l0,390l0,330l410,330l410,-140</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -119 -21</string>
+          <string>hstem 330 60</string>
+          <string>vstem 410 60</string>
+          <string>vstem 530 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

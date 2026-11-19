@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.alt" format="2">
+  <advance width="492"/>
+  <outline>
+    <contour>
+      <point x="25" y="790" type="line"/>
+      <point x="179" y="570" type="line"/>
+      <point x="312" y="570" type="line"/>
+      <point x="467" y="790" type="line"/>
+      <point x="337" y="790" type="line"/>
+      <point x="247" y="650" type="line"/>
+      <point x="245" y="650" type="line"/>
+      <point x="155" y="790" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w492m25,790l179,570l312,570l467,790l337,790l247,650l245,650l155,790</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 220</string>
+          <string>vstem 25 442</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

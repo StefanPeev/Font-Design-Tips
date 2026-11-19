@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF04" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF04"/>
+  <outline>
+    <component base="dollar" xOffset="180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 100</string>
+          <string>hstem 640 100</string>
+          <string>hstem 733 -20</string>
+          <string>vstem 238 116</string>
+          <string>vstem 411 95</string>
+          <string>vstem 505 95</string>
+          <string>vstem 655 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFFE3" format="2">
+  <advance width="1000"/>
+  <unicode hex="FFE3"/>
+  <outline>
+    <contour>
+      <point x="1000" y="860" type="line"/>
+      <point x="0" y="860" type="line"/>
+      <point x="0" y="720" type="line"/>
+      <point x="1000" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1000m1000,860l0,860l0,720l1000,720</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 720 140</string>
+          <string>vstem 0 1000</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

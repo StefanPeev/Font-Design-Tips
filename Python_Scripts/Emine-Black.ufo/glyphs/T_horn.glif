@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="664"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="110" type="line"/>
+      <point x="333" y="110" type="line" smooth="yes"/>
+      <point x="532" y="110"/>
+      <point x="640" y="203"/>
+      <point x="640" y="375" type="curve" smooth="yes"/>
+      <point x="640" y="547"/>
+      <point x="532" y="640"/>
+      <point x="333" y="640" type="curve" smooth="yes"/>
+      <point x="260" y="640" type="line"/>
+      <point x="260" y="730" type="line"/>
+      <point x="60" y="730" type="line"/>
+      <point x="60" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="480" type="line"/>
+      <point x="307" y="480" type="line" smooth="yes"/>
+      <point x="395" y="480"/>
+      <point x="435" y="447"/>
+      <point x="435" y="375" type="curve" smooth="yes"/>
+      <point x="435" y="303"/>
+      <point x="395" y="270"/>
+      <point x="307" y="270" type="curve" smooth="yes"/>
+      <point x="260" y="270" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>58a30549394a2d786a60c51f0e4acc7f3897b20aa787f0cd206d43651c0f5dfe9d31fc216487a6e1cbe48c28f14e3d90ff62fe8ee21953ef9737307a46e9a8d9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 110 160</string>
+          <string>hstem 480 160</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 60 200</string>
+          <string>vstem 435 205</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="2">
+  <advance width="747"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="626" y="170" type="line"/>
+      <point x="626" y="410" type="line"/>
+      <point x="66" y="410" type="line"/>
+      <point x="66" y="390" type="line"/>
+      <point x="606" y="390" type="line"/>
+      <point x="606" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w747m626,170l626,410l66,410l66,390l606,390l606,170</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 390 20</string>
+          <string>vstem 606 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

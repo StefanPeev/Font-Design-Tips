@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzhecyr" format="2">
+  <advance width="632"/>
+  <unicode hex="045F"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="428" y="0" type="line" name=".hr02"/>
+      <point x="428" y="140" type="line"/>
+      <point x="209" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="-120" type="line"/>
+      <point x="401" y="-120" type="line"/>
+      <point x="401" y="140" type="line"/>
+      <point x="231" y="140" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="520" type="line"/>
+      <point x="54" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="578" y="520" type="line"/>
+      <point x="382" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="316" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni043D</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni043D</string>
+  <key>com.fontlab.recipe</key>
+  <string>tsecyr</string>
+  </dict>
+  </lib>
+</glyph>

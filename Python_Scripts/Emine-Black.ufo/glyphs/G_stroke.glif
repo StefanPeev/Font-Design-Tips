@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gstroke" format="2">
+  <advance width="761"/>
+  <unicode hex="01E4"/>
+  <anchor x="381" y="790" name="top"/>
+  <anchor x="381" y="-50" name="bottom"/>
+  <outline>
+    <component base="G"/>
+    <contour>
+      <point x="350" y="196" type="line"/>
+      <point x="762" y="196" type="line"/>
+      <point x="762" y="256" type="line"/>
+      <point x="350" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>G</string>
+  </dict>
+  </lib>
+</glyph>

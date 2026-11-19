@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shchacyr" format="2">
+  <advance width="1000"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="730" type="line"/>
+      <point x="85" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="730" type="line"/>
+      <point x="445" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="805" y="0" type="line"/>
+      <point x="915" y="0" type="line"/>
+      <point x="915" y="730" type="line"/>
+      <point x="805" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="860" y="100" type="line"/>
+      <point x="140" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="867" y="100" type="line"/>
+      <point x="867" y="0" type="line"/>
+      <point x="917" y="0" type="line"/>
+      <point x="917" y="-160" type="line"/>
+      <point x="1027" y="-160" type="line"/>
+      <point x="1027" y="100" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="915" y="0"/>
+  <guideline angle="90" x="1027" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Tsecyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0330" format="2">
+  <unicode hex="0330"/>
+  <anchor x="0" y="-50" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="118" y="-238" type="curve" smooth="yes"/>
+      <point x="185" y="-238"/>
+      <point x="220" y="-177"/>
+      <point x="220" y="-60" type="curve"/>
+      <point x="120" y="-60" type="line"/>
+      <point x="120" y="-114"/>
+      <point x="111" y="-140"/>
+      <point x="92" y="-140" type="curve" smooth="yes"/>
+      <point x="77" y="-140"/>
+      <point x="44" y="-124"/>
+      <point x="6" y="-100" type="curve" smooth="yes"/>
+      <point x="-48" y="-65"/>
+      <point x="-85" y="-50"/>
+      <point x="-118" y="-50" type="curve" smooth="yes"/>
+      <point x="-185" y="-50"/>
+      <point x="-220" y="-111"/>
+      <point x="-220" y="-228" type="curve"/>
+      <point x="-120" y="-228" type="line"/>
+      <point x="-120" y="-174"/>
+      <point x="-111" y="-148"/>
+      <point x="-92" y="-148" type="curve" smooth="yes"/>
+      <point x="-77" y="-148"/>
+      <point x="-44" y="-164"/>
+      <point x="-6" y="-188" type="curve" smooth="yes"/>
+      <point x="48" y="-223"/>
+      <point x="85" y="-238"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

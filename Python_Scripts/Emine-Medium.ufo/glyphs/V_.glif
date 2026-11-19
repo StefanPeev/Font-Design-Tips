@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+  <advance width="694"/>
+  <unicode hex="0056"/>
+  <anchor x="347" y="790" name="top"/>
+  <anchor x="347" y="-50" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="419" y="0" type="line"/>
+      <point x="682" y="730" type="line"/>
+      <point x="561" y="730" type="line"/>
+      <point x="348" y="110" type="line"/>
+      <point x="346" y="110" type="line"/>
+      <point x="133" y="730" type="line"/>
+      <point x="12" y="730" type="line"/>
+      <point x="275" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="347" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w694m419,0l682,730l561,730l348,110l346,110l133,730l12,730l275,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 110</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 12 670</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

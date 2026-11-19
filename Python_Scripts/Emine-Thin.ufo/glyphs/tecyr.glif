@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tecyr" format="2">
+  <advance width="498"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="239" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="520" type="line"/>
+      <point x="239" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="500" type="line"/>
+      <point x="459" y="500" type="line"/>
+      <point x="459" y="520" type="line"/>
+      <point x="39" y="520" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="249" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=x</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=x</string>
+  </dict>
+  </lib>
+</glyph>

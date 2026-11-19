@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="260"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="130" y="256" type="curve" smooth="yes"/>
+      <point x="148" y="256"/>
+      <point x="164" y="272"/>
+      <point x="164" y="290" type="curve" smooth="yes"/>
+      <point x="164" y="308"/>
+      <point x="148" y="324"/>
+      <point x="130" y="324" type="curve" smooth="yes"/>
+      <point x="111" y="324"/>
+      <point x="96" y="308"/>
+      <point x="96" y="290" type="curve" smooth="yes"/>
+      <point x="96" y="272"/>
+      <point x="111" y="256"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w260m130,256c148,256 164,272 164,290c164,308 148,324 130,324c111,324 96,308 96,290c96,272 111,256 130,256</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 256 68</string>
+          <string>vstem 96 68</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

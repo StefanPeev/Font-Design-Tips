@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+  <advance width="310"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="165" y="370" type="line"/>
+      <point x="165" y="810" type="line"/>
+      <point x="145" y="810" type="line"/>
+      <point x="145" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="-220" type="line"/>
+      <point x="165" y="220" type="line"/>
+      <point x="145" y="220" type="line"/>
+      <point x="145" y="-220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w310m165,370l165,810l145,810l145,370m165,-220l165,220l145,220l145,-220</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 1030</string>
+          <string>vstem 145 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

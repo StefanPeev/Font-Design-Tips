@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="913"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="820" y="0" type="line"/>
+      <point x="820" y="130" type="line"/>
+      <point x="690" y="130" type="line"/>
+      <point x="690" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="0" type="line"/>
+      <point x="522" y="130" type="line"/>
+      <point x="392" y="130" type="line"/>
+      <point x="392" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="0" type="line"/>
+      <point x="223" y="130" type="line"/>
+      <point x="93" y="130" type="line"/>
+      <point x="93" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w913m820,0l820,130l690,130l690,0m522,0l522,130l392,130l392,0m223,0l223,130l93,130l93,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 130</string>
+          <string>vstem 93 130</string>
+          <string>vstem 392 130</string>
+          <string>vstem 690 130</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="888"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="178" y="286" type="curve" smooth="yes"/>
+      <point x="285" y="286"/>
+      <point x="348" y="338"/>
+      <point x="348" y="427" type="curve" smooth="yes"/>
+      <point x="348" y="501"/>
+      <point x="299" y="545"/>
+      <point x="221" y="545" type="curve" smooth="yes"/>
+      <point x="218" y="545" type="line"/>
+      <point x="218" y="547" type="line"/>
+      <point x="334" y="641" type="line"/>
+      <point x="334" y="730" type="line"/>
+      <point x="46" y="730" type="line"/>
+      <point x="46" y="641" type="line"/>
+      <point x="202" y="641" type="line"/>
+      <point x="202" y="639" type="line"/>
+      <point x="97" y="554" type="line"/>
+      <point x="97" y="476" type="line"/>
+      <point x="144" y="476" type="line" smooth="yes"/>
+      <point x="220" y="476"/>
+      <point x="246" y="461"/>
+      <point x="246" y="427" type="curve" smooth="yes"/>
+      <point x="246" y="393"/>
+      <point x="222" y="376"/>
+      <point x="172" y="376" type="curve" smooth="yes"/>
+      <point x="136" y="376"/>
+      <point x="109" y="383"/>
+      <point x="67" y="405" type="curve"/>
+      <point x="42" y="319" type="line"/>
+      <point x="83" y="297"/>
+      <point x="129" y="286"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="line"/>
+      <point x="711" y="730" type="line"/>
+      <point x="606" y="730" type="line"/>
+      <point x="206" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="0" type="line"/>
+      <point x="792" y="69" type="line"/>
+      <point x="846" y="69" type="line"/>
+      <point x="846" y="159" type="line"/>
+      <point x="792" y="159" type="line"/>
+      <point x="792" y="438" type="line"/>
+      <point x="702" y="438" type="line"/>
+      <point x="477" y="159" type="line"/>
+      <point x="477" y="69" type="line"/>
+      <point x="692" y="69" type="line"/>
+      <point x="692" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="582" y="156" type="line"/>
+      <point x="695" y="297" type="line"/>
+      <point x="697" y="297" type="line"/>
+      <point x="697" y="154" type="line"/>
+      <point x="582" y="154" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>45b473c11627376fcbc9361a069e058a6e3ea2985a61782d807a6f9892326c1abc94d0387b881024f388a7556ccdeed2f32d96574cad6319581ec855e167f2ee</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 154</string>
+          <string>hstem 69 90</string>
+          <string>hstem 286 90</string>
+          <string>hstem 476 69</string>
+          <string>hstem 641 89</string>
+          <string>vstem 46 288</string>
+          <string>vstem 246 102</string>
+          <string>vstem 697 95</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

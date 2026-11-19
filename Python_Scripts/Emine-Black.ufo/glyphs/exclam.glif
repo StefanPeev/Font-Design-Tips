@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="372"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="276" y="240" type="line"/>
+      <point x="306" y="730" type="line"/>
+      <point x="66" y="730" type="line"/>
+      <point x="96" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="170" type="line"/>
+      <point x="86" y="170" type="line"/>
+      <point x="86" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w372m276,240l306,730l66,730l96,240m286,0l286,170l86,170l86,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 170</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 86 200</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

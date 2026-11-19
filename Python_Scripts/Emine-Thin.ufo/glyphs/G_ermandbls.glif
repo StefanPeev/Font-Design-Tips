@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="660"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="485" type="line" smooth="yes"/>
+      <point x="130" y="647"/>
+      <point x="204" y="720"/>
+      <point x="368" y="720" type="curve" smooth="yes"/>
+      <point x="444" y="720"/>
+      <point x="508" y="702"/>
+      <point x="558" y="667" type="curve"/>
+      <point x="352" y="369" type="line"/>
+      <point x="364" y="352" type="line"/>
+      <point x="527" y="352"/>
+      <point x="610" y="294"/>
+      <point x="610" y="180" type="curve" smooth="yes"/>
+      <point x="610" y="70"/>
+      <point x="530" y="10"/>
+      <point x="381" y="10" type="curve" smooth="yes"/>
+      <point x="337" y="10"/>
+      <point x="299" y="15"/>
+      <point x="262" y="26" type="curve"/>
+      <point x="256" y="7" type="line"/>
+      <point x="296" y="-4"/>
+      <point x="338" y="-10"/>
+      <point x="381" y="-10" type="curve" smooth="yes"/>
+      <point x="541" y="-10"/>
+      <point x="630" y="58"/>
+      <point x="630" y="180" type="curve" smooth="yes"/>
+      <point x="630" y="303"/>
+      <point x="539" y="372"/>
+      <point x="379" y="372" type="curve"/>
+      <point x="587" y="672" type="line"/>
+      <point x="530" y="717"/>
+      <point x="456" y="740"/>
+      <point x="368" y="740" type="curve" smooth="yes"/>
+      <point x="193" y="740"/>
+      <point x="110" y="659"/>
+      <point x="110" y="490" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d49102df7b1830cd4b7c316fea58701040f5e151347dbc41a2497982ab18c5f6ba623b01f8a85844df187247f508cbc538fba70fcc835ad925a2ebc3f0bfbdeb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 20</string>
+          <string>hstem 21 -21</string>
+          <string>hstem 350 20</string>
+          <string>hstem 720 20</string>
+          <string>vstem 110 20</string>
+          <string>vstem 610 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

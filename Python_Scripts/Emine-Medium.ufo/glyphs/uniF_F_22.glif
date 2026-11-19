@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF22" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF22"/>
+  <outline>
+    <contour>
+      <point x="470" y="0" type="line" smooth="yes"/>
+      <point x="678" y="0"/>
+      <point x="780" y="67"/>
+      <point x="780" y="205" type="curve" smooth="yes"/>
+      <point x="780" y="308"/>
+      <point x="723" y="370"/>
+      <point x="613" y="387" type="curve"/>
+      <point x="613" y="389" type="line"/>
+      <point x="700" y="407"/>
+      <point x="750" y="466"/>
+      <point x="750" y="553" type="curve" smooth="yes"/>
+      <point x="750" y="672"/>
+      <point x="657" y="730"/>
+      <point x="465" y="730" type="curve" smooth="yes"/>
+      <point x="240" y="730" type="line"/>
+      <point x="240" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="98" type="line"/>
+      <point x="350" y="335" type="line"/>
+      <point x="470" y="335" type="line" smooth="yes"/>
+      <point x="606" y="335"/>
+      <point x="668" y="298"/>
+      <point x="668" y="216" type="curve" smooth="yes"/>
+      <point x="668" y="134"/>
+      <point x="607" y="98"/>
+      <point x="470" y="98" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="350" y="430" type="line"/>
+      <point x="350" y="632" type="line"/>
+      <point x="470" y="632" type="line" smooth="yes"/>
+      <point x="590" y="632"/>
+      <point x="640" y="603"/>
+      <point x="640" y="534" type="curve" smooth="yes"/>
+      <point x="640" y="463"/>
+      <point x="587" y="430"/>
+      <point x="470" y="430" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bf39877d166e3bd6b2bde63319909cb22ed1f6d707e1bc266fc08f7251970f0f404a817b177c1a5e85aa87b72e52d24f9d61e9c01fd901898f44b4dc7be082ce</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 98</string>
+          <string>hstem 335 95</string>
+          <string>hstem 632 98</string>
+          <string>vstem 240 110</string>
+          <string>vstem 640 110</string>
+          <string>vstem 668 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

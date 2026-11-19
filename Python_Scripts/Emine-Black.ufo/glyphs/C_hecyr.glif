@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Checyr" format="2">
+  <advance width="670"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="283" y="182" type="curve" smooth="yes"/>
+      <point x="316" y="182"/>
+      <point x="375" y="185"/>
+      <point x="425" y="208" type="curve"/>
+      <point x="425" y="385" type="line"/>
+      <point x="409" y="376"/>
+      <point x="366" y="370"/>
+      <point x="340" y="370" type="curve" smooth="yes"/>
+      <point x="271" y="370"/>
+      <point x="230" y="405"/>
+      <point x="230" y="464" type="curve" smooth="yes"/>
+      <point x="230" y="730" type="line"/>
+      <point x="30" y="730" type="line"/>
+      <point x="30" y="394" type="line" smooth="yes"/>
+      <point x="30" y="261"/>
+      <point x="124" y="182"/>
+    </contour>
+    <contour>
+      <point x="410" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="610" y="730" type="line"/>
+      <point x="410" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=H</string>
+  </dict>
+  </lib>
+</glyph>

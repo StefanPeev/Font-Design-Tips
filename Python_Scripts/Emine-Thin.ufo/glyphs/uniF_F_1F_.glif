@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFF1F" format="2">
+  <advance width="1000"/>
+  <unicode hex="FF1F"/>
+  <outline>
+    <contour>
+      <point x="486" y="190" type="line"/>
+      <point x="486" y="280"/>
+      <point x="508" y="334"/>
+      <point x="598" y="401" type="curve" smooth="yes"/>
+      <point x="697" y="475"/>
+      <point x="736" y="518"/>
+      <point x="736" y="590" type="curve" smooth="yes"/>
+      <point x="736" y="691"/>
+      <point x="657" y="740"/>
+      <point x="496" y="740" type="curve" smooth="yes"/>
+      <point x="418" y="740"/>
+      <point x="342" y="728"/>
+      <point x="273" y="704" type="curve"/>
+      <point x="279" y="686" type="line"/>
+      <point x="347" y="708"/>
+      <point x="421" y="720"/>
+      <point x="496" y="720" type="curve" smooth="yes"/>
+      <point x="647" y="720"/>
+      <point x="716" y="678"/>
+      <point x="716" y="590" type="curve" smooth="yes"/>
+      <point x="716" y="526"/>
+      <point x="681" y="489"/>
+      <point x="587" y="417" type="curve" smooth="yes"/>
+      <point x="493" y="345"/>
+      <point x="466" y="287"/>
+      <point x="466" y="190" type="curve"/>
+    </contour>
+    <contour>
+      <point x="506" y="0" type="line"/>
+      <point x="506" y="60" type="line"/>
+      <point x="446" y="60" type="line"/>
+      <point x="446" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e19214dd311377d6223b2201efcad62167b0d83b0b78aca681a70fe9b7ae0e91f006733f799e6e0ebffd91a9c96c470932ca61fa63df960d0f9dfb1b571652bb</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 60</string>
+          <string>hstem 720 20</string>
+          <string>vstem 446 60</string>
+          <string>vstem 466 20</string>
+          <string>vstem 716 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
