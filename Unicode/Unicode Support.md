@@ -99,7 +99,57 @@
 | Supplemental Mathematical Operators | 2A00..2AFF | 256 | 256 | 3.2 |  
 | Miscellaneous Symbols and Arrows | 2B00..2BFF | 256 | 253 | 4.0 |  
 | Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
-  
+| Latin Extended-C | 2C60..2C7F | 32 | 32 | 5.0 |  
+| Coptic | 2C80..2CFF | 128 | 123 | 4.1 |  
+| Georgian Supplement | 2D00..2D2F | 48 | 40 | 4.1 |  
+| Tifinagh | 2D30..2D7F | 80 | 59 | 4.1 |  
+| Ethiopic Extended | 2D80..2DDF | 96 | 79 | 4.1 |  
+| Cyrillic Extended-A | 2DE0..2DFF | 32 | 32 | 5.1 |  
+| Supplemental Punctuation | 2E00..2E7F | 128 | 94 | 4.1 |  
+| CJK Radicals Supplement | 2E80..2EFF | 128 | 115 | 3.0 |  
+| Kangxi Radicals | 2F00..2FDF | 224 | 214 | 3.0 |  
+| Ideographic Description Characters | 2FF0..2FFF | 16 | 16 | 3.0 |  
+| CJK Symbols and Punctuation | 3000..303F | 64 | 64 | 1.0.0 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
+| Glagolitic | 2C00..2C5F | 96 | 96 | 4.1 |  
   
 + Basic Multilingual Plane 0000 : FFFD (64082)  
 + Basic Latin 0000 : 007F (128)  
