@@ -338,6 +338,8 @@
 | Supplementary Private Use Area-A | F0000..FFFFF | 65,536 | 65,534 | 2.0 | 
 | Supplementary Private Use Area-B | 100000..10FFFF | 65,536 | 65,534 | 2.0 | 
   
+**Sources:** 
+[Unicode® 18.0 Character Code Charts](https://www.unicode.org/Public/18.0.0/charts/)  
   
 + Basic Multilingual Plane 0000 : FFFD (64082)  
 + Basic Latin 0000 : 007F (128)  
