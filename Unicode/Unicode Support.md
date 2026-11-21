@@ -389,7 +389,7 @@
 
 # Languages and writing systems
   
-[Europe](https://localfonts.eu/typography-basics/writing-systems/)  
+## [Europe](https://localfonts.eu/typography-basics/writing-systems/)  
 741,447,158 speakers  
 88 languages  
    
