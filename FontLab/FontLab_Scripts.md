@@ -1,4 +1,5 @@
 # Stem Finder Pro for FontLab 9
+![Sample Image](/FontLab/LGC_01.png) 
 
 A Python 3.11 + PythonQt script for **FontLab 9** that locates vertical and horizontal stems (both straight and curved) matching a target width and tolerance, highlights the matching stem nodes, and opens all matched glyphs in a separate Glyph window for rapid quality assurance and optical consistency checks.
 
