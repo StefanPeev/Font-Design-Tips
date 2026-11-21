@@ -1,4 +1,4 @@
-# Unicode Support  
+# Unicode® 18.0 Character Code  
   
 | Block Name |  Range |  Code Points |  Characters |  Unicode Version |  
 |:-----|:-----|:-----|:-----|:-----|  
@@ -386,4 +386,6 @@
 + Enclosed Alphanumeric Supplement 1F100 : 1F1FF (200)  
 + Supplementary Multilingual Plane 10000 : 1FFFD (23276)  
 + Non-Unicode Glyphs (0)  
+
+# [Languages and writing systems](https://localfonts.eu/typography-basics/writing-systems/)
   
