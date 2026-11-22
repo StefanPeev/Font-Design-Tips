@@ -74,4 +74,85 @@ Each tuple reports `(measured_width, start_coordinate, end_coordinate, stem_type
 **Copyright:** © 2026 Stefan Peev (https://github.com/StefanPeev). All rights reserved.
 
 **Disclaimer:**
+This script is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from the use of this script. Use at your own risk.  
+  
+  
+# Build Combining Diacritical Marks (FontLab 9)
+
+A zero-dependency Python script for **FontLab 9** that automatically scans the active font for spacing diacritical marks, generates or updates their corresponding **Combining Diacritical Marks** (`U+0300`–`U+036F`), links each spacing mark as a live **Element Reference**, optically centers it along the master's **Italic Angle**, and sets the advance width to `0`.
+
+## Features
+
+- **Automatic Glyph Detection:** Matches spacing marks by standard Adobe/FontLab glyph names (`grave`, `acute`, `dieresis`, `cedilla`, `ogonek`, etc.) as well as fallback Unicode codepoints (`U+0060`, `U+00B4`, `U+02C6`, etc.).
+- **Live Element References:** Places each spacing diacritic as a linked `GlyphComponent` (Element Reference) so any future outline edits propagate automatically.
+- **Multi-Master Support:** Iterates through all font masters and updates each master layer independently.
+- **Optical Italic Angle Centering:** Calculates each master's slant axis (`y_mid * tan(-italicAngle)`) so marks sit optically centered in both upright (`0°`) and italic masters.
+- **Zero-Width Em-Cell:** Sets `advanceWidth = 0` on every generated combining mark layer.
+- **Idempotent & Native:** Uses only FontLab 9's built-in `fontlab` and `PythonQt` APIs—no external third-party libraries required. Safe to re-run without creating duplicate shapes or components.
+
+## Supported Diacritics
+
+| Spacing Glyph | Combining Mark | Unicode |
+| :--- | :--- | :--- |
+| `grave` | `gravecomb` / `uni0300` | `U+0300` |
+| `acute` | `acutecomb` / `uni0301` | `U+0301` |
+| `circumflex` | `circumflexcomb` / `uni0302` | `U+0302` |
+| `tilde` | `tildecomb` / `uni0303` | `U+0303` |
+| `macron` | `macroncomb` / `uni0304` | `U+0304` |
+| `overline` | `overlinecomb` / `uni0305` | `U+0305` |
+| `breve` | `brevecomb` / `uni0306` | `U+0306` |
+| `dotaccent` | `dotaccentcomb` / `uni0307` | `U+0307` |
+| `dieresis` | `dieresiscomb` / `uni0308` | `U+0308` |
+| `hookabove` | `hookabovecomb` / `uni0309` | `U+0309` |
+| `ring` | `ringcomb` / `uni030A` | `U+030A` |
+| `hungarumlaut` | `hungarumlautcomb` / `uni030B` | `U+030B` |
+| `caron` | `caroncomb` / `uni030C` | `U+030C` |
+| `verticallineabove` | `verticallineabovecomb` / `uni030D` | `U+030D` |
+| `dblverticallineabove` | `dblverticallineabovecomb` / `uni030E` | `U+030E` |
+| `commaaccentturned` | `commaaccentturnedcomb` / `uni0312` | `U+0312` |
+| `gravebelow` | `gravebelowcomb` / `uni0316` | `U+0316` |
+| `acutebelow` | `acutebelowcomb` / `uni0317` | `U+0317` |
+| `horn` | `horncomb` / `uni031B` | `U+031B` |
+| `dotbelow` | `dotbelowcomb` / `uni0323` | `U+0323` |
+| `dieresisbelow` | `dieresisbelowcomb` / `uni0324` | `U+0324` |
+| `ringbelow` | `ringbelowcomb` / `uni0325` | `U+0325` |
+| `commaaccent` | `commaaccentcomb` / `uni0326` | `U+0326` |
+| `cedilla` | `cedillacomb` / `uni0327` | `U+0327` |
+| `ogonek` | `ogonekcomb` / `uni0328` | `U+0328` |
+| `verticallinebelow` | `verticallinebelowcomb` / `uni0329` | `U+0329` |
+| `brevebelow` | `brevebelowcomb` / `uni032E` | `U+032E` |
+| `macronbelow` | `macronbelowcomb` / `uni0331` | `U+0331` |
+| `lowline` | `lowlinecomb` / `uni0332` | `U+0332` |
+| `dbloverline` | `dbloverlinecomb` / `uni033F` | `U+033F` |
+
+## Installation
+
+1. Download `build_combining_marks.py` from this repository.
+2. Copy it into your FontLab 9 Scripts folder:
+   - **macOS:** `~/Library/Application Support/FontLab/FontLab 9/Scripts/`
+   - **Windows:** `%APPDATA%\FontLab\FontLab 9\Scripts\`
+3. In FontLab 9, open **Scripts > Update / Rescan Scripts** (or restart FontLab).
+
+## Usage
+
+1. Open your font project in **FontLab 9** (always keep a backup copy before running batch scripts).
+2. Run **Scripts > Build Combining Diacritical Marks** (or paste the script into **Window > Panels > Scripting** and click **Run**).
+3. Review the output log in the Scripting panel to verify which combining marks were created or updated.
+4. *(Optional)* Select the generated combining marks in the **Font Window** and verify their glyph category is set to **Mark / Nonspacing** (`Mn`).
+
+## Requirements
+
+- **FontLab 9** (uses native `fontlab` and `PythonQt` modules; no external packages required).
+
+## Copyright & License
+
+Copyright © 2026 Stefan Peev ([https://github.com](https://github.com)). All rights reserved.
+
+### Disclaimer
+
 This script is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from the use of this script. Use at your own risk.
+
+### License
+
+Released under the **MIT License** in accordance with the disclaimer above.
+  
