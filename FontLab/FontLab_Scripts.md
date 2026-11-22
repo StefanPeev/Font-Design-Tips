@@ -154,5 +154,50 @@ This script is provided "as is", without warranty of any kind, express or implie
 
 ### License
 
-Released under the **MIT License** in accordance with the disclaimer above.
+Released under the **MIT License** in accordance with the disclaimer above.  
   
+  
+# Add Anchor to Selected Glyphs (FontLab 9)
+
+A Python script for **FontLab 9** that adds or updates a named anchor across all selected glyphs on the current master or across all masters.
+
+## Features
+
+- **Flexible Horizontal Alignment (X):**
+  - **Fixed X:** Place the anchor at an exact horizontal coordinate.
+  - **Advance Width / 2:** Center the anchor horizontally within each glyph's advance width (with an optional X offset).
+  - **Bounding Box Center:** Center the anchor horizontally on each glyph's outline bounding box (with an optional X offset and fallback to `Advance Width / 2` for empty glyphs).
+- **Italic Angle Compensation:** Automatically shifts the horizontal position along each master's `italicAngle` (`y * tan(-italicAngle)`).
+- **Vertical Metric Snapping (Y):** Place the anchor at a fixed Y coordinate or snap relative to each master's **Baseline (0)**, **x-Height**, **Cap Height**, **Ascender**, or **Descender** with a custom vertical offset.
+- **Multi-Master Support:** Apply to the **Current Master** only or across **All Masters** in a single step.
+- **Overwrite or Skip Control:** Choose whether to update existing anchors with the same name or skip layers where the anchor already exists.
+- **Auto-Layer Protection:** Automatically skips layers with auto-recipes enabled so generated components are not disrupted.
+- **Persistent Settings:** Remembers your last-used anchor name, alignment modes, offsets, italic toggle, and options between runs.
+
+## Requirements
+
+- **FontLab 9** (macOS or Windows)
+
+## Installation
+
+1. Download `AddAnchorToSelectedGlyphs.py` (or save the script code as a `.py` file).
+2. Open **FontLab 9** and locate your User Scripts folder via **Scripts > Open Scripts Folder** (typically inside `~/Library/Application Support/FontLab/FontLab 9/Scripts/` on macOS or `%AppData%\FontLab\FontLab 9\Scripts\` on Windows).
+3. Copy the `.py` file into the **Scripts** folder (or a subfolder inside it).
+4. In FontLab 9, click **Scripts > Update Scripts** (or restart FontLab). The script will appear in the **Scripts** menu as **Add Anchor to Selected Glyphs**.
+
+## Usage
+
+1. Select one or more glyphs in the **Font Window** (or open a glyph in the **Glyph Window**).
+2. Run **Scripts > Add Anchor to Selected Glyphs**.
+3. Configure your anchor settings in the dialog:
+   - **Anchor Name:** Enter the anchor name (e.g., `top`, `_top`, `bottom`, `_bottom`).
+   - **Horizontal Position (X):** Choose **Fixed X**, **Advance Width / 2**, or **Bounding Box Center**, enter a coordinate/offset, and toggle **Compensate for Master Italic Angle** if needed.
+   - **Vertical Position (Y):** Choose **Fixed Y** or a vertical font metric reference (**Baseline**, **x-Height**, **Cap Height**, **Ascender**, **Descender**) and enter a coordinate/offset.
+   - **Options:** Select **Current Master** or **All Masters**, and check **Skip if anchor already exists** if you only want to populate missing anchors.
+4. Click **OK**. Check the **Output** panel (`Window > Panels > Output`) for a summary of added, updated, and skipped layers.
+
+## Copyright & Disclaimer
+
+Copyright (c) 2026 Stefan Peev. All rights reserved.
+
+**Disclaimer:** This script is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from the use of this script. Use at your own risk.
