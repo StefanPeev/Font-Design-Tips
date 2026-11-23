@@ -1,6 +1,6 @@
 # FontForge Simplepolator v.2.0
 
-A FontForge plug-in to generate interpolated glyph instances ("children") between two compatible master characters directly from the **Tools** menu.
+A FontForge plug-in to generate interpolated glyph instances ("children") between two compatible master characters directly from the **Tools** menu. See how it works in the [video tutorial](https://www.youtube.com/watch?v=QzUyu032LxM).
 
 Inspired by the Simplepolator FontLab/RoboFont script by Pablo Impallari ([Simplepolation](http://www.impallari.com/projects/overview/simplepolation)) to apply Gunnlaugur SE Briem's interpolation method ([Briem's Method](http://66.147.242.192/~operinan/2/2.3.3a/2.3.3.02.tests.htm)).
 
