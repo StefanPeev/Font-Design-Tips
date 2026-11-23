@@ -169,6 +169,24 @@ def get_selected(font, pkg):
     return sel
 
 
+def get_target_layers(glyph, all_masters, master_names):
+    if not all_masters:
+        return [glyph.activeLayer] if glyph.activeLayer else []
+
+    layers = []
+    if hasattr(glyph, "findLayer"):
+        for m in master_names:
+            lyr = glyph.findLayer(m)
+            if lyr:
+                layers.append(lyr)
+    elif hasattr(glyph, "layers"):
+        m_set = set(master_names)
+        for lyr in glyph.layers:
+            if getattr(lyr, "name", None) in m_set:
+                layers.append(lyr)
+    return layers
+
+
 def metric(pkg, layer, names, default):
     sources = []
     if hasattr(pkg, "masterInfo") and callable(pkg.masterInfo) and isinstance(layer.name, str):
@@ -255,7 +273,7 @@ def main():
 
     added = updated = skipped = 0
     for g in glyphs:
-        layers = [g.layer(m) for m in m_names] if all_m else [g.activeLayer]
+        layers = get_target_layers(g, all_m, m_names)
         changed = False
         for lyr in layers:
             res = apply_anchor(pkg, lyr, name, xm, xv, it, ym, yv, skip)
