@@ -1,4 +1,4 @@
-#FLM: Add Center Vertical Guideline (width/2)
+#FLM: Add Center Vertical Guideline (width/2) (FontLab 9)
 """
 Description:
     Adds a dynamic local vertical guideline with the expression "width/2" to the

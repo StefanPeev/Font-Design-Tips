@@ -1,4 +1,4 @@
-#FLM: Stem Finder Pro
+#FLM: Stem Finder Pro (FontLab 9)
 # SCRIPT NAME: Stem Finder Pro (Vertical & Horizontal)
 # DESCRIPTION: Finds vertical and horizontal stems (straight and curved) by a
 #              specified target width and tolerance in FontLab 9, filters short

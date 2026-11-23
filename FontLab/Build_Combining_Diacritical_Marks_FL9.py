@@ -1,4 +1,4 @@
-#FLM: Build Combining Diacritical Marks
+#FLM: Build Combining Diacritical Marks (FontLab 9)
 # -----------------------------------------------------------------------------
 # SCRIPT NAME: Build Combining Diacritical Marks
 # DESCRIPTION: Finds spacing diacritic glyphs in the active font that have a

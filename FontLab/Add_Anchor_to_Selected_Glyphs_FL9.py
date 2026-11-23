@@ -1,4 +1,4 @@
-#FLM: Add Anchor to Selected Glyphs
+#FLM: Add Anchor to Selected Glyphs (FontLab 9)
 #
 # SCRIPT NAME: Add Anchor to Selected Glyphs
 # DESCRIPTION: Adds or updates a named anchor on selected glyphs across the
