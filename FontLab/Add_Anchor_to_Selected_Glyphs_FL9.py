@@ -6,7 +6,7 @@
 #              alignment (Advance Width / 2, Bounding Box Center, vertical font
 #              metrics), italic angle compensation, skip-existing control, and
 #              persistent settings.
-# COPYRIGHT:   (c) 2026 Stefan Peev (https://github.com). All rights reserved.
+# COPYRIGHT:   (c) 2026 Stefan Peev (https://github.com/StefanPeev). All rights reserved.
 #
 # DISCLAIMER:
 # This script is provided "as is", without warranty of any kind, express or
