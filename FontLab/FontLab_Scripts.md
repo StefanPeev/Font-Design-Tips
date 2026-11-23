@@ -17,7 +17,7 @@ A collection of Python 3.11 + PythonQt automation scripts for **FontLab 9**, des
    - [2. Add Center Vertical Guideline (`width/2`)](#2-add-center-vertical-guideline-width2)
    - [3. Adjust Anchors (FontLab 9)](#3-adjust-anchors-fontlab-9)
    - [4. Anchor Names (FontLab 9)](#4-anchor-names-fontlab-9)
-   - [5. Build Combining Diacritical Marks](#5-build-combining-diacritical-marks)
+   - [5. Build Combining Diacritical Marks](#5-build-combining-diacritical-marks-fontlab-9)
    - [6. Select Glyphs by Anchor (FontLab 9)](#6-select-glyphs-by-anchor-fontlab-9)
    - [7. Stem Finder Pro (Vertical & Horizontal)](#7-stem-finder-pro-vertical--horizontal)
 
@@ -143,13 +143,9 @@ An interactive non-modal dialog for precision coordinate tuning of anchors in Fo
 
 A Python script for **FontLab 9** that ensures consistent anchor sets across all masters in a font by synchronizing missing anchor names on base glyphs.
 
----
-
 ## Overview
 
 When building variable fonts or multi-master typefaces, mismatched anchor sets between masters can break anchor interpolation and mark positioning. **Anchor Names** automates the cleanup process by scanning all base glyphs, copying missing anchors from existing masters, and highlighting every modified glyph so you can fine-tune anchor coordinates manually.
-
----
 
 ## Features
 
@@ -158,13 +154,9 @@ When building variable fonts or multi-master typefaces, mismatched anchor sets b
 * **Smart Font Window Selection**: Automatically selects all modified base glyphs in the Font Window upon completion for quick visual inspection and manual positioning.
 * **Detailed Console Logging**: Prints a clear summary of checked masters, added anchors per master, skipped composite count, and modified glyphs to FontLab's Output panel.
 
----
-
 ## Requirements
 
 * **FontLab 9** (with built-in Python 3 scripting support)
-
----
 
 ## Installation
 
@@ -177,8 +169,6 @@ When building variable fonts or multi-master typefaces, mismatched anchor sets b
 4. Place the `.py` file inside the `Scripts` folder (or a subfolder of your choice).
 5. In FontLab 9, choose **Scripts > Update Scripts** (or restart FontLab) to make the script appear in the **Scripts** menu.
 
----
-
 ## Usage
 
 1. **Back up your font file** (`File > Save Font As...`) before running batch modification scripts.
@@ -186,8 +176,6 @@ When building variable fonts or multi-master typefaces, mismatched anchor sets b
 3. Run the script from **Scripts > Anchor Names** (or paste and run it inside the **Scripting** panel).
 4. Review the **Output** panel to see which anchors were added to each base glyph and master.
 5. Inspect the highlighted glyphs in the **Font Window** and adjust the newly added anchor positions as needed.
-
----
 
 ### Example Output
 
@@ -203,8 +191,6 @@ Skipped 142 composite glyphs.
 Added missing anchors in 2 base glyph(s).
 Modified base glyphs have been selected in the Font Window so you can adjust anchor positions.
 ```
-
----
 
 ## License & Disclaimer
 
@@ -242,8 +228,6 @@ SOFTWARE.
 
 A Python script for **FontLab 9** that finds spacing diacritic glyphs in the active font with Unicode equivalents in the Combining Diacritical Marks block (`U+0300`–`U+036F`), creates or updates each corresponding combining mark glyph across all masters, places the source glyph as a linked Element Reference optically centered along each master's italic angle, and sets the advance width to zero.
 
----
-
 ## Features
 
 - **Automatic Source Discovery:** Searches the active font by both glyph name (e.g., `acute`, `grave`, `dieresis`, `cedilla`) and spacing Unicode codepoint (e.g., `U+00B4`, `U+0060`, `U+00A8`, `U+00B8`) across 30 standard diacritic mappings.
@@ -252,8 +236,6 @@ A Python script for **FontLab 9** that finds spacing diacritic glyphs in the act
 - **Italic-Aware Optical Centering:** Computes the horizontal center of each source glyph's bounding box relative to its vertical midpoint and aligns it along each master's `italicAngle` (`center_y * tan(-italicAngle)`).
 - **Multi-Master Processing:** Processes every master layer in the font in a single run.
 - **Clean Rebuild & Zero Advance Width:** Clears old shapes and `_top`/`_bottom` anchors on the target layer before placing the updated component and sets `advanceWidth = 0`.
-
----
 
 ## Supported Diacritic Mappings
 
@@ -290,13 +272,9 @@ A Python script for **FontLab 9** that finds spacing diacritic glyphs in the act
 | `lowline` | — | `lowlinecomb` / `uni0332` | `U+0332` |
 | `dbloverline` | — | `dbloverlinecomb` / `uni033F` | `U+033F` |
 
----
-
 ## Requirements
 
 - **FontLab 9** (macOS or Windows)
-
----
 
 ## Installation
 
@@ -307,21 +285,15 @@ A Python script for **FontLab 9** that finds spacing diacritic glyphs in the act
 3. Place the `.py` file inside the **Scripts** folder (or a subfolder).
 4. Click **Scripts > Update Scripts** (or restart FontLab). The script will appear as **Build Combining Diacritical Marks (FontLab 9)**.
 
----
-
 ## Usage
 
 1. Open a font containing spacing diacritic glyphs in **FontLab 9**.
 2. Run **Scripts > Build Combining Diacritical Marks (FontLab 9)**.
 3. Open **Window > Panels > Output** to view the list of created or updated combining mark glyphs and their assigned Unicode codepoints.
 
----
-
 ## License & Disclaimer
 
 **Copyright (c) 2026 Stefan Peev (https://github.com). All rights reserved.**
-
----
 
 ### MIT License
 
@@ -331,8 +303,147 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
----
-
 ### Disclaimer
 
 This script is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from the use of this script. Use at your own risk.
+
+---
+
+# Select Glyphs by Anchor (FontLab 9)
+
+A Python script for **FontLab 9** that scans master layers for anchor names, provides a live preview of matching glyphs, and allows you to select them in the Font Window or open them directly in a Glyph Window tab.
+
+## Features
+
+- **Automatic Anchor Discovery:** Scans all master layers in the active font and populates a searchable, editable dropdown list of existing anchor names.
+- **Flexible Search Scopes & Filters:**
+  - **Any Master (Default):** Matches glyphs containing the target anchor in at least one master layer.
+  - **Active Master Only:** Restricts the search to the currently active master layer.
+  - **Require in ALL Masters:** Ensures the target anchor is present across every master layer in the font (useful for checking variable font / multi-master consistency).
+  - **Invert Match:** Finds glyphs *missing* the specified anchor across the selected scope.
+- **Live Preview & Quick Inspection:** Displays a real-time count and scrollable list of matching glyph names. Double-clicking any glyph in the preview list immediately selects and opens it in a Glyph Window tab.
+- **Batch Actions & Safety Guards:**
+  - **Select in Font Window:** Highlights matching glyphs in the Font Window, with an option to append to your existing selection.
+  - **Open in Glyph Window:** Opens matching glyphs in a new Glyph Window tab, featuring a built-in safety prompt when opening more than 150 glyphs at once.
+
+## Requirements
+
+- **FontLab 9** (uses `fontlab`, `FL`, and `PythonQt` modules included with FontLab)
+
+## Installation
+
+1. Download or clone this repository, or save the script as `Select Glyphs by Anchor.py`.
+2. Open **FontLab 9**.
+3. Go to **Scripts > Open Scripts Folder** (or place the `.py` file inside your FontLab `Scripts` directory).
+4. In FontLab, select **Scripts > Update / Rescan Scripts** (or restart FontLab) so the script appears in your **Scripts** menu.
+
+## Usage
+
+1. Open a font in **FontLab 9**.
+2. Run **Scripts > Select Glyphs by Anchor (FontLab 9)**.
+3. Choose an existing anchor from the **Anchor name** dropdown or type a custom anchor name.
+4. *(Optional)* Adjust the **Search Scope & Filter** checkboxes (`Search in active master only`, `Require anchor in ALL masters`, or `Invert match`).
+5. Review the matching glyphs in the live preview list:
+   - **Double-click** a single glyph name to jump straight to it in a Glyph Window.
+   - Check **Add to current Font Window selection** if you want to preserve your existing selection.
+   - Click **Select in Font Window** or **Open in Glyph Window** to apply the action to all matched glyphs.
+
+## License
+
+MIT License
+
+Copyright (c) 2026 Stefan Peev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+# Stem Finder Pro (FontLab 9)
+
+A Python utility script for **FontLab 9** that detects vertical and horizontal stems (both straight segments and curved extrema) matching a target width and tolerance, highlights the corresponding stem nodes, copies the matched glyph string to the clipboard, and opens matched glyphs in a new Glyph Window.
+
+## Features
+
+- **Vertical & Horizontal Stem Detection**: Scans glyph contours for parallel vertical or horizontal stem edges within a configurable **Target Stem Width** and **Tolerance (+/-)**.
+- **Curved Stem Support**: Optionally detects extrema on curved contours (such as `O`, `C`, and `S`) by analyzing on-curve nodes paired with vertical or horizontal off-curve handles.
+- **Serif Filtering**: Uses a **Minimum Stem Length** threshold (`Min. Stem Length (serif filter)`) to exclude short serif edges and small contour details.
+- **Multi-Master & Selection Scopes**:
+  - Scan either the **active master** or **all masters** across the font.
+  - Restrict the search to **selected glyphs only** or scan the entire font.
+- **Visual Node Highlighting**: Automatically selects the matching stem nodes on the inspected layers and updates the glyphs for immediate visual inspection.
+- **Batch Output & Glyph Window Integration**:
+  - Prints detailed per-glyph and per-master measurements (`width`, `start`, `end`, `straight`/`curve`) to FontLab's Output panel.
+  - Displays a slash-separated glyph string (e.g., `/H/I/O/n`) in the dialog and copies it directly to the system clipboard.
+  - Selects matched glyphs in the Font Window and opens them in a new Glyph Window/tab.
+
+## Requirements
+
+- **FontLab 9** (with built-in Python 3 and `PythonQt` / `fontlab` / `fontgate` / `FL` modules)
+
+## Installation
+
+1. Download or clone this repository to get `Stem Finder Pro.py` (or save the script file locally).
+2. Open **FontLab 9**.
+3. Open the **Scripts** panel (**Window > Panels > Scripts**), or locate your FontLab 9 user `Scripts` folder via **Preferences > Folders**.
+4. Copy the script into your FontLab `Scripts` directory and click the **Reload** button in the Scripts panel if needed.
+
+## Usage
+
+1. Open a font in **FontLab 9**.
+2. Run **Stem Finder Pro (FontLab 9)** from the **Scripts** panel (or via **Scripts > Update / Run**).
+3. Configure your search parameters in the dialog:
+   - **Target Stem Width**: Desired stem thickness in font units (default: `22.0`).
+   - **Tolerance (+/-)**: Allowed deviation from the target width in font units (default: `1.0`).
+   - **Min. Stem Length (serif filter)**: Minimum segment length required to qualify as a straight stem (default: `5.0`).
+   - **Include curved stems (O, C, S)**: Include curved extrema alongside straight segments.
+   - **Scan all masters**: Check every master in the font instead of only the active master.
+   - **Search selected glyphs only**: Limit scanning to glyphs currently selected in the Font Window.
+4. Click **1. Find Vertical Stems** or **2. Find Horizontal Stems**.
+5. Review the results:
+   - Matched glyphs are selected in the Font Window, opened in a Glyph Window tab, and copied to your clipboard as `/glyph1/glyph2/...`.
+   - Matching stem nodes are highlighted directly on the contours.
+   - Detailed stem coordinates and types are logged in FontLab's Output panel.
+
+## Disclaimer
+
+This script is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from the use of this script. Use at your own risk.
+
+## License
+
+MIT License
+
+Copyright (c) 2026 Stefan Peev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
