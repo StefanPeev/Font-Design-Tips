@@ -17,8 +17,9 @@ A collection of Python 3.11 + PythonQt automation scripts for **FontLab 9**, des
    - [3. Adjust Anchors (FontLab 9)](#3-adjust-anchors-fontlab-9)
    - [4. Anchor Names (FontLab 9)](#4-anchor-names-fontlab-9)
    - [5. Build Combining Diacritical Marks (FontLab 9)](#5-build-combining-diacritical-marks-fontlab-9)
-   - [6. Select Glyphs by Anchor (FontLab 9)](#6-select-glyphs-by-anchor-fontlab-9)
-   - [7. Stem Finder Pro (FontLab 9)](#7-stem-finder-pro-fontlab-9)
+   - [6. Compare Two Open Fonts (FontLab 9)](#6-compare-two-open-fonts-fontlab-9)
+   - [7. Select Glyphs by Anchor (FontLab 9)](#7-select-glyphs-by-anchor-fontlab-9)
+   - [8. Stem Finder Pro (FontLab 9)](#8-stem-finder-pro-fontlab-9)
 5. [License & Disclaimer](#license--disclaimer)
 
 ---
@@ -32,8 +33,9 @@ A collection of Python 3.11 + PythonQt automation scripts for **FontLab 9**, des
 | [**Adjust Anchors (FontLab 9)**](#3-adjust-anchors-fontlab-9) | `Adjust_Anchors_FL9.py` | Interactive dialog with nudge buttons and keyboard shortcuts (`±1`, `±5`, `±20`) for real-time anchor tuning. | All Masters |
 | [**Anchor Names (FontLab 9)**](#4-anchor-names-fontlab-9) | `Anchor_Names_FL9.py` | Audits base glyphs across masters (skipping composites) and copies missing anchors into remaining masters. | All Masters |
 | [**Build Combining Diacritical Marks (FontLab 9)**](#5-build-combining-diacritical-marks-fontlab-9) | `Build_Combining_Diacritical_Marks_FL9.py` | Generates or updates zero-width combining marks (`U+0300`–`U+036F`) from spacing marks as italic-centered Element References. | All Masters |
-| [**Select Glyphs by Anchor (FontLab 9)**](#6-select-glyphs-by-anchor-fontlab-9) | `Select_Glyphs_by_Anchor_FL9.py` | Filters and previews glyphs by anchor presence/absence and selects or opens them in a Glyph Window. | Active or All Masters |
-| [**Stem Finder Pro (FontLab 9)**](#7-stem-finder-pro-fontlab-9) | `Stem_Finder_Pro_FL9.py` | Locates straight and curved stems matching a target width `± tolerance`, highlights nodes, and opens matched glyphs. | Active or All Masters |
+| [**Compare Two Open Fonts (FontLab 9)**](#6-compare-two-open-fonts-fontlab-9) | `Compare_Two_Open_Fonts_FL9.py` | A Python script for **FontLab 9** that compares the glyph sets of two currently open fonts and generates a clean, structured text report of the missing glyphs in each font. |  |
+| [**Select Glyphs by Anchor (FontLab 9)**](#7-select-glyphs-by-anchor-fontlab-9) | `Select_Glyphs_by_Anchor_FL9.py` | Filters and previews glyphs by anchor presence/absence and selects or opens them in a Glyph Window. | Active or All Masters |
+| [**Stem Finder Pro (FontLab 9)**](#8-stem-finder-pro-fontlab-9) | `Stem_Finder_Pro_FL9.py` | Locates straight and curved stems matching a target width `± tolerance`, highlights nodes, and opens matched glyphs. | Active or All Masters |
 
 ---
 
@@ -222,7 +224,27 @@ Finds spacing diacritic glyphs in the active font with Unicode equivalents in th
 
 ---
 
-### 6. Select Glyphs by Anchor (FontLab 9)
+### 6. Compare Two Open Fonts (FontLab 9)
+
+**File:** `Compare_Two_Open_Fonts_FL9.py`
+
+A Python script for **FontLab 9** that compares the glyph sets of two currently open fonts and generates a clean, structured text report of the missing glyphs in each font.
+
+#### Features
+* **Two-Way Comparison:** Identifies glyphs present in Font 2 that are missing in Font 1, and vice versa.
+* **Smart Naming:** Automatically extracts the font family and style names from font metadata (falling back to the file name if metadata is unavailable).
+* **Dual Output:** Prints the comparison report directly to FontLab's **Output** panel and prompts you to save the results as a UTF-8 encoded `.txt` file.
+* **Zero Dependencies:** Uses only FontLab 9's built-in Python API and standard Python libraries (`os`).
+
+#### Usage
+1. Open the **two fonts** you want to compare in FontLab 9. *(Note: The script compares the first two open fonts in the workspace, so make sure only the target pair is open or that they are the first two tabs).*
+2. Run the script via **Scripts > Compare Two Open Fonts** (or paste and run it inside **Window > Panels > Scripting**).
+3. View the immediate summary in **Window > Panels > Output**.
+4. Choose a destination folder and file name in the save dialog to export the `.txt` report.
+
+---
+
+### 7. Select Glyphs by Anchor (FontLab 9)
 
 **File:** `Select_Glyphs_by_Anchor_FL9.py`
 
@@ -250,9 +272,30 @@ Scans master layers for anchor names, provides a live preview of matching glyphs
    * Check **Add to current Font Window selection** if you want to preserve your existing selection.
    * Click **Select in Font Window** or **Open in Glyph Window** to apply the action to all matched glyphs.
 
+#### Example Output
+
+```text
+GLYPH COMPARISON REPORT
+==================================================
+Font 1: Common Serif Regular (Total glyphs: 850)
+Font 2: Common Serif Italic (Total glyphs: 842)
+==================================================
+
+Missing in 'Common Serif Regular' (2 glyphs):
+--------------------------------------------------
+f_f_i.alt
+germandbls.calt
+
+Missing in 'Common Serif Italic' (10 glyphs):
+--------------------------------------------------
+Aogonek
+Eogonek
+...
+```
+
 ---
 
-### 7. Stem Finder Pro (FontLab 9)
+### 8. Stem Finder Pro (FontLab 9)
 
 **File:** `Stem_Finder_Pro_FL9.py`
 
