@@ -242,6 +242,27 @@ A Python script for **FontLab 9** that compares the glyph sets of two currently 
 3. View the immediate summary in **Window > Panels > Output**.
 4. Choose a destination folder and file name in the save dialog to export the `.txt` report.
 
+#### Example Output
+
+```text
+GLYPH COMPARISON REPORT
+==================================================
+Font 1: Common Serif Regular (Total glyphs: 850)
+Font 2: Common Serif Italic (Total glyphs: 842)
+==================================================
+
+Missing in 'Common Serif Regular' (2 glyphs):
+--------------------------------------------------
+f_f_i.alt
+germandbls.calt
+
+Missing in 'Common Serif Italic' (10 glyphs):
+--------------------------------------------------
+Aogonek
+Eogonek
+...
+```
+
 ---
 
 ### 7. Select Glyphs by Anchor (FontLab 9)
@@ -271,27 +292,6 @@ Scans master layers for anchor names, provides a live preview of matching glyphs
    * **Double-click** a single glyph name to jump straight to it in a Glyph Window.
    * Check **Add to current Font Window selection** if you want to preserve your existing selection.
    * Click **Select in Font Window** or **Open in Glyph Window** to apply the action to all matched glyphs.
-
-#### Example Output
-
-```text
-GLYPH COMPARISON REPORT
-==================================================
-Font 1: Common Serif Regular (Total glyphs: 850)
-Font 2: Common Serif Italic (Total glyphs: 842)
-==================================================
-
-Missing in 'Common Serif Regular' (2 glyphs):
---------------------------------------------------
-f_f_i.alt
-germandbls.calt
-
-Missing in 'Common Serif Italic' (10 glyphs):
---------------------------------------------------
-Aogonek
-Eogonek
-...
-```
 
 ---
 
